@@ -1,0 +1,38 @@
+# Getting In: VA, ID.me and Social Security from abroad
+
+> A free guide for veterans, widows and widowers outside the US: signing in to VA.gov with ID.me, what goes wrong and the way through, claims on paper with no login, spotting scammers, and who to call.
+
+Checked against VA, ID.me, Login.gov and Social Security pages on 2026-10-20. Free. Made by Hongdam for Chiang Mai Visa Desk.
+
+## Languages
+
+- [English](https://nanobotco.github.io/getting-in/): plain text at https://nanobotco.github.io/getting-in/guide.txt
+- [Español](https://nanobotco.github.io/getting-in/es/): plain text at https://nanobotco.github.io/getting-in/es/guide.txt
+- [Filipino](https://nanobotco.github.io/getting-in/tl/): plain text at https://nanobotco.github.io/getting-in/tl/guide.txt
+- [ไทย](https://nanobotco.github.io/getting-in/th/): plain text at https://nanobotco.github.io/getting-in/th/guide.txt
+- [Tiếng Việt](https://nanobotco.github.io/getting-in/vi/): plain text at https://nanobotco.github.io/getting-in/vi/guide.txt
+- [한국어](https://nanobotco.github.io/getting-in/ko/): plain text at https://nanobotco.github.io/getting-in/ko/guide.txt
+- [日本語](https://nanobotco.github.io/getting-in/ja/): plain text at https://nanobotco.github.io/getting-in/ja/guide.txt
+- [Deutsch](https://nanobotco.github.io/getting-in/de/): plain text at https://nanobotco.github.io/getting-in/de/guide.txt
+- [Italiano](https://nanobotco.github.io/getting-in/it/): plain text at https://nanobotco.github.io/getting-in/it/guide.txt
+- [简体中文](https://nanobotco.github.io/getting-in/zh/): plain text at https://nanobotco.github.io/getting-in/zh/guide.txt
+- [ພາສາລາວ](https://nanobotco.github.io/getting-in/lo/): plain text at https://nanobotco.github.io/getting-in/lo/guide.txt
+- [ភាសាខ្មែរ](https://nanobotco.github.io/getting-in/km/): plain text at https://nanobotco.github.io/getting-in/km/guide.txt
+
+## Sections
+
+- Before you start (documents, phone, email)
+- Which sign-in works from abroad (ID.me, Login.gov, CLEAR)
+- ID.me from abroad, step by step
+- When it goes wrong (19 problems and the way through)
+- When a veteran has died
+- No login: post, fax and phone (addresses)
+- Phone lines from abroad
+- Free help (accredited VSOs)
+- Scammers: signs and what to do
+- In Thailand
+- If it is too much (crisis lines)
+
+## Full text
+
+- [English guide.txt](https://nanobotco.github.io/getting-in/guide.txt)

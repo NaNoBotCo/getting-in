@@ -1,0 +1,258 @@
+VÀO ĐƯỢC TÀI KHOẢN: VA, ID.ME VÀ AN SINH XÃ HỘI TỪ NƯỚC NGOÀI
+https://nanobotco.github.io/getting-in/vi/
+Lưu lại để dùng khi cần, gửi cho một người bạn
+Đã đối chiếu với các trang chính thức ngày 20 tháng 10 năm 2026.
+
+Đăng nhập từ nước ngoài hay trục trặc ở nhiều chỗ: mã mãi không đến, giấy tờ bị từ chối, cuộc gọi video giữa đêm, mật khẩu của người đã mất. Trang này nêu từng chỗ hay trục trặc và cách vượt qua, những cách làm không cần đăng nhập, và cách phân biệt người giúp đỡ với kẻ lừa đảo.
+
+
+TRƯỚC KHI BẮT ĐẦU
+ID.me kiểm tra danh tính của Quý vị trong hai đợt: trước hết Quý vị tải giấy tờ lên; khi giấy tờ được chấp thuận, thường trong vòng một ngày, Quý vị có thể đặt lịch gọi video với một nhân viên ở Mỹ. Chuẩn bị sẵn mọi thứ dưới đây sẽ đỡ phải làm thêm đợt thứ ba và thứ tư.
+
+Giấy tờ: bản gốc, không phải bản sao
+[ ] Hộ chiếu của Quý vị, còn hạn. Hộ chiếu của bất kỳ nước nào cũng có thể được tính.
+[ ] Sao kê ngân hàng hoặc hóa đơn tiền điện chưa quá một năm, ghi địa chỉ hiện tại của Quý vị.
+[ ] Số An sinh Xã hội Hoa Kỳ (SSN) của Quý vị, nếu có.
+[ ] Với người mất chồng hoặc mất vợ: giấy chứng nhận kết hôn và giấy chứng tử.
+[ ] Giấy DD214 (giấy xuất ngũ) của cựu chiến binh và số hồ sơ VA (Bộ Cựu chiến binh Hoa Kỳ, US Department of Veterans Affairs), nếu có.
+[ ] Bản dịch tiếng Anh của mọi giấy tờ không viết bằng tiếng Anh.
+
+Điện thoại
+[ ] Số điện thoại của chính Quý vị, không phải số của người phối ngẫu đã mất, và nhận được tin nhắn văn bản.
+[ ] Đã sạc đầy, nối wifi, và đã tắt chế độ tự khóa màn hình.
+[ ] Camera trước dùng được.
+[ ] iPhone: “Settings > Camera > Formats > Most Compatible” (Cài đặt > Camera > Định dạng > Tương thích nhất), và tắt “Live Photos” (Ảnh động). Các định dạng ảnh khác bị từ chối.
+
+Email
+[ ] Một địa chỉ email của chính Quý vị, mở được ngay hôm nay, và mật khẩu đã ghi ra giấy.
+
+Tên, ngày tháng và địa chỉ
+[ ] Tên của Quý vị viết giống nhau trên mọi giấy tờ, hoặc một danh sách mọi cách viết.
+[ ] Năm trên giấy tờ Thái tính theo Phật lịch (Buddhist Era) (2510) cần ghi thêm năm dương lịch bên cạnh (1967).
+[ ] Địa chỉ của Quý vị gõ đúng như sao kê ngân hàng in, từng chữ một.
+
+Hãy dự định hai đợt ngay từ đầu. Đợt một: tài khoản, mã xác minh, giấy tờ. Đợt hai: cuộc gọi video, rồi quay lại VA.gov để nhấn “Allow” (Cho phép).
+
+NẾU QUÝ VỊ ĐANG GIÚP MỘT NGƯỜI
+- Trước hết, hãy ghi lại những gì cần lấy từ điện thoại và máy tính cũ: địa chỉ email, mật khẩu, số điện thoại. Thiết bị cũ thường không mở được ID.me.
+- Đọc và gõ trên một thiết bị đời mới. Ảnh giấy tờ và ảnh tự chụp mặt (selfie) làm tốt nhất trên điện thoại của chính người đó.
+- Tắt mọi VPN. ID.me chặn nhiều VPN (lỗi 1015).
+- Đọc to và dịch từng màn hình. ID.me có tiếng Anh và tiếng Tây Ban Nha; thông dịch viên tiếng Thái hoặc ngôn ngữ khác chỉ có khi cuộc gọi video đã bắt đầu.
+- Người đó có thể xin thông dịch viên trong cuộc gọi video, và một người nhà hoặc người giúp được ngồi bên cạnh. Người đứng tên giấy ủy quyền (power of attorney) không được nói thay trong cuộc gọi.
+- Ghi lại việc đã dừng ở đâu và vì sao, để đợt sau bắt đầu từ chỗ đó.
+
+CÁCH ĐĂNG NHẬP NÀO DÙNG ĐƯỢC TỪ NƯỚC NGOÀI
+VA.gov chấp nhận ba cách đăng nhập. DS Logon đã ngừng từ ngày 18 tháng 11 năm 2025 và đăng nhập My HealtheVet đã ngừng từ ngày 5 tháng 3 năm 2025.
+- ID.me: Được, qua đường dành cho người ở nước ngoài và một cuộc gọi video. Cần có: Hộ chiếu và giấy tờ chứng minh địa chỉ. Hộ chiếu không phải của Mỹ vẫn có thể được tính.
+- Login.gov: Khó. Login.gov từ chối hộ chiếu và giấy tờ tùy thân không phải của Mỹ, và số điện thoại quốc tế. Việc kiểm tra trực tiếp chỉ có tại các bưu điện Mỹ. Cần có: Giấy tờ tùy thân hoặc hộ chiếu Mỹ, SSN, số điện thoại Mỹ hoặc một lá thư gửi qua bưu điện.
+- CLEAR: Không dùng được với phần lớn người ở nước ngoài. Cần có: SSN.
+Login.gov có đưa người dùng quốc tế vào kế hoạch năm 2027. Cho đến lúc đó, ID.me là đường đi của phần lớn người ở ngoài nước Mỹ.
+
+ID.ME TỪ NƯỚC NGOÀI, TỪNG BƯỚC
+1. Bắt đầu từ VA.gov
+Vào VA.gov, chọn “Sign in” (Đăng nhập), rồi chọn ID.me. Tạo tài khoản bằng địa chỉ email của chính Quý vị.
+2. Mã xác minh
+Cài hai cách nhận mã: tin nhắn văn bản gửi đến số của Quý vị, và ứng dụng ID.me Authenticator hoặc khóa truy cập (passkey). Nếu tin nhắn không đến, ứng dụng vẫn dùng được.
+3. Chọn đường dành cho người ở nước ngoài
+ID.me hiện hai nút lớn, “Self-Service” (Tự làm) và “Video Call” (Gọi video), cùng một liên kết nhỏ hơn, “I don't live in the United States” (Tôi không sống ở Hoa Kỳ) hoặc “I don't have the above documents” (Tôi không có các giấy tờ nêu trên). Liên kết nhỏ là đường dành cho người ở nước ngoài. Hai nút lớn đòi giấy tờ của Mỹ.
+4. Quốc gia và SSN
+Chọn nước của Quý vị ở mục địa chỉ hiện tại. Nhập SSN nếu Quý vị có.
+5. Tải giấy tờ lên
+Hai giấy tờ chính, hoặc một giấy tờ chính và một giấy tờ phụ. Hộ chiếu là giấy tờ chính; sao kê ngân hàng hoặc hóa đơn tiền điện là giấy tờ phụ. Giấy tờ không viết bằng tiếng Anh được đặt cạnh bản dịch tiếng Anh, chụp chung trong một tấm ảnh. ID.me có thể nhắn cho Quý vị một liên kết để chụp ảnh bằng điện thoại.
+6. Chờ chấp thuận
+Thường trong vòng 24 giờ, qua email. Email từ chối có tiêu đề “Action Required: Update your document(s)” (Cần hành động: cập nhật giấy tờ của Quý vị) và có một nút để gửi lại giấy tờ.
+7. Đặt lịch gọi video
+Có thể đặt lịch trước tối đa 10 ngày, và từ 2 giờ trước trong cùng ngày. Giờ hiển thị theo giờ địa phương của Quý vị. Đặt lịch giúp khỏi phải đứng chờ trong hàng đợi; rời hàng đợi thì bị xếp xuống cuối hàng.
+8. Cuộc gọi video
+Cầm sẵn giấy tờ gốc trên tay; bản sao và ảnh chụp bị từ chối, giấy tờ có viết thêm lên cũng bị từ chối. Có thể xin thông dịch viên nói tiếng của Quý vị. Nhân viên xác nhận họ tên, ngày sinh, địa chỉ và SSN của Quý vị.
+9. Quay lại VA.gov
+Mở một thẻ (tab) mới, vào VA.gov, đăng nhập lại bằng ID.me, rồi nhấn “Allow” (Cho phép). Nhấn “Deny” (Từ chối) sẽ hạn chế những gì VA.gov hiện cho Quý vị xem.
+
+Không có số An sinh Xã hội
+ID.me có một đường cho hộ chiếu không phải của Mỹ mà không có SSN: hộ chiếu, giấy tờ chứng minh cùng một địa chỉ, và một ô xác nhận rằng chưa từng được cấp SSN hay ITIN. Trang riêng của VA.gov nói rằng nếu không có SSN thì cần hộ chiếu Mỹ. Việc VA.gov áp dụng quy định nào cho người mất chồng hoặc mất vợ cầm hộ chiếu nước ngoài thì cả hai trang đều chưa rõ. Nếu Quý vị thử, hãy giữ ảnh chụp của từng màn hình.
+
+KHI CÓ TRỤC TRẶC
+? Mã gửi qua tin nhắn mãi không đến.
+  Tin nhắn gửi đến một số nước đến chậm hoặc không đến. Nhấn “Resend” (Gửi lại), rồi “Call me” (Gọi cho tôi). Cách thứ hai cài sẵn từ trước, ứng dụng ID.me Authenticator hoặc khóa truy cập (passkey), dùng được mà không cần tin nhắn.
+? “We couldn't verify your browser” (Chúng tôi không xác minh được trình duyệt của bạn) hoặc “Something isn't right” (Có điều gì đó không ổn).
+  Trình duyệt quá cũ, hoặc JavaScript đang tắt. Dùng Chrome, Safari, Edge hoặc Firefox bản mới, không cài tiện ích mở rộng.
+? Lỗi 1015, “unusual activity” (hoạt động bất thường).
+  Đang bật VPN hoặc proxy. Hãy tắt đi và thử lại.
+? Ảnh không tải lên được.
+  Ảnh iPhone định dạng HEIC và Live Photos bị từ chối. Vào “Settings > Camera > Formats > Most Compatible” (Cài đặt > Camera > Định dạng > Tương thích nhất).
+? “A translation is required.” (Cần có bản dịch.)
+  Giấy tờ không viết bằng tiếng Anh phải được chụp cạnh bản dịch tiếng Anh, cả hai trong một tấm ảnh.
+? Tên trên giấy tờ này không khớp với giấy tờ kia.
+  Tên viết bằng chữ Thái, Lào, Khmer, Hàn, Trung và các chữ viết khác được viết sang tiếng Anh theo nhiều cách khác nhau trên các giấy tờ khác nhau. Mang theo mọi giấy tờ có ghi tên, và một bản dịch viết tên theo đúng cách viết trong hộ chiếu.
+? Địa chỉ không khớp.
+  Ngân hàng và công ty điện nước có thể viết cùng một địa chỉ theo kiểu tiếng Anh khác nhau. Hãy gõ địa chỉ đúng như giấy tờ Quý vị tải lên in.
+? Ngày tháng trông không đúng.
+  Giấy tờ Thái tính năm theo Phật lịch, hơn năm dương lịch 543 năm: 2510 là năm 1967. Bản dịch có thể ghi cả hai.
+? “This account already exists.” (Tài khoản này đã tồn tại.)
+  Mỗi người chỉ có một tài khoản ID.me đã xác minh. Thông báo có thể chỉ hiện chữ cái đầu và phần cuối của địa chỉ email. Manh mối đó cho Quý vị biết địa chỉ email cũ nào đang giữ tài khoản.
+? Hàng đợi cuộc gọi video dài hàng giờ.
+  Các nhân viên ở Mỹ. Hãy đặt lịch thay vì xếp hàng; việc đặt lịch mở ra khi giấy tờ đã được chấp thuận.
+? Điện thoại tự chuyển sang chế độ ngủ và cuộc gọi bị ngắt.
+  Tắt tự khóa màn hình, cắm sạc, giữ kết nối wifi, và đặt lịch lại.
+? Nhân viên từ chối giấy tờ.
+  Bản sao, ảnh chụp giấy tờ, hộ chiếu hết hạn, giấy tờ tùy thân tạm thời và giấy tờ có viết thêm lên đều bị từ chối. Ánh sáng chói và nếp gấp cũng có thể làm hỏng. Hãy dùng bản gốc, để phẳng, ở chỗ đủ sáng.
+? Sau ID.me, VA.gov báo lỗi.
+  Phiên làm việc trên VA.gov đã hết hạn trong lúc Quý vị rời đi. Đóng thẻ đó, mở một thẻ mới, đăng nhập lại và nhấn “Allow” (Cho phép).
+? Số điện thoại đã đổi.
+  Số mới nghĩa là phải đặt lại mã xác minh trong ID.me, và đôi khi cuộc gọi video dài hơn để xác nhận đúng là Quý vị.
+? Không có ai để gọi điện ở ID.me.
+  Hỗ trợ của ID.me qua trò chuyện (chat) và biểu mẫu trực tuyến, bằng tiếng Anh và tiếng Tây Ban Nha. Chat là nhanh nhất, khi có chính người đó ngồi bên cạnh.
+? Tin nhắn từ ID.me trông giống của kẻ lừa đảo.
+  ID.me gửi mã và liên kết qua tin nhắn và email bằng tiếng Anh. Hãy chờ chúng trong các đợt làm việc; tin nhắn Quý vị không hề yêu cầu, từ người muốn Quý vị đọc lại mã, là của kẻ lừa đảo.
+? Login.gov hoặc CLEAR không chấp nhận Quý vị.
+  Cả hai đều cần số An sinh Xã hội Hoa Kỳ, và Login.gov cần giấy tờ của Mỹ. ID.me là đường đi từ nước ngoài.
+? Quý vị không biết còn được thử mấy lần.
+  ID.me không công bố giới hạn. Sau hai lần thất bại ở cùng một bước, bước tiếp theo là đường cuộc gọi video.
+? Cách nào cũng không được.
+  Phần lớn hồ sơ có thể nộp trên giấy qua đường bưu điện hoặc fax, không cần đăng nhập. Xem phần dưới đây.
+
+KHI CỰU CHIẾN BINH ĐÃ MẤT
+Dành cho người mất chồng hoặc mất vợ. Mỗi bước đều có đường làm trên giấy ở phần dưới.
+Tài khoản của người đã mất không phải của Quý vị
+Tài khoản ID.me và VA.gov của cựu chiến binh gắn với danh tính của người đó, và mã xác minh gửi đến điện thoại và email của người đó. VA thu hồi các khoản tiền đã chi sau khi người đó mất. Người vợ hoặc chồng còn sống cần một tài khoản riêng của mình, hoặc dùng đường làm trên giấy.
+Báo tin người mất
+Cho VA, bằng điện thoại hoặc gửi thư đến Claims Intake Center (Trung tâm Tiếp nhận Hồ sơ). Cho An sinh Xã hội, qua Federal Benefits Unit (Đơn vị Phúc lợi Liên bang) của nước Quý vị hoặc tổng đài quốc tế. Nếu là công dân Mỹ, báo thêm cho đại sứ quán hoặc lãnh sự quán Mỹ gần nhất, nơi có thể cấp Consular Report of Death Abroad (Báo cáo Lãnh sự về Trường hợp Tử vong ở Nước ngoài).
+Phúc lợi cho thân nhân từ VA
+Bồi thường cho Thân nhân Phụ thuộc (Dependency and Indemnity Compensation, DIC), Lương hưu Thân nhân (Survivors Pension) và các khoản phúc lợi tích lũy (accrued benefits) đều dùng VA Form 21P-534EZ. Nộp trong vòng một năm kể từ ngày người đó mất, tiền có thể bắt đầu được trả từ ngày đầu tiên của tháng người đó mất.
+Chăm sóc sức khỏe: CHAMPVA
+Dành cho vợ hoặc chồng còn sống của cựu chiến binh được xếp loại tàn tật vĩnh viễn và toàn bộ, hoặc đã mất vì một bệnh liên quan đến thời gian phục vụ quân đội. VA Form 10-10d.
+Phúc lợi cho thân nhân từ An sinh Xã hội
+Qua Federal Benefits Unit. Một khoản trả một lần $255 dành cho người vợ hoặc chồng còn sống. Ở ngoài nước Mỹ, người còn sống không phải công dân Mỹ thường cần đã cư trú năm năm tại Mỹ trong thời gian hôn nhân; quy định đó không áp dụng khi cựu chiến binh mất lúc đang tại ngũ hoặc vì một bệnh liên quan đến thời gian phục vụ quân đội.
+Nhờ người giúp
+VA Form 21-0845 cho phép VA nói chuyện với một người Quý vị nêu tên. VA Form 21-22 chỉ định một tổ chức hỗ trợ cựu chiến binh (veterans service organization, VSO) hành động thay Quý vị, miễn phí.
+
+KHÔNG CẦN ĐĂNG NHẬP: QUA BƯU ĐIỆN, FAX VÀ ĐIỆN THOẠI
+Gửi bằng thư có mã theo dõi hoặc fax, và giữ một bản sao của mọi trang cùng biên nhận.
+
+DIC, Survivors Pension, accrued benefits
+Mẫu đơn: VA 21P-534EZ https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf
+Bưu điện: Department of Veterans Affairs, Pension Intake Center, PO Box 5365, Janesville, WI 53547-5365, USA
+Fax: +1 844 531 7818 · +1 248 524 4260 (Lấy từ một trang cũ; chưa được xác nhận trên trang hiện tại.)
+Nộp trong vòng một năm kể từ ngày mất, tiền có thể bắt đầu được trả từ ngày đầu tiên của tháng đó. Việc Survivors Pension có được trả cho người sống ở nước của Quý vị hay không là câu hỏi dành cho VA, trước khi Quý vị gửi hồ sơ qua bưu điện.
+
+Báo tin người mất cho VA
+Bưu điện: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Điện thoại: +1 412 395 6272
+Gửi thư làm chậm việc ngừng chi trả hơn là gọi điện.
+
+Báo tin người mất cho An sinh Xã hội, và xin phúc lợi cho thân nhân
+Bưu điện: Federal Benefits Unit, US Embassy, 1201 Roxas Boulevard, Ermita, Manila 0930, Philippines
+Fax: +63 2 8708 9714
+Điện thoại: +63 2 5301 6200 · +1 855 522 6936
+Email: FBU.Manila@ssa.gov
+Thái Lan và một số nước châu Á khác do Manila phụ trách. Các nước khác: ssa.gov/foreign liệt kê từng Federal Benefits Unit.
+
+CHAMPVA, chăm sóc sức khỏe cho vợ hoặc chồng còn sống
+Mẫu đơn: VA 10-10d https://www.va.gov/find-forms/about-form-10-10d/
+Bưu điện: VHA Office of Community Care, CHAMPVA Eligibility, PO Box 137, Spring City, PA 19475, USA
+Điện thoại: +1 800 733 8387
+
+Foreign Medical Program (Chương trình Y tế Nước ngoài, chăm sóc bệnh liên quan đến thời gian phục vụ quân đội của chính cựu chiến binh)
+Bưu điện: VHA Office of Integrated Veteran Care, Foreign Medical Program, PO Box 200, Spring City, PA 19475, USA
+Email: HAC.FMP@va.gov
+Chỉ dành cho cựu chiến binh, không dành cho vợ hoặc chồng.
+
+Cho phép người khác hành động thay Quý vị
+Mẫu đơn: VA 21-0845 · VA 21-22 · VA 21-22a https://www.va.gov/find-forms/about-form-21-0845/
+Bưu điện: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Các trang của VA không nêu địa chỉ bưu điện cho các mẫu đơn này khi gửi từ nước ngoài; Claims Intake Center có thể là nơi nhận.
+
+ĐƯỜNG DÂY ĐIỆN THOẠI GỌI TỪ NƯỚC NGOÀI
+Số của Mỹ, theo giờ miền Đông Hoa Kỳ (US Eastern). Giờ dưới đây đã đổi sang giờ của Quý vị.
+- Phúc lợi VA, gọi từ ngoài nước Mỹ: +1 412 395 6272 (Thứ Hai đến thứ Sáu, 08:00-21:00 ET)
+- Chuyển khoản trực tiếp quốc tế của VA: +1 918 781 7550 (Thứ Hai đến thứ Sáu, 09:00-17:30 ET)
+- Tổng đài quốc tế của An sinh Xã hội: +1 855 522 6936
+- CHAMPVA: +1 800 733 8387
+- Đường dây nóng của Tổng Thanh tra VA (VA Inspector General, báo gian lận): +1 800 488 8244 (Thứ Hai đến thứ Sáu, 09:30-15:30 ET)
+- Veterans Crisis Line (Đường dây Khủng hoảng Cựu chiến binh), châu Á và Thái Bình Dương: +1 844 702 5493 (24 giờ)
+
+TRỢ GIÚP MIỄN PHÍ
+- Một tổ chức hỗ trợ cựu chiến binh (VSO) được VA công nhận (accredited) giúp làm hồ sơ miễn phí.
+- Luật sư và đại diện hồ sơ (claims agent) được VA công nhận (accredited) chỉ được thu phí sau khi VA đã quyết định hồ sơ đầu tiên, với hợp đồng phí có chữ ký và VA Form 21-22a đã nộp.
+- Có thể kiểm tra tư cách được công nhận của bất kỳ ai trên công cụ tìm kiếm của VA: va.gov/get-help-from-accredited-representative/find-rep
+- Ở Thái Lan, American Legion Post TH01 ở Ubon Ratchathani và Post TH02 ở Pattaya.
+
+KẺ LỪA ĐẢO
+Cựu chiến binh và người mất chồng hoặc mất vợ bị những kẻ đến “giúp” rồi lấy mất hồ sơ, các khoản chi trả hoặc tiền tiết kiệm. Bị lừa không phải lỗi của Quý vị; người cẩn thận cũng bị lừa. Người Quý vị tin cậy biết càng sớm thì càng cứu được nhiều.
+
+Dấu hiệu
+- Họ liên lạc với Quý vị trước, qua điện thoại, LINE, WhatsApp hoặc Facebook, thường là sau đám tang.
+- Họ đòi tiền trước khi nộp hồ sơ, hoặc đòi một phần tiền truy lĩnh.
+- Họ hứa là sẽ có tiền, hoặc nhiều tiền hơn.
+- Họ hỏi mật khẩu, hoặc mã Quý vị vừa nhận qua tin nhắn.
+- Họ giục Quý vị: hôm nay, nếu không sẽ mất.
+- Họ bảo giấu gia đình.
+- Họ muốn đổi tài khoản ngân hàng nhận tiền của VA hoặc An sinh Xã hội.
+- Họ muốn trả tiền vào tài khoản cá nhân, bằng thẻ quà tặng, hoặc bằng tiền mã hóa.
+- Họ muốn chuyển tiền tiết kiệm vào bảo hiểm, niên kim (annuity) hoặc một quỹ để Quý vị “đủ điều kiện” nhận lương hưu.
+- Họ nói họ là VA hoặc ID.me, từ một tài khoản LINE, WhatsApp hoặc Gmail cá nhân.
+- Tên họ không có trong công cụ tìm kiếm người được VA công nhận (accredited).
+- Một liên kết đến cuộc gọi video ID.me mà Quý vị không đặt lịch được gửi đến.
+
+Nếu Quý vị nghi ngờ
+1. Dừng lại: cúp máy, không bấm liên kết, không đưa mã, không chuyển tiền.
+2. Giữ bằng chứng: ảnh chụp màn hình cuộc trò chuyện, số điện thoại, tên tài khoản, mọi tài khoản ngân hàng họ đưa.
+3. Nói với một người Quý vị tin cậy.
+4. Đã gửi tiền: gọi ngay cho ngân hàng của Quý vị, rồi gọi cảnh sát. Ở Thái Lan, hãy gọi 1441 trước, bất kỳ giờ nào: số này có thể yêu cầu ngân hàng dừng việc chuyển tiền.
+5. Đã đưa mật khẩu hoặc mã ID.me: đổi mật khẩu và cách nhận mã xác minh, rồi dùng biểu mẫu “Report Suspicious Activity” (Báo cáo hoạt động đáng ngờ) của ID.me.
+6. Tiền VA chi trả bị chuyển sang một tài khoản mới: gọi đường dây chuyển khoản trực tiếp quốc tế của VA.
+7. Gian lận nhắm vào phúc lợi VA: đường dây nóng của Tổng Thanh tra VA.
+8. Người không được VA công nhận (accredited) mà thu tiền giúp làm hồ sơ: khiếu nại với Office of General Counsel (Văn phòng Tổng Cố vấn Pháp lý) của VA.
+
+Ở THÁI LAN
+- 1441: Trung tâm Chống Lừa đảo Trực tuyến (AOC), 24 giờ. Trung tâm có thể yêu cầu ngân hàng dừng việc chuyển tiền; biên bản trình báo cảnh sát tại thaipoliceonline.go.th hoặc tại đồn sẽ hoàn tất việc đó.
+- 1323: Department of Mental Health (Cục Sức khỏe Tâm thần), miễn phí, 24 giờ, bằng tiếng Thái.
+- 1669: cấp cứu y tế.
+- An sinh Xã hội cho Thái Lan: Federal Benefits Unit tại Đại sứ quán Hoa Kỳ ở Manila.
+- Dịch giấy tờ Thái: Chiang Mai Visa Desk.
+
+NẾU THẤY QUÁ SỨC
+Đau buồn, lo tiền bạc, bị lừa, hàng giờ đăng nhập không được: thật là nhiều. Nói chuyện với một người sẽ giúp ích.
+- Veterans Crisis Line (Đường dây Khủng hoảng Cựu chiến binh), từ bất cứ đâu: trò chuyện (chat) tại veteranscrisisline.net/get-help-now/chat
+- Từ châu Á và Thái Bình Dương bằng điện thoại: +1 844 702 5493 (tính cước quốc tế).
+- Thái Lan: 1323, miễn phí, 24 giờ.
+- Các nước khác: findahelpline.com liệt kê các đường dây miễn phí theo từng nước.
+
+LƯU LẠI ĐỂ DÙNG KHI CẦN, GỬI CHO MỘT NGƯỜI BẠN
+Thêm vào màn hình chính, in ra, hoặc lưu phần văn bản. Trang mở được khi không có internet sau khi Quý vị đã mở một lần.
+Gửi cho một cựu chiến binh khác, người mất chồng hoặc mất vợ, hoặc người đang giúp họ. Trang này miễn phí.
+https://nanobotco.github.io/getting-in/vi/
+
+NGUỒN
+- VA: verifying your identity from outside the US: https://www.va.gov/resources/how-can-i-verify-my-identity-on-vagov-if-i-live-outside-the-us/
+- VA: sign-in changes (DS Logon, My HealtheVet): https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+- VA: common Login.gov and ID.me issues: https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+- ID.me: overseas verification with an SSN: https://help.id.me/hc/en-us/articles/4415907236375
+- ID.me: non-US passport, no SSN: https://help.id.me/hc/en-us/articles/26952364097559
+- ID.me: accepted documents: https://help.id.me/hc/en-us/articles/360017833054
+- ID.me: translations: https://help.id.me/hc/en-us/articles/360058791094
+- ID.me: video call, interpreters, helpers: https://help.id.me/hc/en-us/articles/360058655794
+- ID.me: scheduling a video call: https://help.id.me/hc/en-us/articles/360055300094
+- ID.me: security code methods: https://help.id.me/hc/en-us/articles/360018113053
+- ID.me: suspected scam or hacking: https://help.id.me/hc/en-us/articles/1500002603702
+- ID.me: contact support: https://help.id.me/hc/p/contact_support
+- Login.gov: accepted IDs: https://login.gov/help/verify-your-identity/accepted-id-type/
+- Login.gov: phone numbers: https://login.gov/help/verify-your-identity/phone-number/
+- Login.gov roadmap, August 2026: https://login.gov/docs/login-gov-roadmap-august-2026.pdf
+- VA: CLEAR and creating an account: https://www.va.gov/resources/creating-an-account-for-vagov/
+- VA: veterans abroad: https://www.benefits.va.gov/persona/veteran-abroad.asp
+- VA: DIC: https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/
+- VA: reporting a death: https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/
+- VA: CHAMPVA: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- VA: Foreign Medical Program claims: https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim
+- VA: accredited representatives: https://www.va.gov/resources/va-accredited-representative-faqs/
+- VA: find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/find-rep/
+- VA Inspector General hotline: https://www.vaoig.gov/hotline
+- Social Security: Federal Benefits Units: https://www.ssa.gov/foreign/iclaim.htm
+- Social Security: payments outside the US (EN-05-10137): https://www.ssa.gov/pubs/EN-05-10137.pdf
+- Veterans Crisis Line overseas: https://www.veteranscrisisline.net/get-help-now/military-crisis-line/
+- Thailand AOC 1441 (Bangkok Post): https://www.bangkokpost.com/thailand/general/2924862/govt-hails-use-of-1441-hotline
+- Find a helpline: https://findahelpline.com/
+
+Do Hongdam thực hiện cho Chiang Mai Visa Desk.
+Không phải trang web của chính phủ Hoa Kỳ.

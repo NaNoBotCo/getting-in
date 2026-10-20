@@ -1,0 +1,258 @@
+INS KONTO KOMMEN: VA, ID.ME UND SOCIAL SECURITY AUS DEM AUSLAND
+https://nanobotco.github.io/getting-in/de/
+Gut aufheben und an Freunde weitergeben
+Geprüft anhand offizieller Seiten am 20. Oktober 2026.
+
+Die Anmeldung aus einem anderen Land scheitert an vielen Stellen: ein Code, der nicht ankommt, ein abgelehntes Dokument, ein Videoanruf mitten in der Nacht, ein Passwort, das einem verstorbenen Menschen gehörte. Diese Seite zeigt jede dieser Stellen und den Weg weiter, die Wege ganz ohne Anmeldung und wie Sie einen Helfer von einem Betrüger unterscheiden.
+
+
+BEVOR SIE BEGINNEN
+ID.me prüft Ihre Identität in zwei Durchgängen: Zuerst laden Sie Dokumente hoch. Sind sie genehmigt, meist innerhalb eines Tages, können Sie einen Videoanruf mit einem Mitarbeiter in den USA buchen. Wenn Sie alles unten Genannte bereithalten, sparen Sie sich einen dritten und vierten Durchgang.
+
+Dokumente: Originale, keine Kopien
+[ ] Ihr Reisepass, nicht abgelaufen. Ein Reisepass aus jedem Land kann zählen.
+[ ] Ein Kontoauszug oder eine Stromrechnung, nicht älter als ein Jahr, mit Ihrer aktuellen Adresse.
+[ ] Ihre US-Sozialversicherungsnummer (SSN), falls Sie eine haben.
+[ ] Für Witwen und Witwer: die Heiratsurkunde und die Sterbeurkunde.
+[ ] Die DD214 (Entlassungspapier) und die Aktennummer bei VA, dem US-Veteranenministerium („US Department of Veterans Affairs“), falls Sie diese haben.
+[ ] Eine englische Übersetzung für jedes Dokument, das nicht auf Englisch ist.
+
+Telefon
+[ ] Ihre eigene Nummer, nicht die des verstorbenen Ehepartners, die Textnachrichten empfangen kann.
+[ ] Aufgeladen, mit WLAN verbunden, die automatische Bildschirmsperre ausgeschaltet.
+[ ] Eine Frontkamera, die funktioniert.
+[ ] iPhone: „Settings > Camera > Formats > Most Compatible“ (Einstellungen > Kamera > Formate > Maximale Kompatibilität) und Live Photos ausgeschaltet. Andere Fotoformate werden abgelehnt.
+
+E-Mail
+[ ] Eine E-Mail-Adresse, die Ihnen gehört, die Sie heute öffnen können, mit aufgeschriebenem Passwort.
+
+Namen, Daten und Adressen
+[ ] Ihr Name ist auf jedem Dokument gleich geschrieben, oder Sie haben eine Liste aller Schreibweisen.
+[ ] Daten auf thailändischen Dokumenten nach der Buddhistischen Zeitrechnung (2510), daneben die westliche Jahreszahl (1967).
+[ ] Ihre Adresse genau so getippt, wie der Kontoauszug sie druckt, Buchstabe für Buchstabe.
+
+Planen Sie von Anfang an zwei Durchgänge ein. Durchgang eins: Konto, Bestätigungscodes, Dokumente. Durchgang zwei: der Videoanruf, danach zurück zu VA.gov, um „Allow“ (Zulassen) zu drücken.
+
+WENN SIE JEMANDEM HELFEN
+- Schreiben Sie zuerst auf, was von alten Handys und Computern gebraucht wird: E-Mail-Adressen, Passwörter, Telefonnummern. Alte Geräte können ID.me oft nicht öffnen.
+- Lesen und tippen Sie an einem aktuellen Gerät. Die Fotos der Dokumente und das Selfie gelingen am besten mit dem eigenen Handy der Person.
+- Schalten Sie jedes VPN aus. ID.me sperrt viele davon (Fehler 1015).
+- Übersetzen Sie jeden Bildschirm laut. ID.me gibt es auf Englisch und Spanisch; ein Dolmetscher für Thai oder eine andere Sprache ist erst da, wenn der Videoanruf beginnt.
+- Die Person kann im Videoanruf um einen Dolmetscher bitten, und ein Familienmitglied oder Helfer darf neben ihr sitzen. Eine Person mit Vollmacht kann im Anruf nicht für sie sprechen.
+- Notieren Sie, wo es nicht weiterging und warum, damit der nächste Durchgang dort beginnt.
+
+WELCHE ANMELDUNG AUS DEM AUSLAND FUNKTIONIERT
+VA.gov akzeptiert drei Anmeldungen. DS Logon wurde am 18. November 2025 beendet, die Anmeldung mit My HealtheVet am 5. März 2025.
+- ID.me: Ja, über den Weg für das Ausland und einen Videoanruf. Dafür nötig: Ein Reisepass und ein Nachweis der Adresse. Ein Reisepass, der nicht aus den USA stammt, kann zählen.
+- Login.gov: Schwierig. Reisepässe und Ausweise, die nicht aus den USA stammen, und internationale Telefonnummern werden abgelehnt. Eine Prüfung vor Ort gibt es nur in US-Postämtern. Dafür nötig: Ein US-Ausweis oder US-Reisepass, eine SSN, eine US-Telefonnummer oder ein Brief per Post.
+- CLEAR: Für die meisten Menschen im Ausland nicht. Dafür nötig: Eine SSN.
+Login.gov nennt internationale Nutzer unter seinen Plänen für 2027. Bis dahin ist ID.me der Weg für die meisten Menschen außerhalb der USA.
+
+ID.ME AUS DEM AUSLAND, SCHRITT FÜR SCHRITT
+1. Bei VA.gov beginnen
+Gehen Sie auf VA.gov, wählen Sie „Sign in“ (Anmelden), dann „ID.me“. Legen Sie das Konto mit Ihrer eigenen E-Mail-Adresse an.
+2. Bestätigungscodes
+Richten Sie zwei Wege ein, um Codes zu bekommen: eine Textnachricht an Ihre Nummer und die ID.me Authenticator-App oder einen Passkey. Wenn keine Textnachrichten ankommen, funktioniert die App trotzdem.
+3. Den Weg für das Ausland wählen
+ID.me zeigt zwei große Schaltflächen, „Self-Service“ (Selbstbedienung) und „Video Call“ (Videoanruf), und einen kleineren Link, „I don't live in the United States“ (Ich lebe nicht in den Vereinigten Staaten) oder „I don't have the above documents“ (Ich habe die oben genannten Dokumente nicht). Der kleine Link ist der Weg für das Ausland. Die beiden großen Schaltflächen erwarten US-Dokumente.
+4. Land und SSN
+Wählen Sie unter Ihrer aktuellen Adresse Ihr Land. Geben Sie Ihre SSN ein, falls Sie eine haben.
+5. Dokumente hochladen
+Zwei Hauptdokumente oder ein Hauptdokument und ein Zweitdokument. Ein Reisepass ist ein Hauptdokument; ein Kontoauszug oder eine Stromrechnung ist ein Zweitdokument. Ein Dokument, das nicht auf Englisch ist, kommt nebeneinander mit seiner englischen Übersetzung auf dasselbe Foto. ID.me kann Ihnen einen Link per Textnachricht schicken, damit Sie die Fotos mit Ihrem Handy machen.
+6. Auf die Genehmigung warten
+Meist innerhalb von 24 Stunden, per E-Mail. Eine Ablehnung kommt als E-Mail mit dem Titel „Action Required: Update your document(s)“ (Handeln erforderlich: Aktualisieren Sie Ihre Dokumente) und hat eine Schaltfläche, um sie erneut zu senden.
+7. Den Videoanruf buchen
+Anrufe lassen sich bis zu 10 Tage im Voraus buchen, und am selben Tag ab 2 Stunden vorher. Die Zeiten erscheinen in Ihrer Ortszeit. Mit einer Buchung warten Sie nicht in einer Warteschlange; wer die Warteschlange verlässt, steht danach wieder ganz hinten.
+8. Der Videoanruf
+Halten Sie die Originaldokumente in der Hand; Kopien und Fotos werden abgelehnt, ebenso ein Dokument, auf dem etwas geschrieben wurde. Auf Wunsch gibt es einen Dolmetscher in Ihrer Sprache. Der Mitarbeiter bestätigt Ihren Namen, Ihr Geburtsdatum, Ihre Adresse und Ihre SSN.
+9. Zurück zu VA.gov
+Öffnen Sie einen neuen Tab, gehen Sie auf VA.gov, melden Sie sich wieder mit ID.me an und drücken Sie „Allow“ (Zulassen). Wenn Sie „Deny“ (Ablehnen) drücken, kann VA.gov Ihnen weniger zeigen.
+
+Keine Sozialversicherungsnummer
+ID.me hat einen Weg für einen Reisepass, der nicht aus den USA stammt, ohne SSN: den Reisepass, einen Nachweis derselben Adresse und ein Kästchen, in dem Sie bestätigen, dass Ihnen bisher weder eine SSN noch eine ITIN ausgestellt wurde. Auf der eigenen Seite von VA.gov steht, dass Sie ohne SSN einen US-Reisepass brauchen. Welche Regel VA.gov bei einer Witwe oder einem Witwer mit ausländischem Reisepass anwendet, ist auf keiner der beiden Seiten geklärt. Wenn Sie es versuchen, machen Sie von jedem Bildschirm einen Screenshot (Bildschirmfoto).
+
+WENN ETWAS SCHIEFGEHT
+? Der Code per Textnachricht kommt nicht an.
+  Textnachrichten in manche Länder kommen verspätet oder gar nicht an. Drücken Sie „Resend“ (Erneut senden), dann „Call me“ (Rufen Sie mich an). Eine zweite Methode, die Sie vorher eingerichtet haben, die ID.me Authenticator-App oder ein Passkey, funktioniert ohne Textnachrichten.
+? „We couldn't verify your browser“ (Wir konnten Ihren Browser nicht bestätigen) oder „Something isn't right“ (Etwas stimmt nicht).
+  Der Browser ist zu alt, oder JavaScript ist ausgeschaltet. Nehmen Sie ein aktuelles Chrome, Safari, Edge oder Firefox ohne Erweiterungen.
+? Fehler 1015, „unusual activity“ (ungewöhnliche Aktivität).
+  Ein VPN oder Proxy ist eingeschaltet. Schalten Sie es aus und versuchen Sie es noch einmal.
+? Das Foto lässt sich nicht hochladen.
+  iPhone-Fotos im Format HEIC und Live Photos werden abgelehnt. „Settings > Camera > Formats > Most Compatible“ (Einstellungen > Kamera > Formate > Maximale Kompatibilität).
+? „A translation is required.“ (Eine Übersetzung ist erforderlich.)
+  Ein Dokument, das nicht auf Englisch ist, muss zusammen mit seiner englischen Übersetzung fotografiert werden, beides auf einem Bild.
+? Der Name auf einem Dokument passt nicht zu dem auf einem anderen.
+  Namen aus thailändischer, laotischer, Khmer-, koreanischer, chinesischer und anderer Schrift werden auf verschiedenen Papieren im Englischen unterschiedlich geschrieben. Bringen Sie jedes Dokument mit, auf dem der Name steht, und eine Übersetzung, die der Schreibweise im Reisepass folgt.
+? Die Adresse passt nicht.
+  Eine Bank und ein Versorgungsunternehmen schreiben dieselbe Adresse auf Englisch manchmal unterschiedlich. Tippen Sie die Adresse genau so, wie das hochgeladene Dokument sie druckt.
+? Die Daten sehen falsch aus.
+  Thailändische Dokumente zählen die Jahre nach der Buddhistischen Zeitrechnung, die 543 Jahre voraus ist: 2510 ist 1967. Eine Übersetzung kann beide nennen.
+? „This account already exists.“ (Dieses Konto gibt es schon.)
+  Jede Person kann ein bestätigtes ID.me-Konto haben. Die Meldung zeigt vielleicht nur Initialen und das Ende einer E-Mail-Adresse. Dieser Hinweis sagt Ihnen, bei welcher alten E-Mail-Adresse das Konto liegt.
+? Die Warteschlange für den Videoanruf dauert Stunden.
+  Die Mitarbeiter sitzen in den USA. Buchen Sie eine Zeit, statt zu warten; die Buchung wird möglich, sobald die Dokumente genehmigt sind.
+? Das Handy ist in den Ruhezustand gegangen und der Anruf wurde beendet.
+  Schalten Sie die automatische Bildschirmsperre aus, schließen Sie das Ladegerät an, bleiben Sie im WLAN und buchen Sie neu.
+? Der Mitarbeiter lehnt das Dokument ab.
+  Kopien, Fotos von Dokumenten, abgelaufene Reisepässe, vorläufige Ausweise und Dokumente mit Beschriftung werden abgelehnt. Auch Spiegelungen und Knicke können dazu führen. Originale, flach, bei gutem Licht.
+? Nach ID.me zeigt VA.gov einen Fehler.
+  Die Sitzung bei VA.gov ist abgelaufen, während Sie weg waren. Schließen Sie den Tab, öffnen Sie einen neuen, melden Sie sich wieder an und drücken Sie „Allow“ (Zulassen).
+? Die Handynummer hat sich geändert.
+  Bei einer neuen Nummer müssen die Bestätigungscodes in ID.me neu eingerichtet werden, und manchmal dauert ein Videoanruf länger, damit bestätigt wird, dass Sie es sind.
+? Bei ID.me kann man niemanden anrufen.
+  Der Support von ID.me läuft über Chat und ein Online-Formular, auf Englisch und Spanisch. Der Chat ist am schnellsten, wenn die Person dabei ist.
+? Nachrichten von ID.me sehen aus wie von einem Betrüger.
+  ID.me schickt Codes und Links per Textnachricht und E-Mail auf Englisch. Rechnen Sie während der Durchgänge damit; eine Nachricht, die Sie nicht angefordert haben, von jemandem, der einen Code zurückgelesen haben will, stammt von einem Betrüger.
+? Login.gov oder CLEAR nehmen Sie nicht an.
+  Beide brauchen eine US-Sozialversicherungsnummer, und Login.gov braucht US-Dokumente. ID.me ist der Weg aus dem Ausland.
+? Sie wissen nicht, wie viele Versuche übrig sind.
+  ID.me nennt keine Grenze. Nach zwei Fehlversuchen am selben Schritt ist der Weg über den Videoanruf der nächste Schritt.
+? Nichts funktioniert.
+  Die meisten Anträge lassen sich auf Papier per Post oder Fax stellen, ohne Anmeldung. Siehe unten.
+
+WENN EINE VETERANIN ODER EIN VETERAN GESTORBEN IST
+Für Witwen und Witwer. Zu jedem Schritt gibt es unten einen Weg auf Papier.
+Das Konto der verstorbenen Person gehört nicht Ihnen
+Die ID.me- und VA.gov-Konten der verstorbenen Person sind an ihre Identität gebunden, und die Bestätigungscodes gehen an ihr Handy und ihre E-Mail-Adresse. VA fordert Zahlungen zurück, die nach dem Tod geleistet wurden. Ein hinterbliebener Ehepartner braucht ein eigenes Konto oder den Weg auf Papier.
+Den Todesfall melden
+Bei VA, per Telefon oder per Post an das Claims Intake Center. Bei Social Security über die Federal Benefits Unit für Ihr Land oder das internationale Callcenter. Bei einem US-Staatsbürger auch bei der nächsten US-Botschaft oder dem nächsten US-Konsulat, die einen „Consular Report of Death Abroad“ (Konsularischer Bericht über einen Todesfall im Ausland) ausstellen können.
+Hinterbliebenenleistungen von VA
+Die Entschädigung für Hinterbliebene („Dependency and Indemnity Compensation“, DIC), die Hinterbliebenenrente („Survivors Pension“) und aufgelaufene Leistungen („accrued benefits“) laufen alle über VA Form 21P-534EZ. Wird der Antrag innerhalb eines Jahres nach dem Tod gestellt, kann die Zahlung ab dem ersten Tag des Monats beginnen, in dem der Tod eintrat.
+Gesundheitsversorgung: CHAMPVA
+Für den hinterbliebenen Ehepartner einer Veteranin oder eines Veteranen, die oder der als dauerhaft und voll behindert eingestuft war oder an einer dienstbedingten Erkrankung starb. VA Form 10-10d.
+Hinterbliebenenleistungen von Social Security
+Über die Federal Benefits Unit. Eine einmalige Zahlung von $255 geht an einen hinterbliebenen Ehepartner. Außerhalb der USA braucht ein Hinterbliebener, der kein US-Staatsbürger ist, meist fünf Jahre Aufenthalt in den USA während der Ehe; diese Regel gilt nicht, wenn die Veteranin oder der Veteran im Militärdienst oder an einer dienstbedingten Erkrankung starb.
+Lassen Sie sich helfen
+Mit VA Form 21-0845 darf VA mit einer Person sprechen, die Sie nennen. Mit VA Form 21-22 bestimmen Sie eine Veteranen-Hilfsorganisation (VSO, „veterans service organization“), die kostenlos für Sie handelt.
+
+OHNE ANMELDUNG: PER POST, FAX UND TELEFON
+Senden Sie per Post mit Sendungsverfolgung oder per Fax, und behalten Sie eine Kopie jeder Seite und den Beleg.
+
+DIC, Hinterbliebenenrente, aufgelaufene Leistungen
+Formular: VA 21P-534EZ https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf
+Post: Department of Veterans Affairs, Pension Intake Center, PO Box 5365, Janesville, WI 53547-5365, USA
+Fax: +1 844 531 7818 · +1 248 524 4260 (Von einer älteren Seite; auf einer aktuellen Seite nicht bestätigt.)
+Innerhalb eines Jahres nach dem Tod kann die Zahlung ab dem Ersten dieses Monats beginnen. Ob die Hinterbliebenenrente (Survivors Pension) an jemanden gezahlt wird, der in Ihrem Land lebt, fragen Sie VA, bevor Sie das Paket abschicken.
+
+Einen Todesfall bei VA melden
+Post: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Telefon: +1 412 395 6272
+Per Post werden Zahlungen langsamer gestoppt als per Anruf.
+
+Einen Todesfall bei Social Security melden, und Hinterbliebenenleistungen
+Post: Federal Benefits Unit, US Embassy, 1201 Roxas Boulevard, Ermita, Manila 0930, Philippines
+Fax: +63 2 8708 9714
+Telefon: +63 2 5301 6200 · +1 855 522 6936
+E-Mail: FBU.Manila@ssa.gov
+Thailand und mehrere andere asiatische Länder werden von Manila aus betreut. Andere Länder: ssa.gov/foreign nennt jede Federal Benefits Unit.
+
+CHAMPVA-Gesundheitsversorgung für einen hinterbliebenen Ehepartner
+Formular: VA 10-10d https://www.va.gov/find-forms/about-form-10-10d/
+Post: VHA Office of Community Care, CHAMPVA Eligibility, PO Box 137, Spring City, PA 19475, USA
+Telefon: +1 800 733 8387
+
+Foreign Medical Program (die Behandlung dienstbedingter Leiden der Veteranin oder des Veteranen selbst)
+Post: VHA Office of Integrated Veteran Care, Foreign Medical Program, PO Box 200, Spring City, PA 19475, USA
+E-Mail: HAC.FMP@va.gov
+Gilt nur für die Veteranin oder den Veteranen, nicht für den Ehepartner.
+
+Eine Person für sich handeln lassen
+Formular: VA 21-0845 · VA 21-22 · VA 21-22a https://www.va.gov/find-forms/about-form-21-0845/
+Post: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Die Seiten von VA nennen für diese Formulare keine Postadresse aus dem Ausland; das Claims Intake Center ist wahrscheinlich die richtige.
+
+TELEFONNUMMERN AUS DEM AUSLAND
+US-Nummern, zu den Zeiten der US-Ostküste. Die Zeiten unten sind in Ihre Ortszeit umgerechnet.
+- VA-Leistungen, aus dem Ausland: +1 412 395 6272 (Montag bis Freitag, 08:00-21:00 ET)
+- VA, internationale Direktüberweisung (Direct Deposit): +1 918 781 7550 (Montag bis Freitag, 09:00-17:30 ET)
+- Internationales Callcenter von Social Security: +1 855 522 6936
+- CHAMPVA: +1 800 733 8387
+- Hotline des VA Inspector General (Betrug): +1 800 488 8244 (Montag bis Freitag, 09:30-15:30 ET)
+- Veterans Crisis Line, Asien und Pazifik: +1 844 702 5493 (24 Stunden)
+
+KOSTENLOSE HILFE
+- Eine von VA zugelassene („accredited“) Veteranen-Hilfsorganisation (VSO) hilft kostenlos bei Anträgen.
+- Von VA zugelassene Anwälte und Antragsvertreter („claims agents“) dürfen erst Geld verlangen, nachdem VA über den ersten Antrag entschieden hat, mit einer unterschriebenen Gebührenvereinbarung und VA Form 21-22a in der Akte.
+- Die Zulassung jeder Person lässt sich mit der Suche von VA prüfen: va.gov/get-help-from-accredited-representative/find-rep
+- In Thailand: American Legion Post TH01 ist in Ubon Ratchathani und Post TH02 in Pattaya.
+
+BETRÜGER
+Veteranen, Witwen und Witwer bekommen „Hilfe“ angeboten von Leuten, die ihnen den Antrag, die Zahlungen oder das Ersparte wegnehmen. Es ist nicht Ihre Schuld, wenn Sie betrogen werden; auch vorsichtige Menschen werden betrogen. Je früher jemand, dem Sie vertrauen, davon weiß, desto mehr lässt sich retten.
+
+Zeichen
+- Man meldet sich zuerst bei Ihnen, per Telefon, LINE, WhatsApp oder Facebook, oft nach einer Beerdigung.
+- Man verlangt Geld, bevor der Antrag eingereicht wird, oder einen Anteil der Nachzahlung.
+- Man verspricht Ihnen das Geld oder mehr davon.
+- Man fragt nach einem Passwort oder nach dem Code, den Sie gerade per Textnachricht bekommen haben.
+- Man setzt Sie unter Druck: heute noch, sonst ist es weg.
+- Man sagt, Sie sollen es vor Ihrer Familie geheim halten.
+- Man will, dass das Bankkonto für Zahlungen von VA oder Social Security geändert wird.
+- Man will Zahlung auf ein privates Konto, in Geschenkkarten oder in Kryptowährung.
+- Man will Ihr Erspartes in eine Versicherung, eine Rentenversicherung (Annuity) oder einen Fonds verschieben, damit Sie für eine Rente „berechtigt“ sind.
+- Man sagt, man sei von VA oder ID.me, schreibt aber von einem privaten LINE-, WhatsApp- oder Gmail-Konto.
+- Der Name steht nicht in der Zulassungssuche von VA.
+- Ein Link zu einem ID.me-Videoanruf kommt an, den Sie nicht gebucht haben.
+
+Wenn Sie einen Verdacht haben
+1. Halten Sie an: Legen Sie auf, tippen Sie keine Links an, geben Sie keine Codes weiter, überweisen Sie nichts.
+2. Heben Sie Beweise auf: Screenshots des Chats, die Telefonnummer, den Kontonamen, jedes Bankkonto, das man Ihnen genannt hat.
+3. Sagen Sie es einer Person, der Sie vertrauen.
+4. Geld schon gesendet: Rufen Sie sofort Ihre Bank an, dann die Polizei. In Thailand rufen Sie zuerst 1441 an, zu jeder Uhrzeit: Die Stelle kann Banken bitten, eine Überweisung anzuhalten.
+5. ID.me-Passwort oder Code weitergegeben: Ändern Sie das Passwort und die Methode für die Bestätigungscodes und nutzen Sie dann das Formular „Report Suspicious Activity“ (Verdächtige Aktivität melden) von ID.me.
+6. Zahlungen von VA gingen an ein neues Konto: Rufen Sie die Leitung von VA für internationale Direktüberweisung an.
+7. Betrug gegen VA-Leistungen: die Hotline des VA Inspector General.
+8. Jemand ohne Zulassung hat Geld für Hilfe beim Antrag verlangt: eine Beschwerde beim Office of General Counsel von VA.
+
+IN THAILAND
+- 1441: das Anti Online Scam Operation Center (AOC), 24 Stunden. Es kann Banken bitten, eine Überweisung anzuhalten; eine Anzeige bei thaipoliceonline.go.th oder auf einer Polizeistation schließt das ab.
+- 1323: Department of Mental Health (Amt für psychische Gesundheit), kostenlos, 24 Stunden, auf Thai.
+- 1669: medizinischer Notfall.
+- Social Security für Thailand: die Federal Benefits Unit an der US-Botschaft in Manila.
+- Übersetzungen thailändischer Dokumente: Chiang Mai Visa Desk.
+
+WENN ES ZU VIEL IST
+Trauer, Geldsorgen, betrogen worden zu sein, stundenlang gescheiterte Anmeldungen: Das ist viel. Mit jemandem zu sprechen, hilft.
+- Veterans Crisis Line, von überall: Chat unter veteranscrisisline.net/get-help-now/chat
+- Aus Asien und dem Pazifik per Telefon: +1 844 702 5493 (es fallen internationale Gebühren an).
+- Thailand: 1323, kostenlos, 24 Stunden.
+- Andere Länder: findahelpline.com listet kostenlose Telefonleitungen nach Ländern.
+
+GUT AUFHEBEN UND AN FREUNDE WEITERGEBEN
+Legen Sie es auf den Startbildschirm, drucken Sie es aus oder speichern Sie den Text. Es öffnet sich ohne Internet, sobald Sie es einmal geöffnet haben.
+Schicken Sie es an einen anderen Veteranen, eine Witwe oder einen Witwer oder an die Person, die ihnen hilft. Es ist kostenlos.
+https://nanobotco.github.io/getting-in/de/
+
+QUELLEN
+- VA: verifying your identity from outside the US: https://www.va.gov/resources/how-can-i-verify-my-identity-on-vagov-if-i-live-outside-the-us/
+- VA: sign-in changes (DS Logon, My HealtheVet): https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+- VA: common Login.gov and ID.me issues: https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+- ID.me: overseas verification with an SSN: https://help.id.me/hc/en-us/articles/4415907236375
+- ID.me: non-US passport, no SSN: https://help.id.me/hc/en-us/articles/26952364097559
+- ID.me: accepted documents: https://help.id.me/hc/en-us/articles/360017833054
+- ID.me: translations: https://help.id.me/hc/en-us/articles/360058791094
+- ID.me: video call, interpreters, helpers: https://help.id.me/hc/en-us/articles/360058655794
+- ID.me: scheduling a video call: https://help.id.me/hc/en-us/articles/360055300094
+- ID.me: security code methods: https://help.id.me/hc/en-us/articles/360018113053
+- ID.me: suspected scam or hacking: https://help.id.me/hc/en-us/articles/1500002603702
+- ID.me: contact support: https://help.id.me/hc/p/contact_support
+- Login.gov: accepted IDs: https://login.gov/help/verify-your-identity/accepted-id-type/
+- Login.gov: phone numbers: https://login.gov/help/verify-your-identity/phone-number/
+- Login.gov roadmap, August 2026: https://login.gov/docs/login-gov-roadmap-august-2026.pdf
+- VA: CLEAR and creating an account: https://www.va.gov/resources/creating-an-account-for-vagov/
+- VA: veterans abroad: https://www.benefits.va.gov/persona/veteran-abroad.asp
+- VA: DIC: https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/
+- VA: reporting a death: https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/
+- VA: CHAMPVA: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- VA: Foreign Medical Program claims: https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim
+- VA: accredited representatives: https://www.va.gov/resources/va-accredited-representative-faqs/
+- VA: find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/find-rep/
+- VA Inspector General hotline: https://www.vaoig.gov/hotline
+- Social Security: Federal Benefits Units: https://www.ssa.gov/foreign/iclaim.htm
+- Social Security: payments outside the US (EN-05-10137): https://www.ssa.gov/pubs/EN-05-10137.pdf
+- Veterans Crisis Line overseas: https://www.veteranscrisisline.net/get-help-now/military-crisis-line/
+- Thailand AOC 1441 (Bangkok Post): https://www.bangkokpost.com/thailand/general/2924862/govt-hails-use-of-1441-hotline
+- Find a helpline: https://findahelpline.com/
+
+Erstellt von Hongdam für Chiang Mai Visa Desk.
+Keine Webseite der US-Regierung.

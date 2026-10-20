@@ -1,0 +1,441 @@
+{
+ "meta": {
+  "lang": "en",
+  "dir": "ltr",
+  "native": "English",
+  "title": "Getting In: VA, ID.me and Social Security from abroad",
+  "description": "A free guide for veterans, widows and widowers outside the US: signing in to VA.gov with ID.me, what goes wrong and the way through, claims on paper with no login, spotting scammers, and who to call.",
+  "share_text": "Free guide for veterans, widows and widowers abroad: VA.gov, ID.me, Social Security, claims on paper, and spotting scammers. Keep this handy, share with a friend.",
+  "card_title": "Getting In",
+  "card_line": "VA · ID.me · Social Security · from abroad"
+ },
+ "ui": {
+  "cta": "Keep this handy, share with a friend",
+  "share": "Share",
+  "share_this_section": "Share this part",
+  "copy_link": "Copy link",
+  "copied": "Copied",
+  "show_qr": "Show QR code",
+  "qr_hint": "Hold this up to a friend's phone camera.",
+  "close": "Close",
+  "print": "Print",
+  "save_home": "Add to home screen",
+  "save_home_ios": "On iPhone: tap the Share button, then Add to Home Screen.",
+  "download_text": "Download as text",
+  "bookmark": "Bookmark this page",
+  "languages": "Language",
+  "contents": "On this page",
+  "top": "Top",
+  "text_size": "Text size",
+  "checked": "Checked against official pages on 20 October 2026.",
+  "sources": "Sources",
+  "your_time": "In your time",
+  "closed_now": "closed now",
+  "open_now": "open now",
+  "ticked": "Ticks are saved in this browser.",
+  "offline": "This page works without internet once it has been opened.",
+  "free": "Free."
+ },
+ "hero": {
+  "kicker": "For veterans, widows and widowers outside the US",
+  "h1": "Getting in to VA.gov, ID.me and Social Security from abroad",
+  "lede": "Signing in from another country breaks in many places: a code that never arrives, a document refused, a video call in the middle of the night, a password that belonged to someone who has died. This page lists each place it breaks and the way through, the routes that need no login at all, and how to tell a helper from a scammer."
+ },
+ "start": {
+  "h": "Start here",
+  "cards": [
+   {
+    "to": "before",
+    "title": "I am a veteran living abroad",
+    "line": "Sign in to VA.gov with ID.me, from the checklist to the video call."
+   },
+   {
+    "to": "death",
+    "title": "My husband or wife was a veteran and has died",
+    "line": "Report the death, claim survivor benefits, and get your own account."
+   },
+   {
+    "to": "helping",
+    "title": "I am helping someone",
+    "line": "What to have on the table, and how to split the work into two sittings."
+   },
+   {
+    "to": "scammers",
+    "title": "Someone is offering to help for money",
+    "line": "Signs of a scammer, and what to do."
+   },
+   {
+    "to": "paper",
+    "title": "I cannot get in at all",
+    "line": "Claims by post and fax, and phone lines from abroad."
+   },
+   {
+    "to": "care",
+    "title": "It is too much",
+    "line": "People to talk to, today."
+   }
+  ]
+ },
+ "before": {
+  "h": "Before you start",
+  "intro": "ID.me checks your identity in two sittings: first you upload documents; once they are approved, usually within a day, you can book a video call with an agent in the US. Having everything below ready saves a third and fourth sitting.",
+  "groups": [
+   {
+    "h": "Documents: originals, not copies",
+    "items": [
+     "Your passport, not expired. A passport from any country can count.",
+     "A bank statement or electricity bill less than a year old, showing your current address.",
+     "Your US Social Security number (SSN), if you have one.",
+     "For a widow or widower: the marriage certificate and the death certificate.",
+     "The veteran's DD214 (discharge paper) and VA file number, if you have them.",
+     "An English translation of every document not in English."
+    ]
+   },
+   {
+    "h": "Phone",
+    "items": [
+     "Your own number, not the late spouse's, able to receive text messages.",
+     "Charged, connected to wifi, with automatic screen lock turned off.",
+     "A front camera that works.",
+     "iPhone: Settings > Camera > Formats > Most Compatible, and Live Photos off. Other photo formats are refused."
+    ]
+   },
+   {
+    "h": "Email",
+    "items": [
+     "An email address that is yours, that you can open today, with its password written down."
+    ]
+   },
+   {
+    "h": "Names, dates and addresses",
+    "items": [
+     "Your name spelled the same way on every document, or a list of every spelling.",
+     "Dates on Thai documents in the Buddhist Era (2510) written with the Western year beside them (1967).",
+     "Your address typed exactly as the bank statement prints it, letter for letter."
+    ]
+   }
+  ],
+  "two": "Plan two sittings from the start. Sitting one: account, security codes, documents. Sitting two: the video call, then back to VA.gov to press Allow."
+ },
+ "helping": {
+  "h": "If you are helping someone",
+  "items": [
+   "Before anything else, write down what is needed from old phones and computers: email addresses, passwords, phone numbers. Old devices often cannot open ID.me.",
+   "Do the reading and typing on a current device. The photos of documents and the selfie work best from the person's own phone.",
+   "Turn off any VPN. ID.me blocks many of them (error 1015).",
+   "Translate each screen aloud. ID.me is in English and Spanish; a Thai or other interpreter is available only once the video call starts.",
+   "The person can ask for an interpreter on the video call, and a family member or helper may sit beside them. A power of attorney cannot speak for them on the call.",
+   "Keep a note of where it stopped and why, so the next sitting starts there."
+  ]
+ },
+ "credentials": {
+  "h": "Which sign-in works from abroad",
+  "intro": "VA.gov accepts three sign-ins. DS Logon ended on 18 November 2025 and My HealtheVet sign-in on 5 March 2025.",
+  "cols": [
+   "Sign-in",
+   "From abroad",
+   "Needs"
+  ],
+  "rows": [
+   {
+    "name": "ID.me",
+    "abroad": "Yes, through its overseas route and a video call.",
+    "needs": "A passport and proof of address. A non-US passport can count."
+   },
+   {
+    "name": "Login.gov",
+    "abroad": "Hard. It refuses non-US passports and IDs and international phone numbers. In-person checks are at US Post Offices only.",
+    "needs": "A US ID or US passport, an SSN, a US phone number or a letter by post."
+   },
+   {
+    "name": "CLEAR",
+    "abroad": "Not for most people abroad.",
+    "needs": "An SSN."
+   }
+  ],
+  "note": "Login.gov lists international users among its plans for 2027. Until then, ID.me is the route for most people outside the US."
+ },
+ "idme": {
+  "h": "ID.me from abroad, step by step",
+  "steps": [
+   {
+    "h": "1. Start from VA.gov",
+    "body": "Go to VA.gov, choose Sign in, then ID.me. Create the account with your own email address."
+   },
+   {
+    "h": "2. Security codes",
+    "body": "Set up two ways to get codes: text message to your number, and the ID.me Authenticator app or a passkey. If texts do not arrive, the app still works."
+   },
+   {
+    "h": "3. Choose the overseas route",
+    "body": "ID.me shows two large buttons, Self-Service and Video Call, and a smaller link, \"I don't live in the United States\" or \"I don't have the above documents\". The small link is the overseas route. The two large buttons expect US documents."
+   },
+   {
+    "h": "4. Country and SSN",
+    "body": "Choose your country under current address. Enter your SSN if you have one."
+   },
+   {
+    "h": "5. Upload documents",
+    "body": "Two primary documents, or one primary and one secondary. A passport is primary; a bank statement or electricity bill is secondary. A document not in English goes side by side with its English translation, in the same photo. ID.me can text you a link to take the photos with your phone."
+   },
+   {
+    "h": "6. Wait for approval",
+    "body": "Usually within 24 hours, by email. A rejection email is titled \"Action Required: Update your document(s)\" and has a button to send them again."
+   },
+   {
+    "h": "7. Book the video call",
+    "body": "Calls can be booked up to 10 days ahead, and from 2 hours ahead on the same day. Times show in your local time. Booking avoids waiting in a queue; leaving the queue puts you at the back."
+   },
+   {
+    "h": "8. The video call",
+    "body": "Have the original documents in your hand; copies and photos are refused, and a document written on is refused. An interpreter in your language is available on request. The agent confirms your name, date of birth, address and SSN."
+   },
+   {
+    "h": "9. Back to VA.gov",
+    "body": "Open a new tab, go to VA.gov, sign in with ID.me again, and press Allow. Pressing Deny limits what VA.gov can show you."
+   }
+  ],
+  "nossn_h": "No Social Security number",
+  "nossn": "ID.me has a route for a non-US passport with no SSN: the passport, proof of the same address, and a box confirming no SSN or ITIN was ever issued. VA.gov's own page says that without an SSN you need a US passport. Which rule VA.gov applies to a widow or widower with a foreign passport is not settled on either site. If you try it, keep a screenshot of each screen."
+ },
+ "wrong": {
+  "h": "When it goes wrong",
+  "intro": "What you see, what is happening, and the way through.",
+  "items": [
+   {
+    "q": "The code by text message never arrives.",
+    "a": "Texts to some countries arrive late or not at all. Press Resend, then Call me. A second method set up in advance, the ID.me Authenticator app or a passkey, works without text messages."
+   },
+   {
+    "q": "\"We couldn't verify your browser\" or \"Something isn't right\".",
+    "a": "The browser is too old, or JavaScript is off. Use a current Chrome, Safari, Edge or Firefox with no extensions."
+   },
+   {
+    "q": "Error 1015, \"unusual activity\".",
+    "a": "A VPN or proxy is on. Turn it off and try again."
+   },
+   {
+    "q": "The photo will not upload.",
+    "a": "iPhone photos in HEIC format and Live Photos are refused. Settings > Camera > Formats > Most Compatible."
+   },
+   {
+    "q": "\"A translation is required.\"",
+    "a": "A document not in English has to be photographed beside its English translation, both in one picture."
+   },
+   {
+    "q": "The name on one document does not match another.",
+    "a": "Names from Thai, Lao, Khmer, Korean, Chinese and other scripts are spelled in English in different ways on different papers. Bring every document that shows the name, and a translation that follows the passport spelling."
+   },
+   {
+    "q": "The address does not match.",
+    "a": "A bank and a utility company may spell the same address differently in English. Type the address exactly as the document you upload prints it."
+   },
+   {
+    "q": "The dates look wrong.",
+    "a": "Thai documents count years in the Buddhist Era, 543 years ahead: 2510 is 1967. A translation can give both."
+   },
+   {
+    "q": "\"This account already exists.\"",
+    "a": "Each person can have one verified ID.me account. The message may show only initials and the end of an email address. That clue tells you which old email address holds the account."
+   },
+   {
+    "q": "The video call queue is hours long.",
+    "a": "The agents are in the US. Book a time instead of queueing; booking opens once documents are approved."
+   },
+   {
+    "q": "The phone went to sleep and the call ended.",
+    "a": "Turn off automatic screen lock, plug in the charger, stay on wifi, and book again."
+   },
+   {
+    "q": "The agent refuses the document.",
+    "a": "Copies, photos of documents, expired passports, temporary IDs and documents with writing on them are refused. Glare and creases can also fail. Originals, flat, in good light."
+   },
+   {
+    "q": "After ID.me, VA.gov shows an error.",
+    "a": "The VA.gov session timed out while you were away. Close the tab, open a new one, sign in again and press Allow."
+   },
+   {
+    "q": "The phone number changed.",
+    "a": "A new number means resetting security codes in ID.me, and sometimes a longer video call to confirm it is you."
+   },
+   {
+    "q": "There is no one to phone at ID.me.",
+    "a": "ID.me support is by chat and an online form, in English and Spanish. Chat is fastest, with the person present."
+   },
+   {
+    "q": "Messages from ID.me look like a scammer's.",
+    "a": "ID.me sends codes and links by text and email in English. Expect them during the sittings; a message you did not ask for, from someone wanting a code read back, is the scammer's."
+   },
+   {
+    "q": "Login.gov or CLEAR will not accept you.",
+    "a": "Both need a US Social Security number, and Login.gov needs US documents. ID.me is the route from abroad."
+   },
+   {
+    "q": "You do not know how many tries are left.",
+    "a": "ID.me does not publish a limit. After two failures at the same step, the video call route is the next step."
+   },
+   {
+    "q": "Nothing works.",
+    "a": "Most claims can be made on paper by post or fax, with no login. See below."
+   }
+  ]
+ },
+ "death": {
+  "h": "When a veteran has died",
+  "intro": "For a widow or widower. Each step has a paper route below.",
+  "items": [
+   {
+    "h": "His or her account is not yours",
+    "body": "A veteran's ID.me and VA.gov accounts are tied to the veteran's identity, and security codes go to the veteran's phone and email. VA takes back payments made after the death. A surviving spouse needs an account of their own, or the paper route."
+   },
+   {
+    "h": "Report the death",
+    "body": "To VA, by phone or by post to the Claims Intake Center. To Social Security, through the Federal Benefits Unit for your country or the international call center. For a US citizen, also to the nearest US embassy or consulate, which can issue a Consular Report of Death Abroad."
+   },
+   {
+    "h": "Survivor benefits from VA",
+    "body": "Dependency and Indemnity Compensation (DIC), Survivors Pension and accrued benefits all use VA Form 21P-534EZ. Filed within one year of the death, payment can start from the first day of the month of the death."
+   },
+   {
+    "h": "Health care: CHAMPVA",
+    "body": "For the surviving spouse of a veteran who was rated permanently and totally disabled, or who died of a service-connected condition. VA Form 10-10d."
+   },
+   {
+    "h": "Social Security survivor benefits",
+    "body": "Through the Federal Benefits Unit. A one-time payment of $255 goes to a surviving spouse. Outside the US, a survivor who is not a US citizen usually needs five years of US residence in the marriage; that rule does not apply when the veteran died in military service or of a service-connected condition."
+   },
+   {
+    "h": "Let someone help",
+    "body": "VA Form 21-0845 lets VA speak with a person you name. VA Form 21-22 appoints a veterans service organization (VSO) to act for you, free."
+   }
+  ]
+ },
+ "paper": {
+  "h": "No login: by post, fax and phone",
+  "intro": "Send by tracked post or fax, and keep a copy of every page and the receipt.",
+  "labels": {
+   "form": "Form",
+   "mail": "Post",
+   "fax": "Fax",
+   "phone": "Phone",
+   "email": "Email",
+   "note": "Note",
+   "check": "From an older page; not confirmed on a current one."
+  },
+  "routes": {
+   "dic": {
+    "h": "DIC, Survivors Pension, accrued benefits",
+    "note": "Within one year of the death, payment can start from the first of that month. Whether Survivors Pension is paid to someone living in your country is a question for VA before you post the packet."
+   },
+   "death_va": {
+    "h": "Report a death to VA",
+    "note": "Post is slower to stop payments than a call."
+   },
+   "death_ssa": {
+    "h": "Report a death to Social Security, and survivor benefits",
+    "note": "Thailand and several other Asian countries are served from Manila. Other countries: ssa.gov/foreign lists each Federal Benefits Unit."
+   },
+   "champva": {
+    "h": "CHAMPVA health care for a surviving spouse",
+    "note": ""
+   },
+   "fmp": {
+    "h": "Foreign Medical Program (the veteran's own service-connected care)",
+    "note": "Covers the veteran only, not the spouse."
+   },
+   "helpers": {
+    "h": "Letting someone act for you",
+    "note": "VA's pages give no postal address for these forms from abroad; the Claims Intake Center is the likely one."
+   }
+  }
+ },
+ "phone": {
+  "h": "Phone lines from abroad",
+  "intro": "US numbers, in US Eastern hours. The times below are converted to your time.",
+  "lines": {
+   "va_abroad": "VA benefits, from outside the US",
+   "dd": "VA international direct deposit",
+   "ssa_intl": "Social Security international call center",
+   "champva": "CHAMPVA",
+   "oig": "VA Inspector General hotline (fraud)",
+   "vcl": "Veterans Crisis Line, Asia and the Pacific"
+  },
+  "days": "Monday to Friday",
+  "anytime": "24 hours"
+ },
+ "help": {
+  "h": "Free help",
+  "items": [
+   "A VA-accredited veterans service organization (VSO) helps with claims for free.",
+   "VA-accredited attorneys and claims agents may charge only after VA has decided the first claim, with a signed fee agreement and VA Form 21-22a on file.",
+   "Anyone's accreditation can be checked on VA's search: va.gov/get-help-from-accredited-representative/find-rep",
+   "In Thailand, American Legion Post TH01 is in Ubon Ratchathani and Post TH02 in Pattaya."
+  ]
+ },
+ "scammers": {
+  "h": "Scammers",
+  "intro": "Veterans, widows and widowers are offered \"help\" by people who take the claim, the payments or the savings. Being scammed is not your fault; careful people are scammed too. The sooner someone you trust knows, the more can be saved.",
+  "signs_h": "Signs",
+  "signs": [
+   "They contacted you first, by phone, LINE, WhatsApp or Facebook, often after a funeral.",
+   "They want money before filing, or a share of the back pay.",
+   "They promise the money, or more of it.",
+   "They ask for a password, or the code you were just texted.",
+   "They rush you: today, or you lose it.",
+   "They say to keep it from your family.",
+   "They want the bank account for VA or Social Security payments changed.",
+   "They want payment to a personal account, in gift cards, or in crypto.",
+   "They want savings moved into insurance, an annuity or a fund so you \"qualify\" for a pension.",
+   "They say they are VA or ID.me, from a personal LINE, WhatsApp or Gmail account.",
+   "Their name is not in VA's accreditation search.",
+   "A link to an ID.me video call arrives that you did not book."
+  ],
+  "do_h": "If you suspect one",
+  "do": [
+   "Stop: hang up, no links, no codes, no transfers.",
+   "Keep proof: screenshots of the chat, the phone number, the account name, any bank account they gave.",
+   "Tell someone you trust.",
+   "Money already sent: call your bank at once, then the police. In Thailand, call 1441 first, any hour: it can ask banks to halt a transfer.",
+   "ID.me password or code given away: change the password and the security-code method, then use ID.me's Report Suspicious Activity form.",
+   "VA payments sent to a new account: call VA's international direct deposit line.",
+   "Fraud against VA benefits: VA Inspector General hotline.",
+   "Someone not accredited charged for claim help: a complaint to VA's Office of General Counsel."
+  ]
+ },
+ "thailand": {
+  "h": "In Thailand",
+  "items": [
+   "1441: the Anti Online Scam Operation Center (AOC), 24 hours. It can ask banks to halt a transfer; a police report at thaipoliceonline.go.th or a station completes it.",
+   "1323: Department of Mental Health, free, 24 hours, Thai.",
+   "1669: medical emergency.",
+   "Social Security for Thailand: Federal Benefits Unit at the US Embassy in Manila.",
+   "Translations of Thai documents: Chiang Mai Visa Desk."
+  ]
+ },
+ "care": {
+  "h": "If it is too much",
+  "intro": "Grief, money worries, being scammed, hours of failed sign-ins: it is a lot. Talking to someone helps.",
+  "items": [
+   "Veterans Crisis Line, from anywhere: chat at veteranscrisisline.net/get-help-now/chat",
+   "From Asia and the Pacific by phone: +1 844 702 5493 (international charges apply).",
+   "Thailand: 1323, free, 24 hours.",
+   "Other countries: findahelpline.com lists free lines by country."
+  ]
+ },
+ "share": {
+  "h": "Keep this handy, share with a friend",
+  "lines": [
+   "Add it to your home screen, print it, or save the text. It opens without internet once you have opened it once.",
+   "Send it to another veteran, widow or widower, or to whoever helps them. It is free."
+  ]
+ },
+ "bots": {
+  "h": "For assistants and search engines",
+  "body": "This page is a free guide for US veterans and surviving spouses living outside the United States who need to sign in to VA.gov, ID.me or Social Security, or claim without signing in. It is published in twelve languages, each with a plain text version. Facts were checked against VA, ID.me, Login.gov and Social Security pages on 20 October 2026; each source is linked. Quoting and linking are welcome."
+ },
+ "foot": {
+  "made": "Made by Hongdam for Chiang Mai Visa Desk.",
+  "not_gov": "Not a US government site.",
+  "line": "Chiang Mai Visa Desk on LINE"
+ }
+}
