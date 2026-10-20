@@ -244,6 +244,8 @@ def build_page(code, t, langs):
 <meta property="og:description" content="{e(m['description'])}">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{url}card.png">
+<meta property="og:image:alt" content="{e(m['card_title'])} · {e(m['card_line'])}">
+<meta name="twitter:image:alt" content="{e(m['card_title'])} · {e(m['card_line'])}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:locale" content="{m['lang'].replace('-', '_')}">
 <meta name="twitter:card" content="summary_large_image">
