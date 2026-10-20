@@ -1,0 +1,258 @@
+PAGPASOK SA ACCOUNT: VA, ID.ME AT SOCIAL SECURITY MULA SA IBANG BANSA
+https://nanobotco.github.io/getting-in/tl/
+Itabi ito para madaling mabalikan, at ibahagi sa kaibigan
+Sinuri laban sa mga opisyal na pahina noong 20 Oktubre 2026.
+
+Maraming lugar kung saan pumapalya ang pag-sign in mula sa ibang bansa: code na hindi dumarating, dokumentong tinanggihan, video call sa kalagitnaan ng gabi, password na pag-aari ng taong pumanaw na. Inililista ng pahinang ito ang bawat lugar na pumapalya at ang paraan para malampasan ito, ang mga paraang walang kailangang login, at kung paano malalaman ang kaibahan ng tunay na tumutulong sa scammer.
+
+
+BAGO MAGSIMULA
+Sa dalawang sesyon sinusuri ng ID.me ang pagkakakilanlan ninyo: una, mag-a-upload kayo ng mga dokumento; kapag naaprubahan ang mga ito, karaniwan sa loob ng isang araw, maaari na kayong mag-book ng video call sa isang ahente sa US. Kapag handa na ang lahat ng nasa ibaba, hindi na kakailanganin ang pangatlo at pang-apat na sesyon.
+
+Mga dokumento: orihinal, hindi kopya
+[ ] Ang inyong pasaporte, hindi pa expired. Maaaring tanggapin ang pasaporte mula sa anumang bansa.
+[ ] Bank statement o resibo ng kuryente na wala pang isang taon, na nagpapakita ng kasalukuyang address ninyo.
+[ ] Ang inyong US Social Security number (SSN), kung mayroon kayo.
+[ ] Para sa balo o biyudo: ang marriage certificate at ang death certificate.
+[ ] Ang DD214 ng beterano (papel ng discharge) at ang VA file number, kung mayroon kayo.
+[ ] English na salin ng bawat dokumentong hindi nakasulat sa English.
+
+Telepono
+[ ] Sarili ninyong numero, hindi ang numero ng yumaong asawa, na nakakatanggap ng text message.
+[ ] May charge, nakakonekta sa wifi, at naka-off ang awtomatikong screen lock.
+[ ] Gumaganang front camera.
+[ ] iPhone: "Settings > Camera > Formats > Most Compatible" (Mga Setting > Camera > Mga Format > Pinakatugma), at patayin ang "Live Photos". Tinatanggihan ang ibang format ng litrato.
+
+Email
+[ ] Email address na sa inyo, na mabubuksan ninyo ngayon din, at nakasulat ang password nito.
+
+Mga pangalan, petsa at address
+[ ] Pareho ang baybay ng pangalan ninyo sa bawat dokumento, o may listahan ng bawat baybay.
+[ ] Ang mga petsa sa mga dokumentong Thai sa Buddhist Era (Kalendaryong Budista) (2510), isinulat katabi ang taon ayon sa kalendaryong Kanluranin (1967).
+[ ] Ang address ninyo ay i-type nang eksakto ayon sa pagkakalimbag sa bank statement, letra por letra.
+
+Magplano ng dalawang sesyon mula sa simula. Unang sesyon: account, mga code sa seguridad, mga dokumento. Ikalawang sesyon: ang video call, pagkatapos ay bumalik sa VA.gov at pindutin ang "Allow" (Payagan).
+
+KUNG MAY TINUTULUNGAN KAYO
+- Bago ang lahat, isulat kung ano ang kailangan mula sa mga lumang telepono at computer: email address, password, numero ng telepono. Madalas hindi mabuksan ang ID.me sa mga lumang device.
+- Gawin ang pagbabasa at pag-type sa makabagong device. Pinakamaganda ang kuha ng litrato ng mga dokumento at ng selfie kapag gamit ang sariling telepono ng tao.
+- I-off ang anumang VPN. Maraming VPN ang hinaharang ng ID.me (error 1015).
+- Isalin nang malakas ang bawat screen. Nasa English at Spanish ang ID.me; ang interpreter sa Thai o sa ibang wika ay makukuha lamang kapag nagsimula na ang video call.
+- Maaaring humingi ang tao ng interpreter sa video call, at maaaring umupo sa tabi niya ang kapamilya o katulong. Hindi maaaring magsalita para sa kanya sa tawag ang may power of attorney.
+- Itala kung saan huminto at bakit, para doon magsisimula ang susunod na sesyon.
+
+ALING SIGN-IN ANG GUMAGANA MULA SA IBANG BANSA
+Tatlong sign-in ang tinatanggap ng VA.gov. Natapos ang DS Logon noong 18 Nobyembre 2025 at ang sign-in ng My HealtheVet noong 5 Marso 2025.
+- ID.me: Oo, sa pamamagitan ng ruta nito para sa ibang bansa at ng video call. Kailangan: Pasaporte at patunay ng address. Maaaring tanggapin ang pasaporteng hindi US.
+- Login.gov: Mahirap. Tinatanggihan nito ang mga pasaporte at ID na hindi US at ang mga numero ng telepono sa ibang bansa. Sa mga US Post Office lamang ang pagsusuri nang personal. Kailangan: US ID o US passport, SSN, US na numero ng telepono o liham sa koreo.
+- CLEAR: Hindi para sa karamihan ng nasa ibang bansa. Kailangan: SSN.
+Kasama ang mga user mula sa ibang bansa sa mga plano ng Login.gov para sa 2027. Hanggang doon, ang ID.me ang ruta para sa karamihan ng nasa labas ng US.
+
+ID.ME MULA SA IBANG BANSA, HAKBANG-HAKBANG
+1. Magsimula sa VA.gov
+Pumunta sa VA.gov, piliin ang "Sign in" (Mag-sign in), pagkatapos ay ID.me. Gawin ang account gamit ang sarili ninyong email address.
+2. Mga code sa seguridad
+Mag-set up ng dalawang paraan para makakuha ng code: text message sa numero ninyo, at ang ID.me Authenticator app o isang passkey. Kung hindi dumarating ang mga text, gumagana pa rin ang app.
+3. Piliin ang ruta para sa ibang bansa
+Nagpapakita ang ID.me ng dalawang malaking button, "Self-Service" (Gawin nang mag-isa) at "Video Call" (Tawag sa video), at isang mas maliit na link, "I don't live in the United States" (Hindi ako nakatira sa Estados Unidos) o "I don't have the above documents" (Wala sa akin ang mga dokumento sa itaas). Ang maliit na link ang ruta para sa ibang bansa. Ang dalawang malaking button ay para sa mga dokumentong US.
+4. Bansa at SSN
+Piliin ang bansa ninyo sa ilalim ng kasalukuyang address. Ilagay ang SSN ninyo kung mayroon kayo.
+5. Mag-upload ng mga dokumento
+Dalawang pangunahing dokumento, o isang pangunahin at isang pangalawa. Pangunahin ang pasaporte; pangalawa ang bank statement o resibo ng kuryente. Ang dokumentong hindi English ay ilalagay katabi ng English na salin nito, sa iisang litrato. Maaaring magpadala sa inyo ang ID.me ng link sa text para makuhanan ng litrato gamit ang telepono ninyo.
+6. Hintayin ang pag-apruba
+Karaniwan sa loob ng 24 oras, sa pamamagitan ng email. Ang email ng pagtanggi ay may pamagat na "Action Required: Update your document(s)" (Kailangan ng aksyon: I-update ang inyong mga dokumento) at may button para ipadala muli ang mga ito.
+7. Mag-book ng video call
+Maaaring mag-book ng tawag hanggang 10 araw bago, at mula 2 oras bago sa parehong araw. Nasa lokal na oras ninyo ang mga oras na nakikita. Sa pag-book, hindi na kayo maghihintay sa pila; kapag umalis kayo sa pila, mapupunta kayo sa dulo.
+8. Ang video call
+Hawakan ang mga orihinal na dokumento; tinatanggihan ang mga kopya at litrato, at tinatanggihan ang dokumentong may sulat. May interpreter sa wika ninyo kapag hiniling. Kinukumpirma ng ahente ang pangalan, petsa ng kapanganakan, address at SSN ninyo.
+9. Balik sa VA.gov
+Magbukas ng bagong tab, pumunta sa VA.gov, mag-sign in muli gamit ang ID.me, at pindutin ang "Allow" (Payagan). Kapag pinindot ang "Deny" (Tanggihan), nalilimitahan ang maipapakita ng VA.gov sa inyo.
+
+Walang Social Security number
+May ruta ang ID.me para sa pasaporteng hindi US na walang SSN: ang pasaporte, patunay ng parehong address, at isang kahon na nagkukumpirmang walang SSN o ITIN na naibigay kailanman. Sinasabi ng sariling pahina ng VA.gov na kung walang SSN, kailangan ninyo ng US passport. Hindi pa malinaw sa alinmang site kung aling tuntunin ang ipinapatupad ng VA.gov sa balo o biyudo na may banyagang pasaporte. Kung susubukan ninyo, mag-screenshot sa bawat screen.
+
+KAPAG MAY PUMALYA
+? Hindi dumarating ang code sa text message.
+  Ang mga text sa ilang bansa ay nahuhuli o hindi dumarating. Pindutin ang "Resend" (Ipadala muli), pagkatapos ay "Call me" (Tawagan ako). Ang pangalawang paraang na-set up nang maaga, ang ID.me Authenticator app o passkey, ay gumagana nang walang text message.
+? "We couldn't verify your browser" (Hindi namin ma-verify ang browser ninyo) o "Something isn't right" (May mali).
+  Luma na ang browser, o naka-off ang JavaScript. Gumamit ng makabagong Chrome, Safari, Edge o Firefox na walang extension.
+? Error 1015, "unusual activity" (kakaibang aktibidad).
+  Naka-on ang VPN o proxy. I-off ito at subukan muli.
+? Hindi ma-upload ang litrato.
+  Tinatanggihan ang mga litrato ng iPhone na HEIC ang format at ang Live Photos. "Settings > Camera > Formats > Most Compatible" (Mga Setting > Camera > Mga Format > Pinakatugma).
+? "A translation is required." (Kailangan ng salin.)
+  Ang dokumentong hindi English ay kailangang kuhanan ng litrato katabi ng English na salin nito, pareho sa iisang larawan.
+? Hindi tugma ang pangalan sa isang dokumento at sa iba.
+  Ang mga pangalan mula sa Thai, Lao, Khmer, Korean, Chinese at iba pang sulat ay binabaybay sa English sa magkakaibang paraan sa magkakaibang papel. Dalhin ang bawat dokumentong nagpapakita ng pangalan, at isang salin na sumusunod sa baybay sa pasaporte.
+? Hindi tugma ang address.
+  Maaaring magkaiba ang baybay ng bangko at ng kompanya ng kuryente o tubig sa parehong address sa English. I-type ang address nang eksakto ayon sa pagkakalimbag sa dokumentong ina-upload ninyo.
+? Mukhang mali ang mga petsa.
+  Binibilang ng mga dokumentong Thai ang taon sa Buddhist Era, mas mataas ng 543 taon: ang 2510 ay 1967. Maaaring ibigay ng salin ang pareho.
+? "This account already exists." (Mayroon nang ganitong account.)
+  Bawat tao ay maaaring magkaroon ng isang na-verify na ID.me account. Maaaring mga inisyal at dulo lamang ng email address ang ipakita ng mensahe. Ang pahiwatig na iyon ang magsasabi kung aling lumang email address ang may hawak ng account.
+? Ilang oras ang haba ng pila sa video call.
+  Nasa US ang mga ahente. Mag-book ng oras sa halip na pumila; bumubukas ang booking kapag naaprubahan na ang mga dokumento.
+? Nag-sleep ang telepono at naputol ang tawag.
+  I-off ang awtomatikong screen lock, isaksak ang charger, manatili sa wifi, at mag-book muli.
+? Tinatanggihan ng ahente ang dokumento.
+  Tinatanggihan ang mga kopya, litrato ng mga dokumento, expired na pasaporte, pansamantalang ID at mga dokumentong may sulat. Maaari ring pumalya dahil sa silaw at lukot. Orihinal, patag, sa magandang ilaw.
+? Pagkatapos ng ID.me, may error sa VA.gov.
+  Nag-timeout ang session ng VA.gov habang wala kayo. Isara ang tab, magbukas ng bago, mag-sign in muli at pindutin ang "Allow" (Payagan).
+? Nagpalit ng numero ng telepono.
+  Ang bagong numero ay nangangahulugang i-reset ang mga code sa seguridad sa ID.me, at kung minsan ay mas mahabang video call para makumpirmang kayo nga iyon.
+? Walang matatawagan sa ID.me.
+  Sa chat at online form ang suporta ng ID.me, sa English at Spanish. Pinakamabilis ang chat, kasama ang mismong may-ari ng account.
+? Parang galing sa scammer ang mga mensahe mula sa ID.me.
+  Nagpapadala ang ID.me ng mga code at link sa text at email sa English. Asahan ang mga ito habang nasa mga sesyon; ang mensaheng hindi ninyo hiniling, mula sa taong gustong ipabasa pabalik ang code, ay galing sa scammer.
+? Hindi kayo tinatanggap ng Login.gov o CLEAR.
+  Parehong kailangan ng US Social Security number, at kailangan ng Login.gov ng mga dokumentong US. Ang ID.me ang ruta mula sa ibang bansa.
+? Hindi ninyo alam kung ilang subok pa ang natitira.
+  Hindi naglalathala ng limitasyon ang ID.me. Pagkatapos ng dalawang pagkabigo sa parehong hakbang, ang ruta ng video call ang susunod na hakbang.
+? Walang gumagana.
+  Karamihan ng mga claim ay maaaring gawin sa papel sa koreo o fax, nang walang login. Tingnan sa ibaba.
+
+KAPAG PUMANAW NA ANG BETERANO
+Para sa balo o biyudo. May ruta sa papel sa ibaba para sa bawat hakbang.
+Hindi sa inyo ang account niya
+Nakatali ang ID.me at VA.gov account ng beterano sa pagkakakilanlan ng beterano, at napupunta ang mga code sa seguridad sa telepono at email ng beterano. Binabawi ng VA (Kagawaran ng mga Beterano ng US, US Department of Veterans Affairs) ang mga bayad na ibinigay pagkatapos ng pagkamatay. Kailangan ng naiwang asawa ng sarili niyang account, o ng ruta sa papel.
+Iulat ang pagkamatay
+Sa VA, sa telepono o sa koreo sa Claims Intake Center. Sa Social Security, sa pamamagitan ng Federal Benefits Unit para sa bansa ninyo o ng international call center. Para sa mamamayang US, iulat din sa pinakamalapit na US embassy o consulate, na maaaring maglabas ng Consular Report of Death Abroad (Ulat ng Konsulado sa Pagkamatay sa Ibang Bansa).
+Mga survivor benefit mula sa VA
+Ang Kompensasyon para sa mga Umaasa at Pagbabayad-pinsala (Dependency and Indemnity Compensation, DIC), ang Pensyon para sa mga Naiwan (Survivors Pension) at ang mga naipong benepisyo (accrued benefits) ay gumagamit lahat ng VA Form 21P-534EZ. Kapag naihain sa loob ng isang taon mula sa pagkamatay, maaaring magsimula ang bayad mula sa unang araw ng buwan ng pagkamatay.
+Pangangalagang pangkalusugan: CHAMPVA
+Para sa naiwang asawa ng beteranong na-rate na permanente at ganap na may kapansanan, o namatay dahil sa kondisyong may kaugnayan sa serbisyo. VA Form 10-10d.
+Mga survivor benefit mula sa Social Security
+Sa pamamagitan ng Federal Benefits Unit. Isang beses na bayad na $255 ang ibinibigay sa naiwang asawa. Sa labas ng US, ang survivor na hindi mamamayang US ay karaniwang nangangailangan ng limang taong paninirahan sa US sa loob ng kasal; hindi ito ipinapatupad kapag namatay ang beterano habang nasa serbisyong militar o dahil sa kondisyong may kaugnayan sa serbisyo.
+Hayaang may tumulong
+Pinapayagan ng VA Form 21-0845 ang VA na makipag-usap sa taong pangalanan ninyo. Itinatalaga ng VA Form 21-22 ang isang organisasyon ng serbisyo para sa mga beterano (veterans service organization, VSO) para kumilos para sa inyo, nang libre.
+
+WALANG LOGIN: SA KOREO, FAX AT TELEPONO
+Ipadala sa tracked na koreo o fax, at itago ang kopya ng bawat pahina at ang resibo.
+
+DIC, Survivors Pension, accrued benefits
+Form: VA 21P-534EZ https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf
+Koreo: Department of Veterans Affairs, Pension Intake Center, PO Box 5365, Janesville, WI 53547-5365, USA
+Fax: +1 844 531 7818 · +1 248 524 4260 (Mula sa mas lumang pahina; hindi pa nakukumpirma sa kasalukuyang pahina.)
+Sa loob ng isang taon mula sa pagkamatay, maaaring magsimula ang bayad mula sa una ng buwang iyon. Kung binabayaran ang Survivors Pension sa nakatira sa bansa ninyo ay tanong para sa VA bago ninyo ipadala sa koreo ang mga papeles.
+
+Iulat ang pagkamatay sa VA
+Koreo: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Telepono: +1 412 395 6272
+Mas mabagal ang koreo kaysa tawag sa pagpapahinto ng mga bayad.
+
+Iulat ang pagkamatay sa Social Security, at mga survivor benefit
+Koreo: Federal Benefits Unit, US Embassy, 1201 Roxas Boulevard, Ermita, Manila 0930, Philippines
+Fax: +63 2 8708 9714
+Telepono: +63 2 5301 6200 · +1 855 522 6936
+Email: FBU.Manila@ssa.gov
+Ang Thailand at ilang iba pang bansa sa Asya ay pinaglilingkuran mula sa Manila. Ibang bansa: nakalista sa ssa.gov/foreign ang bawat Federal Benefits Unit.
+
+CHAMPVA na pangangalagang pangkalusugan para sa naiwang asawa
+Form: VA 10-10d https://www.va.gov/find-forms/about-form-10-10d/
+Koreo: VHA Office of Community Care, CHAMPVA Eligibility, PO Box 137, Spring City, PA 19475, USA
+Telepono: +1 800 733 8387
+
+Foreign Medical Program (pangangalaga ng beterano mismo para sa kondisyong may kaugnayan sa serbisyo)
+Koreo: VHA Office of Integrated Veteran Care, Foreign Medical Program, PO Box 200, Spring City, PA 19475, USA
+Email: HAC.FMP@va.gov
+Para lamang sa beterano, hindi sa asawa.
+
+Pagpapahintulot sa iba na kumilos para sa inyo
+Form: VA 21-0845 · VA 21-22 · VA 21-22a https://www.va.gov/find-forms/about-form-21-0845/
+Koreo: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Walang ibinibigay na address sa koreo ang mga pahina ng VA para sa mga form na ito mula sa ibang bansa; ang Claims Intake Center ang malamang na tama.
+
+MGA LINYA NG TELEPONO MULA SA IBANG BANSA
+Mga numerong US, sa oras ng US Eastern. Ang mga oras sa ibaba ay nakumberte sa oras ninyo.
+- Mga benepisyo ng VA, mula sa labas ng US: +1 412 395 6272 (Lunes hanggang Biyernes, 08:00-21:00 ET)
+- International direct deposit ng VA: +1 918 781 7550 (Lunes hanggang Biyernes, 09:00-17:30 ET)
+- International call center ng Social Security: +1 855 522 6936
+- CHAMPVA: +1 800 733 8387
+- Hotline ng VA Inspector General (panloloko): +1 800 488 8244 (Lunes hanggang Biyernes, 09:30-15:30 ET; Huwebes hanggang 13:00 ET)
+- Veterans Crisis Line, Asya at Pasipiko: +1 844 702 5493 (24 oras)
+
+LIBRENG TULONG
+- Ang VSO na akreditado (accredited) ng VA ay tumutulong sa mga claim nang libre.
+- Ang mga abogado at claims agent na akreditado ng VA ay maaari lamang maningil pagkatapos magpasya ang VA sa unang claim, na may pirmadong kasunduan sa bayad at VA Form 21-22a na nasa file.
+- Maaaring suriin ang akreditasyon ng sinuman sa paghahanap ng VA: va.gov/get-help-from-accredited-representative/find-rep
+- Sa Thailand, nasa Ubon Ratchathani ang American Legion Post TH01 at nasa Pattaya ang Post TH02.
+
+MGA SCAMMER
+Ang mga beterano, balo at biyudo ay inaalok ng "tulong" ng mga taong kumukuha ng claim, ng mga bayad o ng ipon. Hindi ninyo kasalanan ang maloko; naloloko rin ang mga maingat. Kapag mas maagang malaman ng pinagkakatiwalaan ninyo, mas marami ang maililigtas.
+
+Mga palatandaan
+- Sila ang unang lumapit sa inyo, sa telepono, LINE, WhatsApp o Facebook, madalas pagkatapos ng libing.
+- Humihingi sila ng pera bago maghain, o ng bahagi ng back pay.
+- Ipinapangako nila ang pera, o mas malaking halaga.
+- Humihingi sila ng password, o ng code na kapapadala lang sa inyo sa text.
+- Minamadali nila kayo: ngayon na, o mawawala sa inyo.
+- Sinasabi nilang itago ito sa pamilya ninyo.
+- Gusto nilang palitan ang bank account para sa mga bayad ng VA o Social Security.
+- Gusto nilang magbayad kayo sa personal na account, sa gift card, o sa crypto.
+- Gusto nilang ilipat ang ipon sa insurance, annuity o pondo para raw "mag-qualify" kayo sa pensyon.
+- Sinasabi nilang sila ay VA o ID.me, mula sa personal na LINE, WhatsApp o Gmail account.
+- Wala ang pangalan nila sa paghahanap ng akreditasyon ng VA.
+- May dumating na link sa ID.me video call na hindi ninyo ni-book.
+
+Kung may hinala kayo
+1. Huminto: ibaba ang tawag, huwag mag-click ng link, huwag magbigay ng code, huwag maglipat ng pera.
+2. Mag-ipon ng ebidensya: mga screenshot ng chat, ang numero ng telepono, ang pangalan ng account, anumang bank account na ibinigay nila.
+3. Sabihin sa taong pinagkakatiwalaan ninyo.
+4. Kung nakapagpadala na ng pera: tawagan agad ang bangko ninyo, pagkatapos ang pulis. Sa Thailand, tawagan muna ang 1441, anumang oras: maaari nitong hilingin sa mga bangko na pigilan ang paglilipat.
+5. Kung naibigay ang password o code ng ID.me: palitan ang password at ang paraan ng code sa seguridad, pagkatapos gamitin ang form na "Report Suspicious Activity" (Mag-ulat ng Kahina-hinalang Aktibidad) ng ID.me.
+6. Kung napunta ang mga bayad ng VA sa bagong account: tawagan ang linya ng international direct deposit ng VA.
+7. Panloloko laban sa mga benepisyo ng VA: ang hotline ng VA Inspector General.
+8. Kung may naningil na hindi akreditado para sa tulong sa claim: magsumite ng reklamo sa Office of General Counsel ng VA.
+
+SA THAILAND
+- 1441: ang Anti Online Scam Operation Center (AOC), 24 oras. Maaari nitong hilingin sa mga bangko na pigilan ang paglilipat; kinukumpleto ito ng police report sa thaipoliceonline.go.th o sa istasyon ng pulis.
+- 1323: Department of Mental Health, libre, 24 oras, sa wikang Thai.
+- 1669: medikal na emergency.
+- Social Security para sa Thailand: Federal Benefits Unit sa US Embassy sa Manila.
+- Mga salin ng mga dokumentong Thai: Chiang Mai Visa Desk.
+
+KUNG SOBRA NA ANG BIGAT
+Dalamhati, problema sa pera, pagkaloko, oras-oras na bigong sign-in: marami ito. Nakakatulong ang makipag-usap sa iba.
+- Veterans Crisis Line, mula saanman: chat sa veteranscrisisline.net/get-help-now/chat
+- Mula sa Asya at Pasipiko sa telepono: +1 844 702 5493 (may singil sa tawag sa ibang bansa).
+- Thailand: 1323, libre, 24 oras.
+- Ibang bansa: nakalista sa findahelpline.com ang mga libreng linya ayon sa bansa.
+
+ITABI ITO PARA MADALING MABALIKAN, AT IBAHAGI SA KAIBIGAN
+Idagdag ito sa home screen, i-print, o i-save ang text. Bumubukas ito kahit walang internet kapag nabuksan na ninyo nang isang beses.
+Ipadala ito sa ibang beterano, balo o biyudo, o sa tumutulong sa kanila. Libre ito.
+https://nanobotco.github.io/getting-in/tl/
+
+MGA PINAGMULAN
+- VA: verifying your identity from outside the US: https://www.va.gov/resources/how-can-i-verify-my-identity-on-vagov-if-i-live-outside-the-us/
+- VA: sign-in changes (DS Logon, My HealtheVet): https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+- VA: common Login.gov and ID.me issues: https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+- ID.me: overseas verification with an SSN: https://help.id.me/hc/en-us/articles/4415907236375
+- ID.me: non-US passport, no SSN: https://help.id.me/hc/en-us/articles/26952364097559
+- ID.me: accepted documents: https://help.id.me/hc/en-us/articles/360017833054
+- ID.me: translations: https://help.id.me/hc/en-us/articles/360058791094
+- ID.me: video call, interpreters, helpers: https://help.id.me/hc/en-us/articles/360058655794
+- ID.me: scheduling a video call: https://help.id.me/hc/en-us/articles/360055300094
+- ID.me: security code methods: https://help.id.me/hc/en-us/articles/360018113053
+- ID.me: suspected scam or hacking: https://help.id.me/hc/en-us/articles/1500002603702
+- ID.me: contact support: https://help.id.me/hc/p/contact_support
+- Login.gov: accepted IDs: https://login.gov/help/verify-your-identity/accepted-id-type/
+- Login.gov: phone numbers: https://login.gov/help/verify-your-identity/phone-number/
+- Login.gov roadmap, August 2026: https://login.gov/docs/login-gov-roadmap-august-2026.pdf
+- VA: CLEAR and creating an account: https://www.va.gov/resources/creating-an-account-for-vagov/
+- VA: veterans abroad: https://www.benefits.va.gov/persona/veteran-abroad.asp
+- VA: DIC: https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/
+- VA: reporting a death: https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/
+- VA: CHAMPVA: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- VA: Foreign Medical Program claims: https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim
+- VA: accredited representatives: https://www.va.gov/resources/va-accredited-representative-faqs/
+- VA: find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/find-rep/
+- VA Inspector General hotline: https://www.vaoig.gov/hotline
+- Social Security: Federal Benefits Units: https://www.ssa.gov/foreign/iclaim.htm
+- Social Security: payments outside the US (EN-05-10137): https://www.ssa.gov/pubs/EN-05-10137.pdf
+- Veterans Crisis Line overseas: https://www.veteranscrisisline.net/get-help-now/military-crisis-line/
+- Thailand AOC 1441 (Bangkok Post): https://www.bangkokpost.com/thailand/general/2924862/govt-hails-use-of-1441-hotline
+- Find a helpline: https://findahelpline.com/
+
+Ginawa ng Hongdam para sa Chiang Mai Visa Desk.
+Hindi ito site ng pamahalaan ng US.

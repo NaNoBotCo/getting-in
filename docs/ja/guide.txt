@@ -1,0 +1,258 @@
+ログインの手引き：海外から使う米国退役軍人省(VA:US DEPARTMENT OF VETERANS AFFAIRS)、ID.ME、社会保障(SOCIAL SECURITY)
+https://nanobotco.github.io/getting-in/ja/
+手元に保存して、お友だちにも教えてあげてください
+2026年10月20日に、公式のページで確認しました。
+
+外国からのログインは、いろいろな場面でつまずきます。届かない認証コード、受け付けてもらえない書類、夜中のビデオ通話、亡くなった方のものだったパスワード。このページでは、つまずく場所ごとに、その乗り越え方を説明します。ログインがまったくいらない方法や、手助けしてくれる人と詐欺師の見分け方も載せています。
+
+
+始める前に
+ID.meは、2回に分けて本人確認をします。1回目は、書類のアップロードです。書類が承認されると(たいてい1日以内)、2回目に、アメリカにいる担当者とのビデオ通話を予約できます。下のものをすべて用意しておくと、3回目、4回目をやり直さずにすみます。
+
+書類:コピーではなく原本
+[ ] パスポート(期限が切れていないもの)。どこの国のパスポートでも、認められることがあります。
+[ ] 現在の住所が書いてある、発行から1年以内の銀行の取引明細書か電気料金の請求書。
+[ ] アメリカの社会保障番号(SSN)。お持ちの場合のみ。
+[ ] 配偶者を亡くされた方は、結婚証明書と死亡証明書。
+[ ] 退役軍人のDD214(除隊証明書)とVAのファイル番号。お持ちの場合のみ。
+[ ] 英語以外の書類には、すべて英語の翻訳。
+
+電話
+[ ] 亡くなった配偶者の番号ではなく、ご自分の番号で、SMS(テキストメッセージ)を受け取れること。
+[ ] 充電してあり、wifiにつながっていて、画面の自動ロックを切ってあること。
+[ ] 前面のカメラが動くこと。
+[ ] iPhone:「Settings > Camera > Formats > Most Compatible」(設定 > カメラ > フォーマット > 互換性優先)にして、Live Photos(ライブフォト)をオフにします。ほかの形式の写真は受け付けられません。
+
+メール
+[ ] ご自分のメールアドレスで、今日開けるもの。パスワードは紙に書いておきます。
+
+名前、日付、住所
+[ ] すべての書類で、名前の英語のつづりを同じにします。または、使われているつづりをすべて書き出したリストを用意します。
+[ ] タイの書類の日付は、仏暦(2510年)で書かれています。西暦(1967年)を横に書き添えます。
+[ ] 住所は、銀行の明細書に印刷されているとおりに、一字一句同じに入力します。
+
+最初から、2回に分ける計画を立ててください。1回目:アカウント、認証コード、書類。2回目:ビデオ通話。そのあとVA.govに戻って、「Allow」(許可)を押します。
+
+誰かを手伝う場合
+- まず、古いスマートフォンやパソコンから、必要な情報を書き出します。メールアドレス、パスワード、電話番号などです。古い機器では、ID.meを開けないことがよくあります。
+- 読み書きや入力は、新しい機器でします。書類の写真と自撮りは、ご本人のスマートフォンのほうがうまくいきます。
+- VPNはオフにします。ID.meは多くのVPNをブロックします(エラー1015)。
+- 画面ごとに、声に出して訳してあげてください。ID.meは英語とスペイン語です。タイ語などの通訳が使えるのは、ビデオ通話が始まってからです。
+- ビデオ通話では、ご本人が通訳を頼めます。家族や手伝う人が、そばに座ることもできます。委任状を持つ人が、ご本人の代わりに通話で話すことはできません。
+- どこで、なぜ止まったかをメモしておきます。次の回は、そこから始められます。
+
+海外から使えるログイン方法
+VA.govでは、3種類のログインが使えます。DS Logonは2025年11月18日に、My HealtheVetのログインは2025年3月5日に終了しました。
+- ID.me: 使えます。海外向けの手順と、ビデオ通話を使います。 必要なもの: パスポートと、住所の証明。アメリカ以外のパスポートも認められることがあります。
+- Login.gov: むずかしいです。アメリカ以外のパスポートやIDと、国際電話番号は受け付けられません。対面での確認ができるのは、アメリカの郵便局だけです。 必要なもの: アメリカのIDかパスポート、SSN、アメリカの電話番号か、郵送の手紙。
+- CLEAR: 海外にいるほとんどの方には向きません。 必要なもの: SSN。
+Login.govは、2027年の計画に海外の利用者を挙げています。それまでは、アメリカ国外にいるほとんどの方にとって、ID.meが道です。
+
+海外からのID.ME、手順ごとの説明
+1. VA.govから始めます
+VA.govを開き、「Sign in」(ログイン)を選び、次にID.meを選びます。ご自分のメールアドレスで、アカウントを作ります。
+2. 認証コード
+コードの受け取り方を2つ設定します。電話番号へのSMSと、ID.me Authenticatorアプリ(またはパスキー)です。SMSが届かなくても、アプリは使えます。
+3. 海外向けの手順を選びます
+ID.meには、大きなボタンが2つ(「Self-Service」(自分で手続き)と「Video Call」(ビデオ通話))と、小さなリンクが出ます。小さなリンクは「I don't live in the United States」(アメリカに住んでいません)または「I don't have the above documents」(上の書類を持っていません)です。この小さなリンクが海外向けの手順です。大きな2つのボタンは、アメリカの書類を前提にしています。
+4. 国とSSN
+現在の住所の欄で、お住まいの国を選びます。SSNをお持ちなら、入力します。
+5. 書類をアップロードします
+主な書類を2点、または主な書類1点と補助の書類1点を出します。パスポートは主な書類、銀行の明細書や電気料金の請求書は補助の書類です。英語以外の書類は、英語の翻訳と並べて、同じ写真に写します。ID.meは、スマートフォンで写真を撮るためのリンクを、SMSで送ることができます。
+6. 承認を待ちます
+たいてい24時間以内に、メールで届きます。却下のメールの件名は「Action Required: Update your document(s)」(対応が必要です:書類を更新してください)で、書類を送り直すボタンがあります。
+7. ビデオ通話を予約します
+通話は、10日先まで予約できます。当日なら、2時間先から予約できます。時間は、お住まいの地域の時間で表示されます。予約すると、順番待ちをしなくてすみます。順番待ちを抜けると、最後尾に回されます。
+8. ビデオ通話
+原本を手に持ってください。コピーや写真は受け付けられません。書き込みのある書類も受け付けられません。ご希望の言語の通訳を頼めます。担当者が、名前、生年月日、住所、SSNを確認します。
+9. VA.govに戻ります
+新しいタブを開いてVA.govに行き、もう一度ID.meでログインして、「Allow」(許可)を押します。「Deny」(拒否)を押すと、VA.govがあなたに見せられる情報が限られます。
+
+社会保障番号がない場合
+ID.meには、SSNがなくて、アメリカ以外のパスポートを使う方のための手順があります。パスポート、同じ住所の証明、そしてSSNやITINが一度も発行されていないことを確認するチェック欄を使います。VA.gov自身のページには、SSNがない場合はアメリカのパスポートが必要だと書かれています。外国のパスポートを持つ配偶者を亡くされた方に、VA.govがどちらの規則を当てはめるかは、どちらのサイトでも決まっていません。試す場合は、すべての画面のスクリーンショットを残してください。
+
+うまくいかないとき
+? SMSの認証コードが届きません。
+  国によっては、SMSが遅れて届くか、届きません。「Resend」(再送)を押し、次に「Call me」(電話をください)を押します。事前に2つ目の方法(ID.me Authenticatorアプリかパスキー)を設定しておくと、SMSなしで使えます。
+? 「We couldn't verify your browser」(ブラウザーを確認できませんでした)や「Something isn't right」(何かがおかしいようです)と出ます。
+  ブラウザーが古いか、JavaScriptがオフになっています。拡張機能を入れていない、最新のChrome、Safari、Edge、Firefoxを使ってください。
+? エラー1015、「unusual activity」(通常と違う動き)と出ます。
+  VPNかプロキシがオンになっています。オフにして、もう一度試してください。
+? 写真がアップロードできません。
+  iPhoneのHEIC形式の写真と、Live Photosは受け付けられません。「Settings > Camera > Formats > Most Compatible」(設定 > カメラ > フォーマット > 互換性優先)にします。
+? 「A translation is required.」(翻訳が必要です)と出ます。
+  英語以外の書類は、英語の翻訳と並べて、1枚の写真に写す必要があります。
+? ある書類の名前が、別の書類と合っていません。
+  タイ語、ラオス語、クメール語、韓国語、中国語などの文字で書かれた名前は、書類ごとに英語のつづりが違うことがあります。名前が出ている書類をすべて持っていってください。翻訳は、パスポートのつづりに合わせてもらいます。
+? 住所が合っていません。
+  銀行と公共料金の会社とで、同じ住所の英語のつづりが違うことがあります。アップロードする書類に印刷されているとおりに、住所を入力してください。
+? 日付がおかしく見えます。
+  タイの書類は、仏暦で年を数えます。西暦より543年進んでいて、2510年は1967年です。翻訳には、両方を書いてもらえます。
+? 「This account already exists.」(このアカウントはすでにあります)と出ます。
+  本人確認がすんだID.meのアカウントは、1人に1つです。メッセージには、頭文字とメールアドレスの終わりの部分しか出ないことがあります。それが手がかりになって、どの古いメールアドレスにアカウントがあるかわかります。
+? ビデオ通話の順番待ちが、何時間も続きます。
+  担当者はアメリカにいます。順番待ちではなく、時間を予約してください。予約は、書類が承認されると使えるようになります。
+? スマートフォンがスリープして、通話が切れました。
+  画面の自動ロックを切り、充電器をつなぎ、wifiにつないだまま、もう一度予約してください。
+? 担当者が書類を受け付けてくれません。
+  コピー、書類の写真、期限切れのパスポート、仮のID、書き込みのある書類は受け付けられません。光の反射や折り目で通らないこともあります。原本を平らにして、明るいところで見せてください。
+? ID.meのあと、VA.govにエラーが出ます。
+  席を外している間に、VA.govのセッションの時間が切れました。タブを閉じて、新しいタブを開き、もう一度ログインして、「Allow」(許可)を押してください。
+? 電話番号が変わりました。
+  新しい番号にするには、ID.meで認証コードの設定をやり直す必要があります。ご本人かどうかを確認するために、ビデオ通話が長くなることもあります。
+? ID.meには、電話できる窓口がありません。
+  ID.meのサポートは、チャットとオンラインのフォームで、英語とスペイン語です。ご本人がそばにいるときは、チャットがいちばん早いです。
+? ID.meからのメッセージが、詐欺師のものに見えます。
+  ID.meは、コードやリンクを、英語のSMSとメールで送ってきます。手続きをしている間は、届くものと思ってください。頼んでいないのに届いたメッセージで、コードを読み上げさせようとするものは、詐欺師のものです。
+? Login.govやCLEARでは、受け付けてもらえません。
+  どちらもアメリカの社会保障番号が必要で、Login.govはアメリカの書類も必要です。海外からは、ID.meが道です。
+? あと何回試せるのか、わかりません。
+  ID.meは、回数の上限を公表していません。同じ段階で2回失敗したら、次はビデオ通話の手順です。
+? 何をしてもうまくいきません。
+  ほとんどの請求は、ログインなしで、郵送かFAXの紙で行えます。下をご覧ください。
+
+退役軍人が亡くなったとき
+夫か妻を亡くされた方のための項目です。どの手続きにも、下に紙での方法があります。
+亡くなった方のアカウントは、あなたのものではありません
+退役軍人のID.meとVA.govのアカウントは、その退役軍人本人の身元に結びついています。認証コードも、本人の電話とメールに届きます。VA(米国退役軍人省:US Department of Veterans Affairs)は、死亡後に支払われた分を取り戻します。生き残った配偶者には、ご自分のアカウントか、紙での方法が必要です。
+死亡を届け出ます
+VAには、電話か、Claims Intake Center(請求受付センター)への郵送で届けます。社会保障には、お住まいの国のFederal Benefits Unit(連邦給付課)か、国際コールセンターを通じて届けます。アメリカ市民の場合は、最寄りのアメリカ大使館か領事館にも届けます。そこで「Consular Report of Death Abroad」(在外死亡領事報告書)を出してもらえます。
+VAの遺族給付
+扶養遺族補償(DIC:Dependency and Indemnity Compensation)、遺族年金(Survivors Pension)、未払い給付(accrued benefits)は、どれもVA Form 21P-534EZを使います。死亡から1年以内に申請すると、死亡した月の初日から支払いを始められます。
+医療:CHAMPVA
+「恒久的かつ全面的な障害」と認定された退役軍人、または軍務に関連する病気で亡くなった退役軍人の、生き残った配偶者のためのものです。VA Form 10-10d。
+社会保障の遺族給付
+Federal Benefits Unitを通じて行います。生き残った配偶者には、255ドルの一時金が支払われます。アメリカ国外では、アメリカ市民でない遺族は、たいてい結婚期間中に5年間のアメリカ居住が必要です。退役軍人が軍務中に亡くなった場合や、軍務に関連する病気で亡くなった場合は、この規則は当てはまりません。
+手伝ってもらいましょう
+VA Form 21-0845で、VAがあなたの指名した人と話せるようになります。VA Form 21-22で、退役軍人支援団体(VSO:veterans service organization)を、あなたの代理人に指名できます。費用はかかりません。
+
+ログインなし:郵送、FAX、電話
+追跡できる郵便かFAXで送り、すべてのページのコピーと、受け取りの控えを手元に残してください。
+
+DIC、遺族年金、未払い給付
+書式: VA 21P-534EZ https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf
+郵送: Department of Veterans Affairs, Pension Intake Center, PO Box 5365, Janesville, WI 53547-5365, USA
+FAX: +1 844 531 7818 · +1 248 524 4260 (古いページの情報です。新しいページでは確認できていません。)
+死亡から1年以内なら、その月の初日から支払いを始められます。遺族年金が、あなたの国に住んでいる人にも支払われるかどうかは、書類を郵送する前にVAに問い合わせてください。
+
+VAに死亡を届ける
+郵送: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+電話: +1 412 395 6272
+郵送は、電話より支払いが止まるのが遅くなります。
+
+社会保障に死亡を届ける、遺族給付
+郵送: Federal Benefits Unit, US Embassy, 1201 Roxas Boulevard, Ermita, Manila 0930, Philippines
+FAX: +63 2 8708 9714
+電話: +63 2 5301 6200 · +1 855 522 6936
+メール: FBU.Manila@ssa.gov
+タイと、アジアのいくつかの国は、マニラが担当です。ほかの国:ssa.gov/foreignに、各国のFederal Benefits Unitが載っています。
+
+生き残った配偶者のためのCHAMPVA医療
+書式: VA 10-10d https://www.va.gov/find-forms/about-form-10-10d/
+郵送: VHA Office of Community Care, CHAMPVA Eligibility, PO Box 137, Spring City, PA 19475, USA
+電話: +1 800 733 8387
+
+Foreign Medical Program(退役軍人本人の、軍務に関連する医療)
+郵送: VHA Office of Integrated Veteran Care, Foreign Medical Program, PO Box 200, Spring City, PA 19475, USA
+メール: HAC.FMP@va.gov
+対象は退役軍人本人だけで、配偶者は含まれません。
+
+ほかの人に代わりをしてもらう
+書式: VA 21-0845 · VA 21-22 · VA 21-22a https://www.va.gov/find-forms/about-form-21-0845/
+郵送: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+海外からのこれらの書式について、VAのページには郵送先の住所が書かれていません。Claims Intake Centerが、その可能性が高いです。
+
+海外からかけられる電話
+アメリカの番号で、アメリカ東部時間の受付です。下の時間は、あなたの時間に直してあります。
+- VAの給付(アメリカ国外から): +1 412 395 6272 (月曜から金曜, 08:00-21:00 ET)
+- VAの国際口座振込(direct deposit): +1 918 781 7550 (月曜から金曜, 09:00-17:30 ET)
+- 社会保障の国際コールセンター: +1 855 522 6936
+- CHAMPVA: +1 800 733 8387
+- VA監察総監のホットライン(不正の通報): +1 800 488 8244 (月曜から金曜, 09:30-15:30 ET; 木曜は13:00まで ET)
+- Veterans Crisis Line(退役軍人向け危機ライン)、アジア・太平洋: +1 844 702 5493 (24時間)
+
+無料の支援
+- VAに認定された(accredited)退役軍人支援団体(VSO)が、請求を無料で手伝ってくれます。
+- VAに認定された弁護士や請求代理人が料金を取れるのは、最初の請求にVAが決定を出したあとだけです。署名した料金の合意書と、VA Form 21-22aが提出されている必要があります。
+- 認定は、誰でもVAの検索で確認できます:va.gov/get-help-from-accredited-representative/find-rep
+- タイでは、American Legion Post TH01がウボンラーチャターニーに、Post TH02がパタヤにあります。
+
+詐欺師
+退役軍人の方や、配偶者を亡くされた方に、「お手伝い」を申し出て、請求や支払い、貯金を取っていく人がいます。だまされたのは、あなたのせいではありません。注意深い人もだまされます。信頼できる人に早く知らせるほど、取り戻せるものは多くなります。
+
+サイン
+- 向こうから先に、電話、LINE、WhatsApp、Facebookで連絡してきた。葬儀のあとであることが多いです。
+- 申請の前にお金を求める。または、さかのぼって支払われる分の取り分を求める。
+- お金が受け取れる、またはもっと多く受け取れると約束する。
+- パスワードや、いま届いたばかりのコードを聞いてくる。
+- 急がせる。今日中にしないと、失うと言う。
+- 家族には内緒にするように言う。
+- VAや社会保障の支払いを受け取る銀行口座を、変えさせようとする。
+- 個人の口座、ギフトカード、暗号資産での支払いを求める。
+- 年金を受ける「資格」のためとして、貯金を保険、年金保険、ファンドに移させようとする。
+- VAやID.meの人だと名乗るのに、個人のLINE、WhatsApp、Gmailを使っている。
+- 名前が、VAの認定の検索に出てこない。
+- 予約していないID.meのビデオ通話のリンクが届く。
+
+怪しいと思ったら
+1. 止まってください。電話を切る。リンクを開かない。コードを教えない。送金しない。
+2. 証拠を残します。チャットのスクリーンショット、電話番号、口座の名義、相手が教えた銀行口座など。
+3. 信頼できる人に話します。
+4. お金をすでに送ってしまった場合:すぐに銀行に電話し、そのあと警察に届けます。タイでは、まず1441に、いつでも電話してください。1441は、銀行に送金の停止を依頼できます。
+5. ID.meのパスワードやコードを教えてしまった場合:パスワードと認証コードの方法を変え、そのあとID.meの「Report Suspicious Activity」(不審な動きを報告する)フォームを使います。
+6. VAの支払いが、知らない新しい口座に送られた場合:VAの国際口座振込の電話にかけます。
+7. VAの給付をねらった詐欺:VA監察総監のホットラインに連絡します。
+8. 認定を受けていない人が、請求の手伝いで料金を取った場合:VAのOffice of General Counsel(法務総括官室)に苦情を出します。
+
+タイでは
+- 1441:オンライン詐欺対策センター(AOC)。24時間。銀行に送金の停止を依頼できます。thaipoliceonline.go.thでの警察への届け出か、警察署での届け出で、手続きが完了します。
+- 1323:タイ精神保健局(Department of Mental Health)。無料、24時間、タイ語。
+- 1669:救急(医療の緊急通報)。
+- タイの社会保障:マニラのアメリカ大使館にあるFederal Benefits Unit。
+- タイ語の書類の翻訳:Chiang Mai Visa Desk。
+
+つらすぎるとき
+悲しみ、お金の心配、だまされたこと、何時間も失敗するログイン。どれも大きな負担です。誰かに話すと、楽になります。
+- Veterans Crisis Line(退役軍人向け危機ライン)、どこからでも:チャット veteranscrisisline.net/get-help-now/chat
+- アジア・太平洋から電話で:+1 844 702 5493(国際電話料金がかかります)。
+- タイ:1323、無料、24時間。
+- ほかの国:findahelpline.comに、国ごとの無料の電話窓口が載っています。
+
+手元に保存して、お友だちにも教えてあげてください
+ホーム画面に追加するか、印刷するか、テキストを保存しておいてください。一度開けば、インターネットにつながっていなくても開けます。
+ほかの退役軍人の方、配偶者を亡くされた方、その手伝いをしている人にも送ってあげてください。無料です。
+https://nanobotco.github.io/getting-in/ja/
+
+情報源
+- VA: verifying your identity from outside the US: https://www.va.gov/resources/how-can-i-verify-my-identity-on-vagov-if-i-live-outside-the-us/
+- VA: sign-in changes (DS Logon, My HealtheVet): https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+- VA: common Login.gov and ID.me issues: https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+- ID.me: overseas verification with an SSN: https://help.id.me/hc/en-us/articles/4415907236375
+- ID.me: non-US passport, no SSN: https://help.id.me/hc/en-us/articles/26952364097559
+- ID.me: accepted documents: https://help.id.me/hc/en-us/articles/360017833054
+- ID.me: translations: https://help.id.me/hc/en-us/articles/360058791094
+- ID.me: video call, interpreters, helpers: https://help.id.me/hc/en-us/articles/360058655794
+- ID.me: scheduling a video call: https://help.id.me/hc/en-us/articles/360055300094
+- ID.me: security code methods: https://help.id.me/hc/en-us/articles/360018113053
+- ID.me: suspected scam or hacking: https://help.id.me/hc/en-us/articles/1500002603702
+- ID.me: contact support: https://help.id.me/hc/p/contact_support
+- Login.gov: accepted IDs: https://login.gov/help/verify-your-identity/accepted-id-type/
+- Login.gov: phone numbers: https://login.gov/help/verify-your-identity/phone-number/
+- Login.gov roadmap, August 2026: https://login.gov/docs/login-gov-roadmap-august-2026.pdf
+- VA: CLEAR and creating an account: https://www.va.gov/resources/creating-an-account-for-vagov/
+- VA: veterans abroad: https://www.benefits.va.gov/persona/veteran-abroad.asp
+- VA: DIC: https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/
+- VA: reporting a death: https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/
+- VA: CHAMPVA: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- VA: Foreign Medical Program claims: https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim
+- VA: accredited representatives: https://www.va.gov/resources/va-accredited-representative-faqs/
+- VA: find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/find-rep/
+- VA Inspector General hotline: https://www.vaoig.gov/hotline
+- Social Security: Federal Benefits Units: https://www.ssa.gov/foreign/iclaim.htm
+- Social Security: payments outside the US (EN-05-10137): https://www.ssa.gov/pubs/EN-05-10137.pdf
+- Veterans Crisis Line overseas: https://www.veteranscrisisline.net/get-help-now/military-crisis-line/
+- Thailand AOC 1441 (Bangkok Post): https://www.bangkokpost.com/thailand/general/2924862/govt-hails-use-of-1441-hotline
+- Find a helpline: https://findahelpline.com/
+
+HongdamがChiang Mai Visa Deskのために作りました。
+アメリカ政府のサイトではありません。

@@ -1,0 +1,258 @@
+COME ACCEDERE: VA, ID.ME E SOCIAL SECURITY DALL'ESTERO
+https://nanobotco.github.io/getting-in/it/
+Lo tenga a portata di mano e lo passi a un amico
+Verificato sulle pagine ufficiali il 20 ottobre 2026.
+
+L'accesso da un altro Paese si blocca in molti punti: un codice che non arriva, un documento rifiutato, una videochiamata in piena notte, una password che apparteneva a una persona che è morta. Questa pagina elenca ogni punto in cui ci si blocca e come superarlo, le strade che non richiedono alcun accesso e come distinguere chi aiuta da chi truffa.
+
+
+PRIMA DI COMINCIARE
+ID.me verifica l'identità in due sedute: nella prima carica i documenti; quando sono approvati, di solito entro un giorno, può prenotare una videochiamata con un operatore negli Stati Uniti. Se ha pronto tutto quello che segue, evita una terza e una quarta seduta.
+
+Documenti: originali, non copie
+[ ] Il passaporto, non scaduto. Può valere un passaporto di qualsiasi Paese.
+[ ] Un estratto conto bancario o una bolletta della luce di meno di un anno fa, con l'indirizzo attuale.
+[ ] Il suo numero della previdenza sociale statunitense (la Social Security), cioè l'SSN, se ne ha uno.
+[ ] Per una vedova o un vedovo: il certificato di matrimonio e il certificato di morte.
+[ ] Il DD214 del veterano (il foglio di congedo) e il numero di pratica presso il VA, il Dipartimento degli Affari dei Veterani degli Stati Uniti (US Department of Veterans Affairs), se li ha.
+[ ] Una traduzione in inglese di ogni documento che non è in inglese.
+
+Telefono
+[ ] Il suo numero, non quello del coniuge defunto, in grado di ricevere messaggi di testo (SMS).
+[ ] Carico, collegato al wifi, con il blocco automatico dello schermo disattivato.
+[ ] Una fotocamera anteriore che funziona.
+[ ] iPhone: "Settings > Camera > Formats > Most Compatible" (Impostazioni > Fotocamera > Formati > Più compatibile), e "Live Photos" disattivato. Gli altri formati di foto vengono rifiutati.
+
+Email
+[ ] Un indirizzo email che è suo, che può aprire oggi, con la password scritta su un foglio.
+
+Nomi, date e indirizzi
+[ ] Il suo nome scritto allo stesso modo su ogni documento, oppure un elenco di tutte le grafie.
+[ ] Le date sui documenti thailandesi nell'Era Buddhista (2510) scritte con accanto l'anno occidentale (1967).
+[ ] L'indirizzo scritto esattamente come lo riporta l'estratto conto, lettera per lettera.
+
+Pianifichi due sedute fin dall'inizio. Prima seduta: account, codici di verifica, documenti. Seconda seduta: la videochiamata, poi di nuovo su VA.gov per premere "Allow" (Consenti).
+
+SE STA AIUTANDO UN'ALTRA PERSONA
+- Prima di tutto, scriva che cosa serve dai vecchi telefoni e computer: indirizzi email, password, numeri di telefono. I vecchi dispositivi spesso non riescono ad aprire ID.me.
+- Legga e scriva su un dispositivo recente. Le foto dei documenti e il selfie riescono meglio dal telefono della persona stessa.
+- Disattivi ogni VPN. ID.me ne blocca molte (errore 1015).
+- Traduca ogni schermata a voce. ID.me è in inglese e in spagnolo; un interprete di thailandese o di un'altra lingua è disponibile solo quando comincia la videochiamata.
+- La persona può chiedere un interprete durante la videochiamata, e un familiare o un aiutante può sedersi accanto a lei. Chi ha una procura non può parlare al suo posto durante la chiamata.
+- Annoti dove ci si è fermati e perché, così la seduta successiva riparte da lì.
+
+QUALE ACCESSO FUNZIONA DALL'ESTERO
+VA.gov accetta tre accessi. DS Logon è terminato il 18 novembre 2025 e l'accesso con My HealtheVet il 5 marzo 2025.
+- ID.me: Sì, con il percorso per chi vive all'estero e una videochiamata. Che cosa serve: Un passaporto e una prova dell'indirizzo. Può valere anche un passaporto non statunitense.
+- Login.gov: Difficile. Rifiuta passaporti e documenti d'identità non statunitensi e numeri di telefono internazionali. I controlli di persona si fanno solo negli uffici postali degli Stati Uniti. Che cosa serve: Un documento d'identità o un passaporto statunitense, un SSN, un numero di telefono statunitense o una lettera per posta.
+- CLEAR: Non per la maggior parte di chi vive all'estero. Che cosa serve: Un SSN.
+Login.gov include gli utenti internazionali tra i suoi piani per il 2027. Fino ad allora, ID.me è la strada per la maggior parte di chi vive fuori dagli Stati Uniti.
+
+ID.ME DALL'ESTERO, PASSO PER PASSO
+1. Parta da VA.gov
+Vada su VA.gov, scelga "Sign in" (Accedi), poi ID.me. Crei l'account con il suo indirizzo email.
+2. Codici di verifica
+Imposti due modi per ricevere i codici: un messaggio di testo al suo numero, e l'app ID.me Authenticator oppure una passkey. Se i messaggi non arrivano, l'app funziona comunque.
+3. Scelga il percorso per chi vive all'estero
+ID.me mostra due grandi pulsanti, "Self-Service" (In autonomia) e "Video Call" (Videochiamata), e un link più piccolo, "I don't live in the United States" (Non vivo negli Stati Uniti) oppure "I don't have the above documents" (Non ho i documenti indicati sopra). Il link piccolo è il percorso per chi vive all'estero. I due grandi pulsanti presuppongono documenti statunitensi.
+4. Paese e SSN
+Scelga il suo Paese sotto l'indirizzo attuale. Inserisca l'SSN, se ce l'ha.
+5. Carichi i documenti
+Due documenti primari, oppure uno primario e uno secondario. Il passaporto è primario; un estratto conto bancario o una bolletta della luce è secondario. Un documento che non è in inglese va affiancato alla sua traduzione in inglese, nella stessa foto. ID.me può inviarle per SMS un link per scattare le foto con il telefono.
+6. Attenda l'approvazione
+Di solito entro 24 ore, per email. Un'email di rifiuto ha come titolo "Action Required: Update your document(s)" (Azione richiesta: aggiorni i suoi documenti) e contiene un pulsante per inviarli di nuovo.
+7. Prenoti la videochiamata
+Le chiamate si possono prenotare fino a 10 giorni prima, e da 2 ore prima nello stesso giorno. Gli orari sono mostrati nel suo orario locale. Prenotare evita di aspettare in coda; uscire dalla coda la rimanda in fondo.
+8. La videochiamata
+Tenga in mano i documenti originali; copie e foto vengono rifiutate, e viene rifiutato anche un documento su cui è stato scritto. Su richiesta è disponibile un interprete nella sua lingua. L'operatore conferma nome, data di nascita, indirizzo e SSN.
+9. Torni su VA.gov
+Apra una nuova scheda, vada su VA.gov, acceda di nuovo con ID.me e prema "Allow" (Consenti). Premendo "Deny" (Non consentire) si limita ciò che VA.gov può mostrarle.
+
+Senza numero di Social Security
+ID.me ha un percorso per un passaporto non statunitense senza SSN: il passaporto, la prova dello stesso indirizzo e una casella che conferma che non è stato rilasciato in nessun momento un SSN o un ITIN. La pagina di VA.gov dice invece che senza un SSN serve un passaporto statunitense. Quale regola applichi VA.gov a una vedova o a un vedovo con un passaporto straniero non è chiarito su nessuno dei due siti. Se prova, conservi una schermata di ogni passaggio.
+
+QUANDO QUALCOSA VA STORTO
+? Il codice per messaggio di testo non arriva.
+  I messaggi verso alcuni Paesi arrivano in ritardo o non arrivano. Prema "Resend" (Invia di nuovo), poi "Call me" (Chiamami). Un secondo metodo impostato in anticipo, l'app ID.me Authenticator o una passkey, funziona senza messaggi di testo.
+? "We couldn't verify your browser" (Non siamo riusciti a verificare il suo browser) o "Something isn't right" (Qualcosa non va).
+  Il browser è troppo vecchio, oppure JavaScript è disattivato. Usi una versione aggiornata di Chrome, Safari, Edge o Firefox, senza estensioni.
+? Errore 1015, "unusual activity" (attività insolita).
+  È attiva una VPN o un proxy. La disattivi e riprovi.
+? La foto non si carica.
+  Le foto dell'iPhone in formato HEIC e le Live Photos vengono rifiutate. Imposti "Settings > Camera > Formats > Most Compatible" (Impostazioni > Fotocamera > Formati > Più compatibile).
+? "A translation is required." (È richiesta una traduzione.)
+  Un documento che non è in inglese va fotografato accanto alla sua traduzione in inglese, entrambi nella stessa immagine.
+? Il nome su un documento non corrisponde a quello di un altro.
+  I nomi in thailandese, lao, khmer, coreano, cinese e in altre scritture vengono scritti in inglese in modi diversi su carte diverse. Porti tutti i documenti che riportano il nome, e una traduzione che segua la grafia del passaporto.
+? L'indirizzo non corrisponde.
+  Una banca e un'azienda di servizi possono scrivere in inglese lo stesso indirizzo in modo diverso. Scriva l'indirizzo esattamente come lo riporta il documento che carica.
+? Le date sembrano sbagliate.
+  I documenti thailandesi contano gli anni nell'Era Buddhista, 543 anni avanti: il 2510 è il 1967. Una traduzione può riportare entrambi.
+? "This account already exists." (Questo account esiste già.)
+  Ogni persona può avere un solo account ID.me verificato. Il messaggio può mostrare solo le iniziali e la fine di un indirizzo email. Quell'indizio dice quale vecchio indirizzo email è collegato all'account.
+? La coda per la videochiamata dura ore.
+  Gli operatori sono negli Stati Uniti. Prenoti un orario invece di fare la coda; la prenotazione si apre quando i documenti sono approvati.
+? Il telefono è andato in stand-by e la chiamata si è interrotta.
+  Disattivi il blocco automatico dello schermo, colleghi il caricatore, resti sul wifi e prenoti di nuovo.
+? L'operatore rifiuta il documento.
+  Vengono rifiutati copie, foto di documenti, passaporti scaduti, documenti d'identità temporanei e documenti su cui è scritto qualcosa. Anche i riflessi e le pieghe possono far fallire il controllo. Originali, in piano, con buona luce.
+? Dopo ID.me, VA.gov mostra un errore.
+  La sessione di VA.gov è scaduta mentre lei era assente. Chiuda la scheda, ne apra una nuova, acceda di nuovo e prema "Allow" (Consenti).
+? Il numero di telefono è cambiato.
+  Un nuovo numero richiede di reimpostare i codici di verifica in ID.me e, a volte, una videochiamata più lunga per confermare che è proprio lei.
+? Non c'è nessuno da chiamare per telefono presso ID.me.
+  L'assistenza di ID.me è via chat e con un modulo online, in inglese e in spagnolo. La chat è il modo più rapido, con la persona presente.
+? I messaggi di ID.me sembrano quelli di un truffatore.
+  ID.me invia codici e link per SMS e per email, in inglese. Durante le sedute è normale riceverli; un messaggio che non ha richiesto, da qualcuno che vuole farsi leggere un codice, è di un truffatore.
+? Login.gov o CLEAR non la accettano.
+  Entrambi richiedono un numero di Social Security statunitense, e Login.gov richiede documenti statunitensi. ID.me è la strada dall'estero.
+? Non sa quanti tentativi le restano.
+  ID.me non pubblica un limite. Dopo due insuccessi nello stesso passaggio, il passo successivo è la videochiamata.
+? Non funziona niente.
+  La maggior parte delle pratiche si può presentare su carta, per posta o per fax, senza accedere. Veda più sotto.
+
+QUANDO UN VETERANO È MORTO
+Per una vedova o un vedovo. Ogni passaggio ha una strada su carta, più sotto.
+L'account del veterano o della veterana non è il suo
+Gli account ID.me e VA.gov di un veterano sono legati all'identità del veterano, e i codici di verifica vanno al telefono e all'email del veterano. Il VA si riprende i pagamenti fatti dopo il decesso. Un coniuge superstite ha bisogno di un account proprio, oppure della strada su carta.
+Segnalare il decesso
+Al VA, per telefono o per posta al Claims Intake Center. Alla Social Security, tramite il Federal Benefits Unit del suo Paese oppure il centro chiamate internazionale. Se si tratta di un cittadino statunitense, anche all'ambasciata o al consolato degli Stati Uniti più vicino, che può rilasciare un Consular Report of Death Abroad (rapporto consolare di morte all'estero).
+Benefici del VA per i superstiti
+L'indennità di dipendenza e risarcimento (DIC, Dependency and Indemnity Compensation), la pensione ai superstiti (Survivors Pension) e i benefici maturati usano tutti il modulo VA Form 21P-534EZ. Se la domanda è presentata entro un anno dal decesso, il pagamento può partire dal primo giorno del mese del decesso.
+Assistenza sanitaria: CHAMPVA
+Per il coniuge superstite di un veterano a cui era stata riconosciuta un'invalidità permanente e totale, o che è morto per una condizione legata al servizio. Modulo VA Form 10-10d.
+Benefici della Social Security per i superstiti
+Tramite il Federal Benefits Unit. Un pagamento una tantum di $255 va al coniuge superstite. Fuori dagli Stati Uniti, un superstite che non è cittadino statunitense di solito ha bisogno di cinque anni di residenza negli Stati Uniti durante il matrimonio; questa regola non vale quando il veterano è morto in servizio militare o per una condizione legata al servizio.
+Si faccia aiutare
+Il modulo VA Form 21-0845 permette al VA di parlare con una persona che lei indica. Il modulo VA Form 21-22 nomina un'organizzazione di assistenza ai veterani (VSO, veterans service organization) che agisce per lei, gratis.
+
+SENZA ACCESSO: PER POSTA, FAX E TELEFONO
+Invii per posta tracciata o per fax, e conservi una copia di ogni pagina e la ricevuta.
+
+DIC, pensione ai superstiti, benefici maturati
+Modulo: VA 21P-534EZ https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf
+Posta: Department of Veterans Affairs, Pension Intake Center, PO Box 5365, Janesville, WI 53547-5365, USA
+Fax: +1 844 531 7818 · +1 248 524 4260 (Da una pagina più vecchia; non confermato su una pagina attuale.)
+Entro un anno dal decesso, il pagamento può partire dal primo giorno di quel mese. Se la pensione ai superstiti venga pagata a chi vive nel suo Paese è una domanda da fare al VA prima di spedire il plico.
+
+Segnalare un decesso al VA
+Posta: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Telefono: +1 412 395 6272
+Per fermare i pagamenti la posta è più lenta di una telefonata.
+
+Segnalare un decesso alla Social Security, e benefici per i superstiti
+Posta: Federal Benefits Unit, US Embassy, 1201 Roxas Boulevard, Ermita, Manila 0930, Philippines
+Fax: +63 2 8708 9714
+Telefono: +63 2 5301 6200 · +1 855 522 6936
+Email: FBU.Manila@ssa.gov
+La Thailandia e vari altri Paesi asiatici sono seguiti da Manila. Altri Paesi: ssa.gov/foreign elenca ogni Federal Benefits Unit.
+
+Assistenza sanitaria CHAMPVA per il coniuge superstite
+Modulo: VA 10-10d https://www.va.gov/find-forms/about-form-10-10d/
+Posta: VHA Office of Community Care, CHAMPVA Eligibility, PO Box 137, Spring City, PA 19475, USA
+Telefono: +1 800 733 8387
+
+Foreign Medical Program (le cure del veterano stesso per condizioni legate al servizio)
+Posta: VHA Office of Integrated Veteran Care, Foreign Medical Program, PO Box 200, Spring City, PA 19475, USA
+Email: HAC.FMP@va.gov
+Copre solo il veterano, non il coniuge.
+
+Autorizzare qualcuno ad agire per lei
+Modulo: VA 21-0845 · VA 21-22 · VA 21-22a https://www.va.gov/find-forms/about-form-21-0845/
+Posta: Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444, USA
+Le pagine del VA non indicano un indirizzo postale per questi moduli dall'estero; il più probabile è il Claims Intake Center.
+
+LINEE TELEFONICHE DALL'ESTERO
+Numeri statunitensi, negli orari della costa orientale degli Stati Uniti. Gli orari qui sotto sono convertiti nel suo orario.
+- Benefici del VA, da fuori degli Stati Uniti: +1 412 395 6272 (Dal lunedì al venerdì, 08:00-21:00 ET)
+- Accredito diretto internazionale del VA: +1 918 781 7550 (Dal lunedì al venerdì, 09:00-17:30 ET)
+- Centro chiamate internazionale della Social Security: +1 855 522 6936
+- CHAMPVA: +1 800 733 8387
+- Linea diretta dell'Ispettore Generale del VA (frodi): +1 800 488 8244 (Dal lunedì al venerdì, 09:30-15:30 ET; giovedì fino alle 13:00 ET)
+- Veterans Crisis Line (linea di aiuto per i veterani in crisi), Asia e Pacifico: +1 844 702 5493 (24 ore su 24)
+
+AIUTO GRATUITO
+- Un'organizzazione di assistenza ai veterani (VSO) accreditata (accredited) dal VA aiuta gratuitamente con le pratiche.
+- Gli avvocati e gli agenti per le pratiche accreditati dal VA possono farsi pagare solo dopo che il VA ha deciso sulla prima domanda, con un accordo sul compenso firmato e il modulo VA Form 21-22a depositato.
+- L'accreditamento di chiunque si può verificare nella ricerca del VA: va.gov/get-help-from-accredited-representative/find-rep
+- In Thailandia, l'American Legion Post TH01 è a Ubon Ratchathani e il Post TH02 a Pattaya.
+
+TRUFFATORI
+A veterani, vedove e vedovi viene offerto "aiuto" da persone che si prendono la pratica, i pagamenti o i risparmi. Essere truffati non è colpa sua; vengono truffate anche persone prudenti. Prima lo sa una persona di fiducia, più si può salvare.
+
+Segnali
+- Si sono fatti vivi per primi, per telefono, LINE, WhatsApp o Facebook, spesso dopo un funerale.
+- Vogliono denaro prima di presentare la pratica, o una parte degli arretrati.
+- Promettono il denaro, o più denaro.
+- Chiedono una password, o il codice che ha appena ricevuto per SMS.
+- Mettono fretta: oggi, altrimenti perde tutto.
+- Dicono di non dirlo ai familiari.
+- Vogliono far cambiare il conto bancario su cui arrivano i pagamenti del VA o della Social Security.
+- Vogliono il pagamento su un conto personale, in carte regalo o in criptovalute.
+- Vogliono che sposti i risparmi in un'assicurazione, una rendita o un fondo perché lei "si qualifichi" per una pensione.
+- Dicono di essere del VA o di ID.me, da un account personale di LINE, WhatsApp o Gmail.
+- Il loro nome non compare nella ricerca di accreditamento del VA.
+- Arriva un link a una videochiamata ID.me che non ha prenotato.
+
+Se ne sospetta uno
+1. Si fermi: riattacchi, non apra link, non dia codici, non faccia bonifici.
+2. Conservi le prove: schermate della chat, il numero di telefono, il nome dell'account, l'eventuale conto bancario che hanno indicato.
+3. Lo dica a una persona di fiducia.
+4. Denaro già inviato: chiami subito la banca, poi la polizia. In Thailandia chiami prima il 1441, a qualsiasi ora: può chiedere alle banche di bloccare un bonifico.
+5. Password o codice di ID.me comunicati ad altri: cambi la password e il metodo dei codici di verifica, poi usi il modulo "Report Suspicious Activity" (Segnala attività sospetta) di ID.me.
+6. Pagamenti del VA inviati a un nuovo conto: chiami la linea del VA per l'accredito diretto internazionale.
+7. Frode contro i benefici del VA: la linea diretta dell'Ispettore Generale del VA.
+8. Una persona non accreditata ha chiesto denaro per aiutare con una pratica: un reclamo all'Office of General Counsel (ufficio legale) del VA.
+
+IN THAILANDIA
+- 1441: l'Anti Online Scam Operation Center (AOC, centro contro le truffe online), 24 ore su 24. Può chiedere alle banche di bloccare un bonifico; la denuncia su thaipoliceonline.go.th o in una stazione di polizia la completa.
+- 1323: Dipartimento di Salute Mentale, gratuito, 24 ore su 24, in thailandese.
+- 1669: emergenza medica.
+- Social Security per la Thailandia: il Federal Benefits Unit presso l'ambasciata degli Stati Uniti a Manila.
+- Traduzioni di documenti thailandesi: Chiang Mai Visa Desk.
+
+SE È TROPPO
+Lutto, preoccupazioni per i soldi, una truffa, ore di accessi falliti: è molto. Parlare con qualcuno aiuta.
+- Veterans Crisis Line (linea di aiuto per i veterani in crisi), da qualsiasi luogo: chat su veteranscrisisline.net/get-help-now/chat
+- Dall'Asia e dal Pacifico per telefono: +1 844 702 5493 (si applicano le tariffe internazionali).
+- Thailandia: 1323, gratuito, 24 ore su 24.
+- Altri Paesi: findahelpline.com elenca linee gratuite per Paese.
+
+LO TENGA A PORTATA DI MANO E LO PASSI A UN AMICO
+Lo aggiunga alla schermata Home, lo stampi o salvi il testo. Dopo la prima apertura si apre anche senza internet.
+Lo mandi a un altro veterano, a una vedova o a un vedovo, o a chi li aiuta. È gratuito.
+https://nanobotco.github.io/getting-in/it/
+
+FONTI
+- VA: verifying your identity from outside the US: https://www.va.gov/resources/how-can-i-verify-my-identity-on-vagov-if-i-live-outside-the-us/
+- VA: sign-in changes (DS Logon, My HealtheVet): https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+- VA: common Login.gov and ID.me issues: https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+- ID.me: overseas verification with an SSN: https://help.id.me/hc/en-us/articles/4415907236375
+- ID.me: non-US passport, no SSN: https://help.id.me/hc/en-us/articles/26952364097559
+- ID.me: accepted documents: https://help.id.me/hc/en-us/articles/360017833054
+- ID.me: translations: https://help.id.me/hc/en-us/articles/360058791094
+- ID.me: video call, interpreters, helpers: https://help.id.me/hc/en-us/articles/360058655794
+- ID.me: scheduling a video call: https://help.id.me/hc/en-us/articles/360055300094
+- ID.me: security code methods: https://help.id.me/hc/en-us/articles/360018113053
+- ID.me: suspected scam or hacking: https://help.id.me/hc/en-us/articles/1500002603702
+- ID.me: contact support: https://help.id.me/hc/p/contact_support
+- Login.gov: accepted IDs: https://login.gov/help/verify-your-identity/accepted-id-type/
+- Login.gov: phone numbers: https://login.gov/help/verify-your-identity/phone-number/
+- Login.gov roadmap, August 2026: https://login.gov/docs/login-gov-roadmap-august-2026.pdf
+- VA: CLEAR and creating an account: https://www.va.gov/resources/creating-an-account-for-vagov/
+- VA: veterans abroad: https://www.benefits.va.gov/persona/veteran-abroad.asp
+- VA: DIC: https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/
+- VA: reporting a death: https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/
+- VA: CHAMPVA: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- VA: Foreign Medical Program claims: https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim
+- VA: accredited representatives: https://www.va.gov/resources/va-accredited-representative-faqs/
+- VA: find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/find-rep/
+- VA Inspector General hotline: https://www.vaoig.gov/hotline
+- Social Security: Federal Benefits Units: https://www.ssa.gov/foreign/iclaim.htm
+- Social Security: payments outside the US (EN-05-10137): https://www.ssa.gov/pubs/EN-05-10137.pdf
+- Veterans Crisis Line overseas: https://www.veteranscrisisline.net/get-help-now/military-crisis-line/
+- Thailand AOC 1441 (Bangkok Post): https://www.bangkokpost.com/thailand/general/2924862/govt-hails-use-of-1441-hotline
+- Find a helpline: https://findahelpline.com/
+
+Realizzato da Hongdam per Chiang Mai Visa Desk.
+Non è un sito del governo degli Stati Uniti.

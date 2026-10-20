@@ -1,0 +1,442 @@
+{
+ "meta": {
+  "lang": "tl",
+  "dir": "ltr",
+  "native": "Filipino",
+  "title": "Pagpasok sa Account: VA, ID.me at Social Security mula sa Ibang Bansa",
+  "description": "Libreng gabay para sa mga beterano, balo at biyudo sa labas ng US: paano mag-sign in sa VA.gov gamit ang ID.me, ano ang maaaring pumalya at ang paraan para malampasan ito, mga claim sa papel na walang login, paano makilala ang scammer, at sino ang tatawagan.",
+  "share_text": "Libreng gabay para sa mga beterano, balo at biyudo sa ibang bansa: VA.gov, ID.me, Social Security, mga claim sa papel, at kung paano makilala ang scammer. Itabi ito para madaling mabalikan, at ibahagi sa kaibigan.",
+  "card_title": "Pagpasok sa Account",
+  "card_line": "VA · ID.me · Social Security · mula sa ibang bansa"
+ },
+ "ui": {
+  "cta": "Itabi ito para madaling mabalikan, at ibahagi sa kaibigan",
+  "share": "Ibahagi",
+  "share_this_section": "Ibahagi ang bahaging ito",
+  "copy_link": "Kopyahin ang link",
+  "copied": "Nakopya na",
+  "show_qr": "Ipakita ang QR code",
+  "qr_hint": "Itapat ito sa camera ng telepono ng kaibigan.",
+  "close": "Isara",
+  "print": "I-print",
+  "save_home": "Idagdag sa home screen",
+  "save_home_ios": "Sa iPhone: pindutin ang \"Share\" (Ibahagi) na button, pagkatapos ay \"Add to Home Screen\" (Idagdag sa Home Screen).",
+  "download_text": "I-download bilang text",
+  "bookmark": "I-bookmark ang pahinang ito",
+  "languages": "Wika",
+  "contents": "Sa pahinang ito",
+  "top": "Itaas",
+  "text_size": "Laki ng letra",
+  "checked": "Sinuri laban sa mga opisyal na pahina noong 20 Oktubre 2026.",
+  "sources": "Mga pinagmulan",
+  "your_time": "Sa oras ninyo",
+  "closed_now": "sarado ngayon",
+  "open_now": "bukas ngayon",
+  "ticked": "Naka-save sa browser na ito ang mga tsek.",
+  "offline": "Gumagana ang pahinang ito kahit walang internet kapag nabuksan na ito.",
+  "free": "Libre."
+ },
+ "hero": {
+  "kicker": "Para sa mga beterano, balo at biyudo sa labas ng US",
+  "h1": "Pagpasok sa VA.gov, ID.me at Social Security (Seguridad Sosyal) mula sa ibang bansa",
+  "lede": "Maraming lugar kung saan pumapalya ang pag-sign in mula sa ibang bansa: code na hindi dumarating, dokumentong tinanggihan, video call sa kalagitnaan ng gabi, password na pag-aari ng taong pumanaw na. Inililista ng pahinang ito ang bawat lugar na pumapalya at ang paraan para malampasan ito, ang mga paraang walang kailangang login, at kung paano malalaman ang kaibahan ng tunay na tumutulong sa scammer."
+ },
+ "start": {
+  "h": "Magsimula rito",
+  "cards": [
+   {
+    "to": "before",
+    "title": "Beterano po ako at nakatira sa ibang bansa",
+    "line": "Mag-sign in sa VA.gov gamit ang ID.me, mula sa checklist hanggang sa video call."
+   },
+   {
+    "to": "death",
+    "title": "Beterano ang asawa ko at pumanaw na siya",
+    "line": "Iulat ang pagkamatay, mag-claim ng survivor benefits, at kumuha ng sarili ninyong account."
+   },
+   {
+    "to": "helping",
+    "title": "May tinutulungan po ako",
+    "line": "Ano ang ihahanda sa mesa, at paano hatiin ang gawain sa dalawang sesyon."
+   },
+   {
+    "to": "scammers",
+    "title": "May nag-aalok ng tulong kapalit ng pera",
+    "line": "Mga palatandaan ng scammer, at ang gagawin."
+   },
+   {
+    "to": "paper",
+    "title": "Hindi ako makapasok sa kahit anong paraan",
+    "line": "Mga claim sa koreo at fax, at mga linya ng telepono mula sa ibang bansa."
+   },
+   {
+    "to": "care",
+    "title": "Sobra na po ang bigat",
+    "line": "May makakausap, ngayon din."
+   }
+  ]
+ },
+ "before": {
+  "h": "Bago magsimula",
+  "intro": "Sa dalawang sesyon sinusuri ng ID.me ang pagkakakilanlan ninyo: una, mag-a-upload kayo ng mga dokumento; kapag naaprubahan ang mga ito, karaniwan sa loob ng isang araw, maaari na kayong mag-book ng video call sa isang ahente sa US. Kapag handa na ang lahat ng nasa ibaba, hindi na kakailanganin ang pangatlo at pang-apat na sesyon.",
+  "groups": [
+   {
+    "h": "Mga dokumento: orihinal, hindi kopya",
+    "items": [
+     "Ang inyong pasaporte, hindi pa expired. Maaaring tanggapin ang pasaporte mula sa anumang bansa.",
+     "Bank statement o resibo ng kuryente na wala pang isang taon, na nagpapakita ng kasalukuyang address ninyo.",
+     "Ang inyong US Social Security number (SSN), kung mayroon kayo.",
+     "Para sa balo o biyudo: ang marriage certificate at ang death certificate.",
+     "Ang DD214 ng beterano (papel ng discharge) at ang VA file number, kung mayroon kayo.",
+     "English na salin ng bawat dokumentong hindi nakasulat sa English."
+    ]
+   },
+   {
+    "h": "Telepono",
+    "items": [
+     "Sarili ninyong numero, hindi ang numero ng yumaong asawa, na nakakatanggap ng text message.",
+     "May charge, nakakonekta sa wifi, at naka-off ang awtomatikong screen lock.",
+     "Gumaganang front camera.",
+     "iPhone: \"Settings > Camera > Formats > Most Compatible\" (Mga Setting > Camera > Mga Format > Pinakatugma), at patayin ang \"Live Photos\". Tinatanggihan ang ibang format ng litrato."
+    ]
+   },
+   {
+    "h": "Email",
+    "items": [
+     "Email address na sa inyo, na mabubuksan ninyo ngayon din, at nakasulat ang password nito."
+    ]
+   },
+   {
+    "h": "Mga pangalan, petsa at address",
+    "items": [
+     "Pareho ang baybay ng pangalan ninyo sa bawat dokumento, o may listahan ng bawat baybay.",
+     "Ang mga petsa sa mga dokumentong Thai sa Buddhist Era (Kalendaryong Budista) (2510), isinulat katabi ang taon ayon sa kalendaryong Kanluranin (1967).",
+     "Ang address ninyo ay i-type nang eksakto ayon sa pagkakalimbag sa bank statement, letra por letra."
+    ]
+   }
+  ],
+  "two": "Magplano ng dalawang sesyon mula sa simula. Unang sesyon: account, mga code sa seguridad, mga dokumento. Ikalawang sesyon: ang video call, pagkatapos ay bumalik sa VA.gov at pindutin ang \"Allow\" (Payagan)."
+ },
+ "helping": {
+  "h": "Kung may tinutulungan kayo",
+  "items": [
+   "Bago ang lahat, isulat kung ano ang kailangan mula sa mga lumang telepono at computer: email address, password, numero ng telepono. Madalas hindi mabuksan ang ID.me sa mga lumang device.",
+   "Gawin ang pagbabasa at pag-type sa makabagong device. Pinakamaganda ang kuha ng litrato ng mga dokumento at ng selfie kapag gamit ang sariling telepono ng tao.",
+   "I-off ang anumang VPN. Maraming VPN ang hinaharang ng ID.me (error 1015).",
+   "Isalin nang malakas ang bawat screen. Nasa English at Spanish ang ID.me; ang interpreter sa Thai o sa ibang wika ay makukuha lamang kapag nagsimula na ang video call.",
+   "Maaaring humingi ang tao ng interpreter sa video call, at maaaring umupo sa tabi niya ang kapamilya o katulong. Hindi maaaring magsalita para sa kanya sa tawag ang may power of attorney.",
+   "Itala kung saan huminto at bakit, para doon magsisimula ang susunod na sesyon."
+  ]
+ },
+ "credentials": {
+  "h": "Aling sign-in ang gumagana mula sa ibang bansa",
+  "intro": "Tatlong sign-in ang tinatanggap ng VA.gov. Natapos ang DS Logon noong 18 Nobyembre 2025 at ang sign-in ng My HealtheVet noong 5 Marso 2025.",
+  "cols": [
+   "Sign-in",
+   "Mula sa ibang bansa",
+   "Kailangan"
+  ],
+  "rows": [
+   {
+    "name": "ID.me",
+    "abroad": "Oo, sa pamamagitan ng ruta nito para sa ibang bansa at ng video call.",
+    "needs": "Pasaporte at patunay ng address. Maaaring tanggapin ang pasaporteng hindi US."
+   },
+   {
+    "name": "Login.gov",
+    "abroad": "Mahirap. Tinatanggihan nito ang mga pasaporte at ID na hindi US at ang mga numero ng telepono sa ibang bansa. Sa mga US Post Office lamang ang pagsusuri nang personal.",
+    "needs": "US ID o US passport, SSN, US na numero ng telepono o liham sa koreo."
+   },
+   {
+    "name": "CLEAR",
+    "abroad": "Hindi para sa karamihan ng nasa ibang bansa.",
+    "needs": "SSN."
+   }
+  ],
+  "note": "Kasama ang mga user mula sa ibang bansa sa mga plano ng Login.gov para sa 2027. Hanggang doon, ang ID.me ang ruta para sa karamihan ng nasa labas ng US."
+ },
+ "idme": {
+  "h": "ID.me mula sa ibang bansa, hakbang-hakbang",
+  "steps": [
+   {
+    "h": "1. Magsimula sa VA.gov",
+    "body": "Pumunta sa VA.gov, piliin ang \"Sign in\" (Mag-sign in), pagkatapos ay ID.me. Gawin ang account gamit ang sarili ninyong email address."
+   },
+   {
+    "h": "2. Mga code sa seguridad",
+    "body": "Mag-set up ng dalawang paraan para makakuha ng code: text message sa numero ninyo, at ang ID.me Authenticator app o isang passkey. Kung hindi dumarating ang mga text, gumagana pa rin ang app."
+   },
+   {
+    "h": "3. Piliin ang ruta para sa ibang bansa",
+    "body": "Nagpapakita ang ID.me ng dalawang malaking button, \"Self-Service\" (Gawin nang mag-isa) at \"Video Call\" (Tawag sa video), at isang mas maliit na link, \"I don't live in the United States\" (Hindi ako nakatira sa Estados Unidos) o \"I don't have the above documents\" (Wala sa akin ang mga dokumento sa itaas). Ang maliit na link ang ruta para sa ibang bansa. Ang dalawang malaking button ay para sa mga dokumentong US."
+   },
+   {
+    "h": "4. Bansa at SSN",
+    "body": "Piliin ang bansa ninyo sa ilalim ng kasalukuyang address. Ilagay ang SSN ninyo kung mayroon kayo."
+   },
+   {
+    "h": "5. Mag-upload ng mga dokumento",
+    "body": "Dalawang pangunahing dokumento, o isang pangunahin at isang pangalawa. Pangunahin ang pasaporte; pangalawa ang bank statement o resibo ng kuryente. Ang dokumentong hindi English ay ilalagay katabi ng English na salin nito, sa iisang litrato. Maaaring magpadala sa inyo ang ID.me ng link sa text para makuhanan ng litrato gamit ang telepono ninyo."
+   },
+   {
+    "h": "6. Hintayin ang pag-apruba",
+    "body": "Karaniwan sa loob ng 24 oras, sa pamamagitan ng email. Ang email ng pagtanggi ay may pamagat na \"Action Required: Update your document(s)\" (Kailangan ng aksyon: I-update ang inyong mga dokumento) at may button para ipadala muli ang mga ito."
+   },
+   {
+    "h": "7. Mag-book ng video call",
+    "body": "Maaaring mag-book ng tawag hanggang 10 araw bago, at mula 2 oras bago sa parehong araw. Nasa lokal na oras ninyo ang mga oras na nakikita. Sa pag-book, hindi na kayo maghihintay sa pila; kapag umalis kayo sa pila, mapupunta kayo sa dulo."
+   },
+   {
+    "h": "8. Ang video call",
+    "body": "Hawakan ang mga orihinal na dokumento; tinatanggihan ang mga kopya at litrato, at tinatanggihan ang dokumentong may sulat. May interpreter sa wika ninyo kapag hiniling. Kinukumpirma ng ahente ang pangalan, petsa ng kapanganakan, address at SSN ninyo."
+   },
+   {
+    "h": "9. Balik sa VA.gov",
+    "body": "Magbukas ng bagong tab, pumunta sa VA.gov, mag-sign in muli gamit ang ID.me, at pindutin ang \"Allow\" (Payagan). Kapag pinindot ang \"Deny\" (Tanggihan), nalilimitahan ang maipapakita ng VA.gov sa inyo."
+   }
+  ],
+  "nossn_h": "Walang Social Security number",
+  "nossn": "May ruta ang ID.me para sa pasaporteng hindi US na walang SSN: ang pasaporte, patunay ng parehong address, at isang kahon na nagkukumpirmang walang SSN o ITIN na naibigay kailanman. Sinasabi ng sariling pahina ng VA.gov na kung walang SSN, kailangan ninyo ng US passport. Hindi pa malinaw sa alinmang site kung aling tuntunin ang ipinapatupad ng VA.gov sa balo o biyudo na may banyagang pasaporte. Kung susubukan ninyo, mag-screenshot sa bawat screen."
+ },
+ "wrong": {
+  "h": "Kapag may pumalya",
+  "intro": "Ang nakikita ninyo, ang nangyayari, at ang paraan para malampasan ito.",
+  "items": [
+   {
+    "q": "Hindi dumarating ang code sa text message.",
+    "a": "Ang mga text sa ilang bansa ay nahuhuli o hindi dumarating. Pindutin ang \"Resend\" (Ipadala muli), pagkatapos ay \"Call me\" (Tawagan ako). Ang pangalawang paraang na-set up nang maaga, ang ID.me Authenticator app o passkey, ay gumagana nang walang text message."
+   },
+   {
+    "q": "\"We couldn't verify your browser\" (Hindi namin ma-verify ang browser ninyo) o \"Something isn't right\" (May mali).",
+    "a": "Luma na ang browser, o naka-off ang JavaScript. Gumamit ng makabagong Chrome, Safari, Edge o Firefox na walang extension."
+   },
+   {
+    "q": "Error 1015, \"unusual activity\" (kakaibang aktibidad).",
+    "a": "Naka-on ang VPN o proxy. I-off ito at subukan muli."
+   },
+   {
+    "q": "Hindi ma-upload ang litrato.",
+    "a": "Tinatanggihan ang mga litrato ng iPhone na HEIC ang format at ang Live Photos. \"Settings > Camera > Formats > Most Compatible\" (Mga Setting > Camera > Mga Format > Pinakatugma)."
+   },
+   {
+    "q": "\"A translation is required.\" (Kailangan ng salin.)",
+    "a": "Ang dokumentong hindi English ay kailangang kuhanan ng litrato katabi ng English na salin nito, pareho sa iisang larawan."
+   },
+   {
+    "q": "Hindi tugma ang pangalan sa isang dokumento at sa iba.",
+    "a": "Ang mga pangalan mula sa Thai, Lao, Khmer, Korean, Chinese at iba pang sulat ay binabaybay sa English sa magkakaibang paraan sa magkakaibang papel. Dalhin ang bawat dokumentong nagpapakita ng pangalan, at isang salin na sumusunod sa baybay sa pasaporte."
+   },
+   {
+    "q": "Hindi tugma ang address.",
+    "a": "Maaaring magkaiba ang baybay ng bangko at ng kompanya ng kuryente o tubig sa parehong address sa English. I-type ang address nang eksakto ayon sa pagkakalimbag sa dokumentong ina-upload ninyo."
+   },
+   {
+    "q": "Mukhang mali ang mga petsa.",
+    "a": "Binibilang ng mga dokumentong Thai ang taon sa Buddhist Era, mas mataas ng 543 taon: ang 2510 ay 1967. Maaaring ibigay ng salin ang pareho."
+   },
+   {
+    "q": "\"This account already exists.\" (Mayroon nang ganitong account.)",
+    "a": "Bawat tao ay maaaring magkaroon ng isang na-verify na ID.me account. Maaaring mga inisyal at dulo lamang ng email address ang ipakita ng mensahe. Ang pahiwatig na iyon ang magsasabi kung aling lumang email address ang may hawak ng account."
+   },
+   {
+    "q": "Ilang oras ang haba ng pila sa video call.",
+    "a": "Nasa US ang mga ahente. Mag-book ng oras sa halip na pumila; bumubukas ang booking kapag naaprubahan na ang mga dokumento."
+   },
+   {
+    "q": "Nag-sleep ang telepono at naputol ang tawag.",
+    "a": "I-off ang awtomatikong screen lock, isaksak ang charger, manatili sa wifi, at mag-book muli."
+   },
+   {
+    "q": "Tinatanggihan ng ahente ang dokumento.",
+    "a": "Tinatanggihan ang mga kopya, litrato ng mga dokumento, expired na pasaporte, pansamantalang ID at mga dokumentong may sulat. Maaari ring pumalya dahil sa silaw at lukot. Orihinal, patag, sa magandang ilaw."
+   },
+   {
+    "q": "Pagkatapos ng ID.me, may error sa VA.gov.",
+    "a": "Nag-timeout ang session ng VA.gov habang wala kayo. Isara ang tab, magbukas ng bago, mag-sign in muli at pindutin ang \"Allow\" (Payagan)."
+   },
+   {
+    "q": "Nagpalit ng numero ng telepono.",
+    "a": "Ang bagong numero ay nangangahulugang i-reset ang mga code sa seguridad sa ID.me, at kung minsan ay mas mahabang video call para makumpirmang kayo nga iyon."
+   },
+   {
+    "q": "Walang matatawagan sa ID.me.",
+    "a": "Sa chat at online form ang suporta ng ID.me, sa English at Spanish. Pinakamabilis ang chat, kasama ang mismong may-ari ng account."
+   },
+   {
+    "q": "Parang galing sa scammer ang mga mensahe mula sa ID.me.",
+    "a": "Nagpapadala ang ID.me ng mga code at link sa text at email sa English. Asahan ang mga ito habang nasa mga sesyon; ang mensaheng hindi ninyo hiniling, mula sa taong gustong ipabasa pabalik ang code, ay galing sa scammer."
+   },
+   {
+    "q": "Hindi kayo tinatanggap ng Login.gov o CLEAR.",
+    "a": "Parehong kailangan ng US Social Security number, at kailangan ng Login.gov ng mga dokumentong US. Ang ID.me ang ruta mula sa ibang bansa."
+   },
+   {
+    "q": "Hindi ninyo alam kung ilang subok pa ang natitira.",
+    "a": "Hindi naglalathala ng limitasyon ang ID.me. Pagkatapos ng dalawang pagkabigo sa parehong hakbang, ang ruta ng video call ang susunod na hakbang."
+   },
+   {
+    "q": "Walang gumagana.",
+    "a": "Karamihan ng mga claim ay maaaring gawin sa papel sa koreo o fax, nang walang login. Tingnan sa ibaba."
+   }
+  ]
+ },
+ "death": {
+  "h": "Kapag pumanaw na ang beterano",
+  "intro": "Para sa balo o biyudo. May ruta sa papel sa ibaba para sa bawat hakbang.",
+  "items": [
+   {
+    "h": "Hindi sa inyo ang account niya",
+    "body": "Nakatali ang ID.me at VA.gov account ng beterano sa pagkakakilanlan ng beterano, at napupunta ang mga code sa seguridad sa telepono at email ng beterano. Binabawi ng VA (Kagawaran ng mga Beterano ng US, US Department of Veterans Affairs) ang mga bayad na ibinigay pagkatapos ng pagkamatay. Kailangan ng naiwang asawa ng sarili niyang account, o ng ruta sa papel."
+   },
+   {
+    "h": "Iulat ang pagkamatay",
+    "body": "Sa VA, sa telepono o sa koreo sa Claims Intake Center. Sa Social Security, sa pamamagitan ng Federal Benefits Unit para sa bansa ninyo o ng international call center. Para sa mamamayang US, iulat din sa pinakamalapit na US embassy o consulate, na maaaring maglabas ng Consular Report of Death Abroad (Ulat ng Konsulado sa Pagkamatay sa Ibang Bansa)."
+   },
+   {
+    "h": "Mga survivor benefit mula sa VA",
+    "body": "Ang Kompensasyon para sa mga Umaasa at Pagbabayad-pinsala (Dependency and Indemnity Compensation, DIC), ang Pensyon para sa mga Naiwan (Survivors Pension) at ang mga naipong benepisyo (accrued benefits) ay gumagamit lahat ng VA Form 21P-534EZ. Kapag naihain sa loob ng isang taon mula sa pagkamatay, maaaring magsimula ang bayad mula sa unang araw ng buwan ng pagkamatay."
+   },
+   {
+    "h": "Pangangalagang pangkalusugan: CHAMPVA",
+    "body": "Para sa naiwang asawa ng beteranong na-rate na permanente at ganap na may kapansanan, o namatay dahil sa kondisyong may kaugnayan sa serbisyo. VA Form 10-10d."
+   },
+   {
+    "h": "Mga survivor benefit mula sa Social Security",
+    "body": "Sa pamamagitan ng Federal Benefits Unit. Isang beses na bayad na $255 ang ibinibigay sa naiwang asawa. Sa labas ng US, ang survivor na hindi mamamayang US ay karaniwang nangangailangan ng limang taong paninirahan sa US sa loob ng kasal; hindi ito ipinapatupad kapag namatay ang beterano habang nasa serbisyong militar o dahil sa kondisyong may kaugnayan sa serbisyo."
+   },
+   {
+    "h": "Hayaang may tumulong",
+    "body": "Pinapayagan ng VA Form 21-0845 ang VA na makipag-usap sa taong pangalanan ninyo. Itinatalaga ng VA Form 21-22 ang isang organisasyon ng serbisyo para sa mga beterano (veterans service organization, VSO) para kumilos para sa inyo, nang libre."
+   }
+  ]
+ },
+ "paper": {
+  "h": "Walang login: sa koreo, fax at telepono",
+  "intro": "Ipadala sa tracked na koreo o fax, at itago ang kopya ng bawat pahina at ang resibo.",
+  "labels": {
+   "form": "Form",
+   "mail": "Koreo",
+   "fax": "Fax",
+   "phone": "Telepono",
+   "email": "Email",
+   "note": "Paalala",
+   "check": "Mula sa mas lumang pahina; hindi pa nakukumpirma sa kasalukuyang pahina."
+  },
+  "routes": {
+   "dic": {
+    "h": "DIC, Survivors Pension, accrued benefits",
+    "note": "Sa loob ng isang taon mula sa pagkamatay, maaaring magsimula ang bayad mula sa una ng buwang iyon. Kung binabayaran ang Survivors Pension sa nakatira sa bansa ninyo ay tanong para sa VA bago ninyo ipadala sa koreo ang mga papeles."
+   },
+   "death_va": {
+    "h": "Iulat ang pagkamatay sa VA",
+    "note": "Mas mabagal ang koreo kaysa tawag sa pagpapahinto ng mga bayad."
+   },
+   "death_ssa": {
+    "h": "Iulat ang pagkamatay sa Social Security, at mga survivor benefit",
+    "note": "Ang Thailand at ilang iba pang bansa sa Asya ay pinaglilingkuran mula sa Manila. Ibang bansa: nakalista sa ssa.gov/foreign ang bawat Federal Benefits Unit."
+   },
+   "champva": {
+    "h": "CHAMPVA na pangangalagang pangkalusugan para sa naiwang asawa",
+    "note": ""
+   },
+   "fmp": {
+    "h": "Foreign Medical Program (pangangalaga ng beterano mismo para sa kondisyong may kaugnayan sa serbisyo)",
+    "note": "Para lamang sa beterano, hindi sa asawa."
+   },
+   "helpers": {
+    "h": "Pagpapahintulot sa iba na kumilos para sa inyo",
+    "note": "Walang ibinibigay na address sa koreo ang mga pahina ng VA para sa mga form na ito mula sa ibang bansa; ang Claims Intake Center ang malamang na tama."
+   }
+  }
+ },
+ "phone": {
+  "h": "Mga linya ng telepono mula sa ibang bansa",
+  "intro": "Mga numerong US, sa oras ng US Eastern. Ang mga oras sa ibaba ay nakumberte sa oras ninyo.",
+  "lines": {
+   "va_abroad": "Mga benepisyo ng VA, mula sa labas ng US",
+   "dd": "International direct deposit ng VA",
+   "ssa_intl": "International call center ng Social Security",
+   "champva": "CHAMPVA",
+   "oig": "Hotline ng VA Inspector General (panloloko)",
+   "vcl": "Veterans Crisis Line, Asya at Pasipiko"
+  },
+  "days": "Lunes hanggang Biyernes",
+  "anytime": "24 oras",
+  "thu": "Huwebes hanggang 13:00"
+ },
+ "help": {
+  "h": "Libreng tulong",
+  "items": [
+   "Ang VSO na akreditado (accredited) ng VA ay tumutulong sa mga claim nang libre.",
+   "Ang mga abogado at claims agent na akreditado ng VA ay maaari lamang maningil pagkatapos magpasya ang VA sa unang claim, na may pirmadong kasunduan sa bayad at VA Form 21-22a na nasa file.",
+   "Maaaring suriin ang akreditasyon ng sinuman sa paghahanap ng VA: va.gov/get-help-from-accredited-representative/find-rep",
+   "Sa Thailand, nasa Ubon Ratchathani ang American Legion Post TH01 at nasa Pattaya ang Post TH02."
+  ]
+ },
+ "scammers": {
+  "h": "Mga scammer",
+  "intro": "Ang mga beterano, balo at biyudo ay inaalok ng \"tulong\" ng mga taong kumukuha ng claim, ng mga bayad o ng ipon. Hindi ninyo kasalanan ang maloko; naloloko rin ang mga maingat. Kapag mas maagang malaman ng pinagkakatiwalaan ninyo, mas marami ang maililigtas.",
+  "signs_h": "Mga palatandaan",
+  "signs": [
+   "Sila ang unang lumapit sa inyo, sa telepono, LINE, WhatsApp o Facebook, madalas pagkatapos ng libing.",
+   "Humihingi sila ng pera bago maghain, o ng bahagi ng back pay.",
+   "Ipinapangako nila ang pera, o mas malaking halaga.",
+   "Humihingi sila ng password, o ng code na kapapadala lang sa inyo sa text.",
+   "Minamadali nila kayo: ngayon na, o mawawala sa inyo.",
+   "Sinasabi nilang itago ito sa pamilya ninyo.",
+   "Gusto nilang palitan ang bank account para sa mga bayad ng VA o Social Security.",
+   "Gusto nilang magbayad kayo sa personal na account, sa gift card, o sa crypto.",
+   "Gusto nilang ilipat ang ipon sa insurance, annuity o pondo para raw \"mag-qualify\" kayo sa pensyon.",
+   "Sinasabi nilang sila ay VA o ID.me, mula sa personal na LINE, WhatsApp o Gmail account.",
+   "Wala ang pangalan nila sa paghahanap ng akreditasyon ng VA.",
+   "May dumating na link sa ID.me video call na hindi ninyo ni-book."
+  ],
+  "do_h": "Kung may hinala kayo",
+  "do": [
+   "Huminto: ibaba ang tawag, huwag mag-click ng link, huwag magbigay ng code, huwag maglipat ng pera.",
+   "Mag-ipon ng ebidensya: mga screenshot ng chat, ang numero ng telepono, ang pangalan ng account, anumang bank account na ibinigay nila.",
+   "Sabihin sa taong pinagkakatiwalaan ninyo.",
+   "Kung nakapagpadala na ng pera: tawagan agad ang bangko ninyo, pagkatapos ang pulis. Sa Thailand, tawagan muna ang 1441, anumang oras: maaari nitong hilingin sa mga bangko na pigilan ang paglilipat.",
+   "Kung naibigay ang password o code ng ID.me: palitan ang password at ang paraan ng code sa seguridad, pagkatapos gamitin ang form na \"Report Suspicious Activity\" (Mag-ulat ng Kahina-hinalang Aktibidad) ng ID.me.",
+   "Kung napunta ang mga bayad ng VA sa bagong account: tawagan ang linya ng international direct deposit ng VA.",
+   "Panloloko laban sa mga benepisyo ng VA: ang hotline ng VA Inspector General.",
+   "Kung may naningil na hindi akreditado para sa tulong sa claim: magsumite ng reklamo sa Office of General Counsel ng VA."
+  ]
+ },
+ "thailand": {
+  "h": "Sa Thailand",
+  "items": [
+   "1441: ang Anti Online Scam Operation Center (AOC), 24 oras. Maaari nitong hilingin sa mga bangko na pigilan ang paglilipat; kinukumpleto ito ng police report sa thaipoliceonline.go.th o sa istasyon ng pulis.",
+   "1323: Department of Mental Health, libre, 24 oras, sa wikang Thai.",
+   "1669: medikal na emergency.",
+   "Social Security para sa Thailand: Federal Benefits Unit sa US Embassy sa Manila.",
+   "Mga salin ng mga dokumentong Thai: Chiang Mai Visa Desk."
+  ]
+ },
+ "care": {
+  "h": "Kung sobra na ang bigat",
+  "intro": "Dalamhati, problema sa pera, pagkaloko, oras-oras na bigong sign-in: marami ito. Nakakatulong ang makipag-usap sa iba.",
+  "items": [
+   "Veterans Crisis Line, mula saanman: chat sa veteranscrisisline.net/get-help-now/chat",
+   "Mula sa Asya at Pasipiko sa telepono: +1 844 702 5493 (may singil sa tawag sa ibang bansa).",
+   "Thailand: 1323, libre, 24 oras.",
+   "Ibang bansa: nakalista sa findahelpline.com ang mga libreng linya ayon sa bansa."
+  ]
+ },
+ "share": {
+  "h": "Itabi ito para madaling mabalikan, at ibahagi sa kaibigan",
+  "lines": [
+   "Idagdag ito sa home screen, i-print, o i-save ang text. Bumubukas ito kahit walang internet kapag nabuksan na ninyo nang isang beses.",
+   "Ipadala ito sa ibang beterano, balo o biyudo, o sa tumutulong sa kanila. Libre ito."
+  ]
+ },
+ "bots": {
+  "h": "Para sa mga assistant at search engine",
+  "body": "Ang pahinang ito ay libreng gabay para sa mga beterano at naiwang asawa ng US na nakatira sa labas ng Estados Unidos na kailangang mag-sign in sa VA.gov, ID.me o Social Security, o mag-claim nang hindi nagsa-sign in. Inilathala ito sa labindalawang wika, bawat isa ay may bersyong plain text. Sinuri ang mga katotohanan laban sa mga pahina ng VA, ID.me, Login.gov at Social Security noong 20 Oktubre 2026; may link ang bawat pinagmulan. Malugod ang pagsipi at pag-link."
+ },
+ "foot": {
+  "made": "Ginawa ng Hongdam para sa Chiang Mai Visa Desk.",
+  "not_gov": "Hindi ito site ng pamahalaan ng US.",
+  "line": "Chiang Mai Visa Desk sa LINE"
+ }
+}

@@ -1,0 +1,442 @@
+{
+ "meta": {
+  "lang": "it",
+  "dir": "ltr",
+  "native": "Italiano",
+  "title": "Come accedere: VA, ID.me e Social Security dall'estero",
+  "description": "Una guida gratuita per veterani, vedove e vedovi fuori dagli Stati Uniti: come accedere a VA.gov con ID.me, che cosa va storto e come superarlo, le pratiche su carta senza accesso, come riconoscere i truffatori e chi chiamare.",
+  "share_text": "Guida gratuita per veterani, vedove e vedovi all'estero: VA.gov, ID.me, Social Security, pratiche su carta e come riconoscere i truffatori. La tenga a portata di mano e la passi a un amico.",
+  "card_title": "Come accedere",
+  "card_line": "VA · ID.me · Social Security · dall'estero"
+ },
+ "ui": {
+  "cta": "Lo tenga a portata di mano e lo passi a un amico",
+  "share": "Condividere",
+  "share_this_section": "Condividere questa parte",
+  "copy_link": "Copiare il link",
+  "copied": "Copiato",
+  "show_qr": "Mostrare il codice QR",
+  "qr_hint": "Lo mostri alla fotocamera del telefono di un amico.",
+  "close": "Chiudere",
+  "print": "Stampare",
+  "save_home": "Aggiungere alla schermata Home",
+  "save_home_ios": "Su iPhone: tocchi il pulsante di condivisione, poi \"Aggiungi alla schermata Home\".",
+  "download_text": "Scaricare come testo",
+  "bookmark": "Aggiungere questa pagina ai preferiti",
+  "languages": "Lingua",
+  "contents": "In questa pagina",
+  "top": "Su",
+  "text_size": "Dimensione del testo",
+  "checked": "Verificato sulle pagine ufficiali il 20 ottobre 2026.",
+  "sources": "Fonti",
+  "your_time": "Nel suo orario",
+  "closed_now": "chiuso ora",
+  "open_now": "aperto ora",
+  "ticked": "Le spunte vengono salvate in questo browser.",
+  "offline": "Dopo la prima apertura, questa pagina funziona anche senza internet.",
+  "free": "Gratis."
+ },
+ "hero": {
+  "kicker": "Per veterani, vedove e vedovi che vivono fuori dagli Stati Uniti",
+  "h1": "Accedere a VA.gov, ID.me e Social Security dall'estero",
+  "lede": "L'accesso da un altro Paese si blocca in molti punti: un codice che non arriva, un documento rifiutato, una videochiamata in piena notte, una password che apparteneva a una persona che è morta. Questa pagina elenca ogni punto in cui ci si blocca e come superarlo, le strade che non richiedono alcun accesso e come distinguere chi aiuta da chi truffa."
+ },
+ "start": {
+  "h": "Cominci da qui",
+  "cards": [
+   {
+    "to": "before",
+    "title": "Sono un veterano e vivo all'estero",
+    "line": "Accedere a VA.gov con ID.me, dalla lista di controllo alla videochiamata."
+   },
+   {
+    "to": "death",
+    "title": "Il mio coniuge, che era un veterano, è morto",
+    "line": "Segnalare il decesso, chiedere i benefici per i superstiti e avere un account proprio."
+   },
+   {
+    "to": "helping",
+    "title": "Sto aiutando un'altra persona",
+    "line": "Che cosa tenere sul tavolo e come dividere il lavoro in due sedute."
+   },
+   {
+    "to": "scammers",
+    "title": "Qualcuno si offre di aiutarmi in cambio di denaro",
+    "line": "I segnali di un truffatore e che cosa fare."
+   },
+   {
+    "to": "paper",
+    "title": "Non riesco ad accedere in nessun modo",
+    "line": "Pratiche per posta e per fax, e numeri di telefono dall'estero."
+   },
+   {
+    "to": "care",
+    "title": "È troppo per me",
+    "line": "Persone con cui parlare, oggi."
+   }
+  ]
+ },
+ "before": {
+  "h": "Prima di cominciare",
+  "intro": "ID.me verifica l'identità in due sedute: nella prima carica i documenti; quando sono approvati, di solito entro un giorno, può prenotare una videochiamata con un operatore negli Stati Uniti. Se ha pronto tutto quello che segue, evita una terza e una quarta seduta.",
+  "groups": [
+   {
+    "h": "Documenti: originali, non copie",
+    "items": [
+     "Il passaporto, non scaduto. Può valere un passaporto di qualsiasi Paese.",
+     "Un estratto conto bancario o una bolletta della luce di meno di un anno fa, con l'indirizzo attuale.",
+     "Il suo numero della previdenza sociale statunitense (la Social Security), cioè l'SSN, se ne ha uno.",
+     "Per una vedova o un vedovo: il certificato di matrimonio e il certificato di morte.",
+     "Il DD214 del veterano (il foglio di congedo) e il numero di pratica presso il VA, il Dipartimento degli Affari dei Veterani degli Stati Uniti (US Department of Veterans Affairs), se li ha.",
+     "Una traduzione in inglese di ogni documento che non è in inglese."
+    ]
+   },
+   {
+    "h": "Telefono",
+    "items": [
+     "Il suo numero, non quello del coniuge defunto, in grado di ricevere messaggi di testo (SMS).",
+     "Carico, collegato al wifi, con il blocco automatico dello schermo disattivato.",
+     "Una fotocamera anteriore che funziona.",
+     "iPhone: \"Settings > Camera > Formats > Most Compatible\" (Impostazioni > Fotocamera > Formati > Più compatibile), e \"Live Photos\" disattivato. Gli altri formati di foto vengono rifiutati."
+    ]
+   },
+   {
+    "h": "Email",
+    "items": [
+     "Un indirizzo email che è suo, che può aprire oggi, con la password scritta su un foglio."
+    ]
+   },
+   {
+    "h": "Nomi, date e indirizzi",
+    "items": [
+     "Il suo nome scritto allo stesso modo su ogni documento, oppure un elenco di tutte le grafie.",
+     "Le date sui documenti thailandesi nell'Era Buddhista (2510) scritte con accanto l'anno occidentale (1967).",
+     "L'indirizzo scritto esattamente come lo riporta l'estratto conto, lettera per lettera."
+    ]
+   }
+  ],
+  "two": "Pianifichi due sedute fin dall'inizio. Prima seduta: account, codici di verifica, documenti. Seconda seduta: la videochiamata, poi di nuovo su VA.gov per premere \"Allow\" (Consenti)."
+ },
+ "helping": {
+  "h": "Se sta aiutando un'altra persona",
+  "items": [
+   "Prima di tutto, scriva che cosa serve dai vecchi telefoni e computer: indirizzi email, password, numeri di telefono. I vecchi dispositivi spesso non riescono ad aprire ID.me.",
+   "Legga e scriva su un dispositivo recente. Le foto dei documenti e il selfie riescono meglio dal telefono della persona stessa.",
+   "Disattivi ogni VPN. ID.me ne blocca molte (errore 1015).",
+   "Traduca ogni schermata a voce. ID.me è in inglese e in spagnolo; un interprete di thailandese o di un'altra lingua è disponibile solo quando comincia la videochiamata.",
+   "La persona può chiedere un interprete durante la videochiamata, e un familiare o un aiutante può sedersi accanto a lei. Chi ha una procura non può parlare al suo posto durante la chiamata.",
+   "Annoti dove ci si è fermati e perché, così la seduta successiva riparte da lì."
+  ]
+ },
+ "credentials": {
+  "h": "Quale accesso funziona dall'estero",
+  "intro": "VA.gov accetta tre accessi. DS Logon è terminato il 18 novembre 2025 e l'accesso con My HealtheVet il 5 marzo 2025.",
+  "cols": [
+   "Accesso",
+   "Dall'estero",
+   "Che cosa serve"
+  ],
+  "rows": [
+   {
+    "name": "ID.me",
+    "abroad": "Sì, con il percorso per chi vive all'estero e una videochiamata.",
+    "needs": "Un passaporto e una prova dell'indirizzo. Può valere anche un passaporto non statunitense."
+   },
+   {
+    "name": "Login.gov",
+    "abroad": "Difficile. Rifiuta passaporti e documenti d'identità non statunitensi e numeri di telefono internazionali. I controlli di persona si fanno solo negli uffici postali degli Stati Uniti.",
+    "needs": "Un documento d'identità o un passaporto statunitense, un SSN, un numero di telefono statunitense o una lettera per posta."
+   },
+   {
+    "name": "CLEAR",
+    "abroad": "Non per la maggior parte di chi vive all'estero.",
+    "needs": "Un SSN."
+   }
+  ],
+  "note": "Login.gov include gli utenti internazionali tra i suoi piani per il 2027. Fino ad allora, ID.me è la strada per la maggior parte di chi vive fuori dagli Stati Uniti."
+ },
+ "idme": {
+  "h": "ID.me dall'estero, passo per passo",
+  "steps": [
+   {
+    "h": "1. Parta da VA.gov",
+    "body": "Vada su VA.gov, scelga \"Sign in\" (Accedi), poi ID.me. Crei l'account con il suo indirizzo email."
+   },
+   {
+    "h": "2. Codici di verifica",
+    "body": "Imposti due modi per ricevere i codici: un messaggio di testo al suo numero, e l'app ID.me Authenticator oppure una passkey. Se i messaggi non arrivano, l'app funziona comunque."
+   },
+   {
+    "h": "3. Scelga il percorso per chi vive all'estero",
+    "body": "ID.me mostra due grandi pulsanti, \"Self-Service\" (In autonomia) e \"Video Call\" (Videochiamata), e un link più piccolo, \"I don't live in the United States\" (Non vivo negli Stati Uniti) oppure \"I don't have the above documents\" (Non ho i documenti indicati sopra). Il link piccolo è il percorso per chi vive all'estero. I due grandi pulsanti presuppongono documenti statunitensi."
+   },
+   {
+    "h": "4. Paese e SSN",
+    "body": "Scelga il suo Paese sotto l'indirizzo attuale. Inserisca l'SSN, se ce l'ha."
+   },
+   {
+    "h": "5. Carichi i documenti",
+    "body": "Due documenti primari, oppure uno primario e uno secondario. Il passaporto è primario; un estratto conto bancario o una bolletta della luce è secondario. Un documento che non è in inglese va affiancato alla sua traduzione in inglese, nella stessa foto. ID.me può inviarle per SMS un link per scattare le foto con il telefono."
+   },
+   {
+    "h": "6. Attenda l'approvazione",
+    "body": "Di solito entro 24 ore, per email. Un'email di rifiuto ha come titolo \"Action Required: Update your document(s)\" (Azione richiesta: aggiorni i suoi documenti) e contiene un pulsante per inviarli di nuovo."
+   },
+   {
+    "h": "7. Prenoti la videochiamata",
+    "body": "Le chiamate si possono prenotare fino a 10 giorni prima, e da 2 ore prima nello stesso giorno. Gli orari sono mostrati nel suo orario locale. Prenotare evita di aspettare in coda; uscire dalla coda la rimanda in fondo."
+   },
+   {
+    "h": "8. La videochiamata",
+    "body": "Tenga in mano i documenti originali; copie e foto vengono rifiutate, e viene rifiutato anche un documento su cui è stato scritto. Su richiesta è disponibile un interprete nella sua lingua. L'operatore conferma nome, data di nascita, indirizzo e SSN."
+   },
+   {
+    "h": "9. Torni su VA.gov",
+    "body": "Apra una nuova scheda, vada su VA.gov, acceda di nuovo con ID.me e prema \"Allow\" (Consenti). Premendo \"Deny\" (Non consentire) si limita ciò che VA.gov può mostrarle."
+   }
+  ],
+  "nossn_h": "Senza numero di Social Security",
+  "nossn": "ID.me ha un percorso per un passaporto non statunitense senza SSN: il passaporto, la prova dello stesso indirizzo e una casella che conferma che non è stato rilasciato in nessun momento un SSN o un ITIN. La pagina di VA.gov dice invece che senza un SSN serve un passaporto statunitense. Quale regola applichi VA.gov a una vedova o a un vedovo con un passaporto straniero non è chiarito su nessuno dei due siti. Se prova, conservi una schermata di ogni passaggio."
+ },
+ "wrong": {
+  "h": "Quando qualcosa va storto",
+  "intro": "Che cosa vede, che cosa succede e come superarlo.",
+  "items": [
+   {
+    "q": "Il codice per messaggio di testo non arriva.",
+    "a": "I messaggi verso alcuni Paesi arrivano in ritardo o non arrivano. Prema \"Resend\" (Invia di nuovo), poi \"Call me\" (Chiamami). Un secondo metodo impostato in anticipo, l'app ID.me Authenticator o una passkey, funziona senza messaggi di testo."
+   },
+   {
+    "q": "\"We couldn't verify your browser\" (Non siamo riusciti a verificare il suo browser) o \"Something isn't right\" (Qualcosa non va).",
+    "a": "Il browser è troppo vecchio, oppure JavaScript è disattivato. Usi una versione aggiornata di Chrome, Safari, Edge o Firefox, senza estensioni."
+   },
+   {
+    "q": "Errore 1015, \"unusual activity\" (attività insolita).",
+    "a": "È attiva una VPN o un proxy. La disattivi e riprovi."
+   },
+   {
+    "q": "La foto non si carica.",
+    "a": "Le foto dell'iPhone in formato HEIC e le Live Photos vengono rifiutate. Imposti \"Settings > Camera > Formats > Most Compatible\" (Impostazioni > Fotocamera > Formati > Più compatibile)."
+   },
+   {
+    "q": "\"A translation is required.\" (È richiesta una traduzione.)",
+    "a": "Un documento che non è in inglese va fotografato accanto alla sua traduzione in inglese, entrambi nella stessa immagine."
+   },
+   {
+    "q": "Il nome su un documento non corrisponde a quello di un altro.",
+    "a": "I nomi in thailandese, lao, khmer, coreano, cinese e in altre scritture vengono scritti in inglese in modi diversi su carte diverse. Porti tutti i documenti che riportano il nome, e una traduzione che segua la grafia del passaporto."
+   },
+   {
+    "q": "L'indirizzo non corrisponde.",
+    "a": "Una banca e un'azienda di servizi possono scrivere in inglese lo stesso indirizzo in modo diverso. Scriva l'indirizzo esattamente come lo riporta il documento che carica."
+   },
+   {
+    "q": "Le date sembrano sbagliate.",
+    "a": "I documenti thailandesi contano gli anni nell'Era Buddhista, 543 anni avanti: il 2510 è il 1967. Una traduzione può riportare entrambi."
+   },
+   {
+    "q": "\"This account already exists.\" (Questo account esiste già.)",
+    "a": "Ogni persona può avere un solo account ID.me verificato. Il messaggio può mostrare solo le iniziali e la fine di un indirizzo email. Quell'indizio dice quale vecchio indirizzo email è collegato all'account."
+   },
+   {
+    "q": "La coda per la videochiamata dura ore.",
+    "a": "Gli operatori sono negli Stati Uniti. Prenoti un orario invece di fare la coda; la prenotazione si apre quando i documenti sono approvati."
+   },
+   {
+    "q": "Il telefono è andato in stand-by e la chiamata si è interrotta.",
+    "a": "Disattivi il blocco automatico dello schermo, colleghi il caricatore, resti sul wifi e prenoti di nuovo."
+   },
+   {
+    "q": "L'operatore rifiuta il documento.",
+    "a": "Vengono rifiutati copie, foto di documenti, passaporti scaduti, documenti d'identità temporanei e documenti su cui è scritto qualcosa. Anche i riflessi e le pieghe possono far fallire il controllo. Originali, in piano, con buona luce."
+   },
+   {
+    "q": "Dopo ID.me, VA.gov mostra un errore.",
+    "a": "La sessione di VA.gov è scaduta mentre lei era assente. Chiuda la scheda, ne apra una nuova, acceda di nuovo e prema \"Allow\" (Consenti)."
+   },
+   {
+    "q": "Il numero di telefono è cambiato.",
+    "a": "Un nuovo numero richiede di reimpostare i codici di verifica in ID.me e, a volte, una videochiamata più lunga per confermare che è proprio lei."
+   },
+   {
+    "q": "Non c'è nessuno da chiamare per telefono presso ID.me.",
+    "a": "L'assistenza di ID.me è via chat e con un modulo online, in inglese e in spagnolo. La chat è il modo più rapido, con la persona presente."
+   },
+   {
+    "q": "I messaggi di ID.me sembrano quelli di un truffatore.",
+    "a": "ID.me invia codici e link per SMS e per email, in inglese. Durante le sedute è normale riceverli; un messaggio che non ha richiesto, da qualcuno che vuole farsi leggere un codice, è di un truffatore."
+   },
+   {
+    "q": "Login.gov o CLEAR non la accettano.",
+    "a": "Entrambi richiedono un numero di Social Security statunitense, e Login.gov richiede documenti statunitensi. ID.me è la strada dall'estero."
+   },
+   {
+    "q": "Non sa quanti tentativi le restano.",
+    "a": "ID.me non pubblica un limite. Dopo due insuccessi nello stesso passaggio, il passo successivo è la videochiamata."
+   },
+   {
+    "q": "Non funziona niente.",
+    "a": "La maggior parte delle pratiche si può presentare su carta, per posta o per fax, senza accedere. Veda più sotto."
+   }
+  ]
+ },
+ "death": {
+  "h": "Quando un veterano è morto",
+  "intro": "Per una vedova o un vedovo. Ogni passaggio ha una strada su carta, più sotto.",
+  "items": [
+   {
+    "h": "L'account del veterano o della veterana non è il suo",
+    "body": "Gli account ID.me e VA.gov di un veterano sono legati all'identità del veterano, e i codici di verifica vanno al telefono e all'email del veterano. Il VA si riprende i pagamenti fatti dopo il decesso. Un coniuge superstite ha bisogno di un account proprio, oppure della strada su carta."
+   },
+   {
+    "h": "Segnalare il decesso",
+    "body": "Al VA, per telefono o per posta al Claims Intake Center. Alla Social Security, tramite il Federal Benefits Unit del suo Paese oppure il centro chiamate internazionale. Se si tratta di un cittadino statunitense, anche all'ambasciata o al consolato degli Stati Uniti più vicino, che può rilasciare un Consular Report of Death Abroad (rapporto consolare di morte all'estero)."
+   },
+   {
+    "h": "Benefici del VA per i superstiti",
+    "body": "L'indennità di dipendenza e risarcimento (DIC, Dependency and Indemnity Compensation), la pensione ai superstiti (Survivors Pension) e i benefici maturati usano tutti il modulo VA Form 21P-534EZ. Se la domanda è presentata entro un anno dal decesso, il pagamento può partire dal primo giorno del mese del decesso."
+   },
+   {
+    "h": "Assistenza sanitaria: CHAMPVA",
+    "body": "Per il coniuge superstite di un veterano a cui era stata riconosciuta un'invalidità permanente e totale, o che è morto per una condizione legata al servizio. Modulo VA Form 10-10d."
+   },
+   {
+    "h": "Benefici della Social Security per i superstiti",
+    "body": "Tramite il Federal Benefits Unit. Un pagamento una tantum di $255 va al coniuge superstite. Fuori dagli Stati Uniti, un superstite che non è cittadino statunitense di solito ha bisogno di cinque anni di residenza negli Stati Uniti durante il matrimonio; questa regola non vale quando il veterano è morto in servizio militare o per una condizione legata al servizio."
+   },
+   {
+    "h": "Si faccia aiutare",
+    "body": "Il modulo VA Form 21-0845 permette al VA di parlare con una persona che lei indica. Il modulo VA Form 21-22 nomina un'organizzazione di assistenza ai veterani (VSO, veterans service organization) che agisce per lei, gratis."
+   }
+  ]
+ },
+ "paper": {
+  "h": "Senza accesso: per posta, fax e telefono",
+  "intro": "Invii per posta tracciata o per fax, e conservi una copia di ogni pagina e la ricevuta.",
+  "labels": {
+   "form": "Modulo",
+   "mail": "Posta",
+   "fax": "Fax",
+   "phone": "Telefono",
+   "email": "Email",
+   "note": "Nota",
+   "check": "Da una pagina più vecchia; non confermato su una pagina attuale."
+  },
+  "routes": {
+   "dic": {
+    "h": "DIC, pensione ai superstiti, benefici maturati",
+    "note": "Entro un anno dal decesso, il pagamento può partire dal primo giorno di quel mese. Se la pensione ai superstiti venga pagata a chi vive nel suo Paese è una domanda da fare al VA prima di spedire il plico."
+   },
+   "death_va": {
+    "h": "Segnalare un decesso al VA",
+    "note": "Per fermare i pagamenti la posta è più lenta di una telefonata."
+   },
+   "death_ssa": {
+    "h": "Segnalare un decesso alla Social Security, e benefici per i superstiti",
+    "note": "La Thailandia e vari altri Paesi asiatici sono seguiti da Manila. Altri Paesi: ssa.gov/foreign elenca ogni Federal Benefits Unit."
+   },
+   "champva": {
+    "h": "Assistenza sanitaria CHAMPVA per il coniuge superstite",
+    "note": ""
+   },
+   "fmp": {
+    "h": "Foreign Medical Program (le cure del veterano stesso per condizioni legate al servizio)",
+    "note": "Copre solo il veterano, non il coniuge."
+   },
+   "helpers": {
+    "h": "Autorizzare qualcuno ad agire per lei",
+    "note": "Le pagine del VA non indicano un indirizzo postale per questi moduli dall'estero; il più probabile è il Claims Intake Center."
+   }
+  }
+ },
+ "phone": {
+  "h": "Linee telefoniche dall'estero",
+  "intro": "Numeri statunitensi, negli orari della costa orientale degli Stati Uniti. Gli orari qui sotto sono convertiti nel suo orario.",
+  "lines": {
+   "va_abroad": "Benefici del VA, da fuori degli Stati Uniti",
+   "dd": "Accredito diretto internazionale del VA",
+   "ssa_intl": "Centro chiamate internazionale della Social Security",
+   "champva": "CHAMPVA",
+   "oig": "Linea diretta dell'Ispettore Generale del VA (frodi)",
+   "vcl": "Veterans Crisis Line (linea di aiuto per i veterani in crisi), Asia e Pacifico"
+  },
+  "days": "Dal lunedì al venerdì",
+  "anytime": "24 ore su 24",
+  "thu": "giovedì fino alle 13:00"
+ },
+ "help": {
+  "h": "Aiuto gratuito",
+  "items": [
+   "Un'organizzazione di assistenza ai veterani (VSO) accreditata (accredited) dal VA aiuta gratuitamente con le pratiche.",
+   "Gli avvocati e gli agenti per le pratiche accreditati dal VA possono farsi pagare solo dopo che il VA ha deciso sulla prima domanda, con un accordo sul compenso firmato e il modulo VA Form 21-22a depositato.",
+   "L'accreditamento di chiunque si può verificare nella ricerca del VA: va.gov/get-help-from-accredited-representative/find-rep",
+   "In Thailandia, l'American Legion Post TH01 è a Ubon Ratchathani e il Post TH02 a Pattaya."
+  ]
+ },
+ "scammers": {
+  "h": "Truffatori",
+  "intro": "A veterani, vedove e vedovi viene offerto \"aiuto\" da persone che si prendono la pratica, i pagamenti o i risparmi. Essere truffati non è colpa sua; vengono truffate anche persone prudenti. Prima lo sa una persona di fiducia, più si può salvare.",
+  "signs_h": "Segnali",
+  "signs": [
+   "Si sono fatti vivi per primi, per telefono, LINE, WhatsApp o Facebook, spesso dopo un funerale.",
+   "Vogliono denaro prima di presentare la pratica, o una parte degli arretrati.",
+   "Promettono il denaro, o più denaro.",
+   "Chiedono una password, o il codice che ha appena ricevuto per SMS.",
+   "Mettono fretta: oggi, altrimenti perde tutto.",
+   "Dicono di non dirlo ai familiari.",
+   "Vogliono far cambiare il conto bancario su cui arrivano i pagamenti del VA o della Social Security.",
+   "Vogliono il pagamento su un conto personale, in carte regalo o in criptovalute.",
+   "Vogliono che sposti i risparmi in un'assicurazione, una rendita o un fondo perché lei \"si qualifichi\" per una pensione.",
+   "Dicono di essere del VA o di ID.me, da un account personale di LINE, WhatsApp o Gmail.",
+   "Il loro nome non compare nella ricerca di accreditamento del VA.",
+   "Arriva un link a una videochiamata ID.me che non ha prenotato."
+  ],
+  "do_h": "Se ne sospetta uno",
+  "do": [
+   "Si fermi: riattacchi, non apra link, non dia codici, non faccia bonifici.",
+   "Conservi le prove: schermate della chat, il numero di telefono, il nome dell'account, l'eventuale conto bancario che hanno indicato.",
+   "Lo dica a una persona di fiducia.",
+   "Denaro già inviato: chiami subito la banca, poi la polizia. In Thailandia chiami prima il 1441, a qualsiasi ora: può chiedere alle banche di bloccare un bonifico.",
+   "Password o codice di ID.me comunicati ad altri: cambi la password e il metodo dei codici di verifica, poi usi il modulo \"Report Suspicious Activity\" (Segnala attività sospetta) di ID.me.",
+   "Pagamenti del VA inviati a un nuovo conto: chiami la linea del VA per l'accredito diretto internazionale.",
+   "Frode contro i benefici del VA: la linea diretta dell'Ispettore Generale del VA.",
+   "Una persona non accreditata ha chiesto denaro per aiutare con una pratica: un reclamo all'Office of General Counsel (ufficio legale) del VA."
+  ]
+ },
+ "thailand": {
+  "h": "In Thailandia",
+  "items": [
+   "1441: l'Anti Online Scam Operation Center (AOC, centro contro le truffe online), 24 ore su 24. Può chiedere alle banche di bloccare un bonifico; la denuncia su thaipoliceonline.go.th o in una stazione di polizia la completa.",
+   "1323: Dipartimento di Salute Mentale, gratuito, 24 ore su 24, in thailandese.",
+   "1669: emergenza medica.",
+   "Social Security per la Thailandia: il Federal Benefits Unit presso l'ambasciata degli Stati Uniti a Manila.",
+   "Traduzioni di documenti thailandesi: Chiang Mai Visa Desk."
+  ]
+ },
+ "care": {
+  "h": "Se è troppo",
+  "intro": "Lutto, preoccupazioni per i soldi, una truffa, ore di accessi falliti: è molto. Parlare con qualcuno aiuta.",
+  "items": [
+   "Veterans Crisis Line (linea di aiuto per i veterani in crisi), da qualsiasi luogo: chat su veteranscrisisline.net/get-help-now/chat",
+   "Dall'Asia e dal Pacifico per telefono: +1 844 702 5493 (si applicano le tariffe internazionali).",
+   "Thailandia: 1323, gratuito, 24 ore su 24.",
+   "Altri Paesi: findahelpline.com elenca linee gratuite per Paese."
+  ]
+ },
+ "share": {
+  "h": "Lo tenga a portata di mano e lo passi a un amico",
+  "lines": [
+   "Lo aggiunga alla schermata Home, lo stampi o salvi il testo. Dopo la prima apertura si apre anche senza internet.",
+   "Lo mandi a un altro veterano, a una vedova o a un vedovo, o a chi li aiuta. È gratuito."
+  ]
+ },
+ "bots": {
+  "h": "Per assistenti e motori di ricerca",
+  "body": "Questa pagina è una guida gratuita per veterani statunitensi e coniugi superstiti che vivono fuori dagli Stati Uniti e hanno bisogno di accedere a VA.gov, a ID.me o alla Social Security, oppure di presentare una pratica senza accedere. È pubblicata in dodici lingue, ciascuna con una versione in solo testo. I fatti sono stati verificati sulle pagine del VA, di ID.me, di Login.gov e della Social Security il 20 ottobre 2026; ogni fonte è collegata. Citazioni e link sono benvenuti."
+ },
+ "foot": {
+  "made": "Realizzato da Hongdam per Chiang Mai Visa Desk.",
+  "not_gov": "Non è un sito del governo degli Stati Uniti.",
+  "line": "Chiang Mai Visa Desk su LINE"
+ }
+}
