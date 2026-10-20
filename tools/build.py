@@ -187,8 +187,10 @@ def build_page(code, t, langs):
     lines = ""
     for ln in DATA["lines"]:
         hours = ""
+        thu_attr = f' data-thu="{ln["thu"]}"' if ln.get("thu") else ""
+        thu_txt = f' · {e(ph["thu"])} ET' if ln.get("thu") else ""
         if ln.get("tz"):
-            hours = f'<span class="hours js-hours" data-tz="{ln["tz"]}" data-days="{",".join(map(str, ln["days"]))}" data-open="{ln["open"]}" data-close="{ln["close"]}" data-label="{e(u["your_time"])}" data-on="{e(u["open_now"])}" data-off="{e(u["closed_now"])}">{e(ph["days"])}, {ln["open"]}–{ln["close"]} ET</span>'
+            hours = f'<span class="hours js-hours" data-tz="{ln["tz"]}" data-days="{",".join(map(str, ln["days"]))}" data-open="{ln["open"]}" data-close="{ln["close"]}" data-label="{e(u["your_time"])}" data-on="{e(u["open_now"])}" data-off="{e(u["closed_now"])}"{thu_attr}>{e(ph["days"])}, {ln["open"]}–{ln["close"]} ET{thu_txt}</span>'
         elif ln.get("always"):
             hours = f'<span class="hours">{e(ph["anytime"])}</span>'
         lines += f'<li><b>{e(ph["lines"][ln["id"]])}</b> <a class="tel" href="tel:{ln["tel"]}">{e(ln["show"])}</a> {hours}</li>'
@@ -347,7 +349,7 @@ def guide_txt(code, t):
         if tr.get("note"): a(tr["note"])
     ph = t["phone"]; head(ph["h"]); a(ph["intro"])
     for ln in DATA["lines"]:
-        hrs = f' ({ph["days"]}, {ln["open"]}-{ln["close"]} ET)' if ln.get("tz") else (f' ({ph["anytime"]})' if ln.get("always") else "")
+        hrs = f' ({ph["days"]}, {ln["open"]}-{ln["close"]} ET' + (f'; {ph["thu"]} ET' if ln.get("thu") else "") + ')' if ln.get("tz") else (f' ({ph["anytime"]})' if ln.get("always") else "")
         a(f'- {ph["lines"][ln["id"]]}: {ln["show"]}{hrs}')
     head(t["help"]["h"]); [a("- " + x) for x in t["help"]["items"]]
     s = t["scammers"]; head(s["h"]); a(s["intro"]); a(""); a(s["signs_h"]); [a("- " + x) for x in s["signs"]]

@@ -361,7 +361,8 @@
    "vcl": "Veterans Crisis Line, Asya at Pasipiko"
   },
   "days": "Lunes hanggang Biyernes",
-  "anytime": "24 oras"
+  "anytime": "24 oras",
+  "thu": "Huwebes hanggang 13:00"
  },
  "help": {
   "h": "Libreng tulong",
@@ -380,7 +381,7 @@
    "Sila ang unang lumapit sa inyo, sa telepono, LINE, WhatsApp o Facebook, madalas pagkatapos ng libing.",
    "Humihingi sila ng pera bago maghain, o ng bahagi ng back pay.",
    "Ipinapangako nila ang pera, o mas malaking halaga.",
-   "Humihingi sila ng password, o ng code na kasasabi lang sa inyo sa text.",
+   "Humihingi sila ng password, o ng code na kapapadala lang sa inyo sa text.",
    "Minamadali nila kayo: ngayon na, o mawawala sa inyo.",
    "Sinasabi nilang itago ito sa pamilya ninyo.",
    "Gusto nilang palitan ang bank account para sa mga bayad ng VA o Social Security.",

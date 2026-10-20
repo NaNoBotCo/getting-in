@@ -10,4 +10,4 @@ Live: https://nanobotco.github.io/getting-in/
 - `tools/cards.py` — placeholder share cards through headless Chrome.
 - `docs/sw.js` — keeps opened pages readable offline.
 
-Made by Hongdam for Chiang Mai Visa Desk. Facts checked against VA, ID.me, Login.gov and Social Security pages on 2026-10-20; the research and barrier list live in `~/Developer/claude code projects/idme-abroad/`.
+Made by Hongdam for Chiang Mai Visa Desk. Facts checked against VA, ID.me, Login.gov and Social Security pages on 2026-10-20; each source is listed in `src/data.json`.

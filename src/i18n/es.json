@@ -361,7 +361,8 @@
    "vcl": "Veterans Crisis Line (Línea de Crisis para Veteranos), Asia y el Pacífico"
   },
   "days": "De lunes a viernes",
-  "anytime": "24 horas"
+  "anytime": "24 horas",
+  "thu": "jueves hasta las 13:00"
  },
  "help": {
   "h": "Ayuda gratuita",

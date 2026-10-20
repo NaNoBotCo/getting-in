@@ -2,9 +2,11 @@
 (function () {
   var b = document.body, url = b.dataset.url, title = b.dataset.title, text = b.dataset.text;
   function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+  var live = document.createElement("div"); live.className = "toast"; live.setAttribute("role", "status"); live.hidden = true;
+  document.body.appendChild(live); var tt;
   function toast(msg) {
-    var t = document.createElement("div"); t.className = "toast"; t.textContent = msg; t.setAttribute("role", "status");
-    document.body.appendChild(t); setTimeout(function () { t.remove(); }, 1800);
+    clearTimeout(tt); live.hidden = false; live.textContent = msg;
+    tt = setTimeout(function () { live.hidden = true; live.textContent = ""; }, Math.max(2500, msg.length * 80));
   }
   function copy(s, msg) {
     var done = function () { toast(msg || "✓"); };
@@ -78,10 +80,12 @@
     var now = new Date();
     document.querySelectorAll(".js-hours").forEach(function (h) {
       var tz = h.dataset.tz, o = wall(tz, h.dataset.open, now), c = wall(tz, h.dataset.close, now);
+      var thu = new Intl.DateTimeFormat("en-US", { timeZone: tz, weekday: "short" }).format(now) === "Thu";
+      var cNow = thu && h.dataset.thu ? wall(tz, h.dataset.thu, now) : c;
       var f = new Intl.DateTimeFormat(lang, { hour: "numeric", minute: "2-digit" });
       var dayNY = new Intl.DateTimeFormat("en-US", { timeZone: tz, weekday: "short" }).format(now);
       var dnum = { Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6 }[dayNY];
-      var open = h.dataset.days.split(",").indexOf(String(dnum)) > -1 && now >= o && now < c;
+      var open = h.dataset.days.split(",").indexOf(String(dnum)) > -1 && now >= o && now < cNow;
       var line = document.createElement("span");
       line.innerHTML = "";
       line.appendChild(document.createTextNode(h.dataset.label + ": " + f.format(o) + "–" + f.format(c) + " · "));

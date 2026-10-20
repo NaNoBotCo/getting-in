@@ -8,7 +8,13 @@ self.addEventListener("activate", function (e) {
 self.addEventListener("fetch", function (e) {
   if (e.request.method !== "GET" || new URL(e.request.url).origin !== location.origin) return;
   e.respondWith(fetch(e.request).then(function (r) {
-    if (r.ok) { var copy = r.clone(); caches.open(CACHE).then(function (c) { c.put(e.request, copy); }); }
+    if (r.ok && r.type === "basic") { var copy = r.clone(); e.waitUntil(caches.open(CACHE).then(function (c) { return c.put(e.request, copy); })); }
     return r;
-  }).catch(function () { return caches.match(e.request, { ignoreSearch: true }); }));
+  }).catch(function () {
+    return caches.match(e.request, { ignoreSearch: true }).then(function (hit) {
+      if (hit) return hit;
+      if (e.request.mode === "navigate") return caches.match("./").then(function (home) { return home || new Response("Offline", { status: 503 }); });
+      return new Response("", { status: 503, statusText: "Offline" });
+    });
+  }));
 });

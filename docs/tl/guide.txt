@@ -168,7 +168,7 @@ Mga numerong US, sa oras ng US Eastern. Ang mga oras sa ibaba ay nakumberte sa o
 - International direct deposit ng VA: +1 918 781 7550 (Lunes hanggang Biyernes, 09:00-17:30 ET)
 - International call center ng Social Security: +1 855 522 6936
 - CHAMPVA: +1 800 733 8387
-- Hotline ng VA Inspector General (panloloko): +1 800 488 8244 (Lunes hanggang Biyernes, 09:30-15:30 ET)
+- Hotline ng VA Inspector General (panloloko): +1 800 488 8244 (Lunes hanggang Biyernes, 09:30-15:30 ET; Huwebes hanggang 13:00 ET)
 - Veterans Crisis Line, Asya at Pasipiko: +1 844 702 5493 (24 oras)
 
 LIBRENG TULONG
@@ -184,7 +184,7 @@ Mga palatandaan
 - Sila ang unang lumapit sa inyo, sa telepono, LINE, WhatsApp o Facebook, madalas pagkatapos ng libing.
 - Humihingi sila ng pera bago maghain, o ng bahagi ng back pay.
 - Ipinapangako nila ang pera, o mas malaking halaga.
-- Humihingi sila ng password, o ng code na kasasabi lang sa inyo sa text.
+- Humihingi sila ng password, o ng code na kapapadala lang sa inyo sa text.
 - Minamadali nila kayo: ngayon na, o mawawala sa inyo.
 - Sinasabi nilang itago ito sa pamilya ninyo.
 - Gusto nilang palitan ang bank account para sa mga bayad ng VA o Social Security.

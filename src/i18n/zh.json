@@ -361,7 +361,8 @@
    "vcl": "退伍军人危机热线（Veterans Crisis Line），亚洲和太平洋地区"
   },
   "days": "星期一至星期五",
-  "anytime": "24 小时"
+  "anytime": "24 小时",
+  "thu": "周四至13:00"
  },
  "help": {
   "h": "免费帮助",

@@ -5,10 +5,10 @@ Marcus makes the designed ones (ticket); his files replace docs/<lang>/card.png.
 
   python3 tools/cards.py en th ...
 """
-import html, json, pathlib, subprocess, sys, tempfile
+import html, json, os, pathlib, subprocess, sys, tempfile
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+CHROME = os.environ.get("CHROME", "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
 FONT = {"th": "'Thonburi', 'Sukhumvit Set'", "lo": "'Lao Sangam MN', 'Lao MN'", "km": "'Khmer Sangam MN', 'Khmer MN'",
         "ko": "'Apple SD Gothic Neo'", "ja": "'Hiragino Sans', 'Hiragino Kaku Gothic ProN'", "zh": "'PingFang SC', 'Hiragino Sans GB'"}
 KEY = ('<svg viewBox="0 0 512 512" width="150" height="150"><circle cx="256" cy="190" r="88" fill="none" stroke="#C79A3A" stroke-width="40"/>'
